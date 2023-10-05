@@ -1,0 +1,1352 @@
+Customer ID,Full Name,Country,Country Code,City,Gender,Ethnicity,Business Unit,Product Category,Product,Purchage Amount,Price,Qty,Discount,Total Price,GST Rate,Shipment mode
+US1,Emily Davis,United States,US,Seattle,Female,Black,B2B,Home Appliance,Vacuum Cleaner,1102,3800,32,47%,64448,18%,Air
+CH1,Theodore Dinh,China,CH,Chongqing,Male,Asian,B2C,Office Equipment,Printer,10488,43700,2,12%,76912,18%,Air
+US2,Luna Sanders,United States,US,Chicago,Female,Caucasian,B2C,Office Equipment,Desktop,12292,43900,1,10%,39510,18%,Air
+US3,Penelope Jordan,United States,US,Chicago,Female,Caucasian,B2C,Office Equipment,Oven,4966,19100,2,0%,38200,18%,Air
+US4,Austin Vo,United States,US,Phoenix,Male,Asian,B2C,Office Equipment,Oven,3465,10500,1,3%,10185,18%,Air
+CH2,Joshua Gupta,China,CH,Chongqing,Male,Asian,B2C,Home Appliance,TV,19620,65400,3,2%,192276,18%,Air
+US5,Ruby Barnes,United States,US,Phoenix,Female,Caucasian,B2C,Office Equipment,Printer,2820,14100,1,3%,13677,18%,Air
+US6,Luke Martin,United States,US,Miami,Male,Black,B2C,Home Appliance,Air Purifier,12775,36500,2,0%,73000,18%,Air
+US7,Easton Bailey,United States,US,Austin,Male,Caucasian,B2C,Office Equipment,Printer,5616,20800,1,10%,18720,18%,Air
+US8,Madeline Walker,United States,US,Chicago,Female,Caucasian,B2C,Home Appliance,Oven,4401,16300,3,5%,46455,18%,Air
+US9,Savannah Ali,United States,US,Miami,Female,Asian,B2C,Office Equipment,Laptop,8580,42900,2,13%,74646,18%,Air
+US10,Camila Rogers,United States,US,Seattle,Female,Caucasian,B2C,Office Equipment,Laptop,19494,51300,1,10%,46170,18%,Air
+US11,Eli Jones,United States,US,Austin,Male,Caucasian,B2C,Home Appliance,Fridge,12880,36800,3,0%,110400,18%,Air
+CH3,Everleigh Ng,China,CH,Shanghai,Female,Asian,B2C,Office Equipment,Mircowave,3270,10900,2,14%,18748,18%,Air
+US12,Robert Yang,United States,US,Austin,Male,Asian,B2C,Home Appliance,Fridge,11004,52400,2,5%,99560,18%,Air
+US13,Isabella Xi,United States,US,Seattle,Female,Asian,B2C,Office Equipment,Laptop,23780,82000,2,1%,162360,18%,Air
+US14,Bella Powell,United States,US,Phoenix,Female,Black,B2C,Home Appliance,Oven,3040,9500,3,3%,27645,18%,Air
+US15,Camila Silva,United States,US,Seattle,Female,Latino,B2C,Home Appliance,AC,17460,87300,1,11%,77697,28%,Air
+US16,David Barnes,United States,US,Columbus,Male,Caucasian,B2B,Home Appliance,TV,8295,39500,36,38%,881640,18%,Air
+CH4,Adam Dang,China,CH,Chongqing,Male,Asian,B2C,Office Equipment,Desktop,10920,31200,2,4%,59904,18%,Air
+BR1,Elias Alvarado,Brazil,BR,Manaus,Male,Latino,B2B,Home Appliance,AC,25812,95600,15,39%,874740,28%,Air
+US17,Eva Rivera,United States,US,Miami,Female,Latino,B2B,Office Equipment,Oven,2793,13300,41,34%,359898,18%,Air
+BR2,Logan Rivera,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Home Appliance,AC,16324,74200,1,13%,64554,28%,Air
+US18,Leonardo Dixon,United States,US,Seattle,Male,Caucasian,B2B,Home Appliance,Oven,3841,16700,36,36%,384768,18%,Air
+CH5,Mateo Her,China,CH,Chongqing,Male,Asian,B2C,Home Appliance,Air Purifier,3888,14400,2,13%,25056,18%,Air
+US19,Jose Henderson,United States,US,Columbus,Male,Black,B2C,Office Equipment,Mircowave,2640,11000,1,13%,9570,18%,Air
+BR3,Abigail Mejia,Brazil,BR,Rio de Janerio,Female,Latino,B2C,Home Appliance,waching machine,9988,45400,1,4%,43584,28%,Air
+US20,Wyatt Chin,United States,US,Seattle,Male,Asian,B2C,Home Appliance,waching machine,13300,66500,1,15%,56525,28%,Air
+CH6,Carson Lu,China,CH,Beijing,Male,Asian,B2C,Office Equipment,Printer,17080,42700,3,8%,117852,18%,Air
+CH7,Dylan Choi,China,CH,Beijing,Male,Asian,B2C,Office Equipment,Printer,14001,35900,2,8%,66056,18%,Air
+US21,Ezekiel Kumar,United States,US,Columbus,Male,Asian,B2C,Home Appliance,AC,41300,147500,3,3%,429225,28%,Air
+BR4,Dominic Guzman,Brazil,BR,Manaus,Male,Latino,B2C,Home Appliance,Mircowave,2838,12900,3,14%,33282,18%,Air
+US22,Angel Powell,United States,US,Seattle,Male,Caucasian,B2C,Home Appliance,AC,35282,135700,3,6%,382674,28%,Air
+CH8,Mateo Vu,China,CH,Chongqing,Male,Asian,B2C,Home Appliance,Oven,2496,6400,3,15%,16320,18%,Air
+US23,Caroline Jenkins,United States,US,Chicago,Female,Caucasian,B2C,Home Appliance,Vacuum Cleaner,1440,4500,2,3%,8730,18%,Air
+US24,Nora Brown,United States,US,Austin,Female,Caucasian,B2C,Home Appliance,TV,54714,165800,1,2%,162484,18%,Air
+CH9,Adeline Huang,China,CH,Chengdu,Female,Asian,B2C,Home Appliance,waching machine,27560,68900,1,0%,68900,28%,Air
+US25,Jackson Perry,United States,US,Phoenix,Male,Caucasian,B2C,Home Appliance,Mircowave,1035,4500,1,3%,4365,18%,Air
+US26,Riley Padilla,United States,US,Miami,Female,Latino,B2C,Home Appliance,Air Purifier,14985,40500,3,14%,104490,18%,Air
+BR5,Leah Pena,Brazil,BR,Manaus,Female,Latino,B2B,Home Appliance,Dishwasher,10878,51800,42,41%,1283604,18%,Air
+CH10,Owen Lam,China,CH,Chengdu,Male,Asian,B2C,Home Appliance,Dishwasher,6952,31600,3,7%,88164,18%,Air
+US27,Kennedy Foster,United States,US,Austin,Female,Caucasian,B2C,Home Appliance,Fridge,10480,52400,1,15%,44540,18%,Air
+US28,John Moore,United States,US,Seattle,Male,Caucasian,B2C,Home Appliance,Mircowave,2100,6000,3,6%,16920,18%,Air
+CH11,William Vu,China,CH,Shanghai,Male,Asian,B2C,Office Equipment,Mircowave,2943,10900,1,7%,10137,18%,Air
+US29,Sadie Washington,United States,US,Phoenix,Female,Caucasian,B2C,Home Appliance,Vacuum Cleaner,1056,4800,1,10%,4320,18%,Air
+US30,Gabriel Holmes,United States,US,Seattle,Male,Caucasian,B2C,Office Equipment,Printer,6693,29100,3,6%,82062,18%,Air
+US31,Wyatt Rojas,United States,US,Austin,Male,Latino,B2B,Office Equipment,Desktop,9724,28600,32,39%,558272,18%,Air
+US32,Eva Coleman,United States,US,Seattle,Female,Black,B2C,Office Equipment,Telephone,825,3300,3,3%,9603,18%,Air
+US33,Dominic Clark,United States,US,Phoenix,Male,Caucasian,B2B,Home Appliance,AC,30050,120200,34,31%,2819892,28%,Air
+US34,Lucy Alexander,United States,US,Seattle,Female,Caucasian,B2C,Home Appliance,Mircowave,4650,15000,1,5%,14250,18%,Air
+US35,Everleigh Washington,United States,US,Phoenix,Female,Caucasian,B2C,Home Appliance,Fridge,7192,24800,1,6%,23312,18%,Air
+US36,Leilani Butler,United States,US,Phoenix,Female,Black,B2C,Home Appliance,AC,34272,122400,3,8%,337824,28%,Air
+CH12,Peyton Huang,China,CH,Beijing,Female,Asian,B2C,Office Equipment,Telephone,1617,4900,1,6%,4606,18%,Air
+US37,John Contreras,United States,US,Columbus,Male,Latino,B2C,Home Appliance,Air Purifier,9888,41200,2,3%,79928,18%,Air
+US38,Rylee Yu,United States,US,Seattle,Female,Asian,B2C,Office Equipment,Oven,3080,15400,1,13%,13398,18%,Air
+US39,Piper Lewis,United States,US,Chicago,Female,Caucasian,B2C,Office Equipment,Laptop,29232,81200,2,0%,162400,18%,Air
+US40,Stella Alexander,United States,US,Chicago,Female,Caucasian,B2C,Home Appliance,waching machine,4725,18900,3,0%,56700,28%,Air
+US41,Addison Do,United States,US,Columbus,Female,Asian,B2C,Office Equipment,Laptop,16100,46000,2,13%,80040,18%,Air
+US42,Zoey Jackson,United States,US,Miami,Female,Black,B2C,Office Equipment,Coffee Vender Machin,22386,57400,2,10%,103320,18%,Air
+CH13,John Chow,China,CH,Chengdu,Male,Asian,B2C,Office Equipment,Laptop,7140,25500,2,5%,48450,18%,Air
+BR6,Ava Ayala,Brazil,BR,Manaus,Female,Latino,B2B,Office Equipment,Desktop,13764,44400,14,45%,341880,18%,Air
+BR7,Natalia Salazar,Brazil,BR,Manaus,Female,Latino,B2C,Home Appliance,waching machine,27608,81200,3,5%,231420,28%,Air
+US43,Skylar Carrillo,United States,US,Austin,Female,Latino,B2C,Office Equipment,Telephone,552,2300,3,13%,6003,18%,Air
+US44,Christian Sanders,United States,US,Seattle,Male,Black,B2C,Home Appliance,Fridge,10362,31400,3,14%,81012,18%,Air
+US45,Penelope Coleman,United States,US,Miami,Female,Black,B2B,Home Appliance,Fridge,5312,16600,14,48%,120848,18%,Air
+US46,Piper Richardson,United States,US,Columbus,Female,Caucasian,B2C,Office Equipment,Telephone,858,3300,3,4%,9504,18%,Air
+US47,Everly Walker,United States,US,Seattle,Female,Caucasian,B2C,Home Appliance,Mircowave,4824,13400,1,0%,13400,18%,Air
+US48,Aurora Ali,United States,US,Seattle,Female,Asian,B2C,Office Equipment,Coffee Vender Machin,20384,78400,1,5%,74480,18%,Air
+US49,Penelope Guerrero,United States,US,Seattle,Female,Latino,B2B,Office Equipment,Coffee Vender Machin,23166,70200,24,45%,926640,18%,Air
+US50,Anna Mehta,United States,US,Seattle,Female,Asian,B2B,Home Appliance,Air Purifier,5980,23000,34,38%,484840,18%,Air
+US51,William Foster,United States,US,Phoenix,Male,Caucasian,B2C,Home Appliance,waching machine,21351,64700,1,13%,56289,28%,Air
+US52,Jade Rojas,United States,US,Phoenix,Female,Latino,B2B,Office Equipment,Laptop,14123,48700,49,30%,1670410,18%,Air
+BR8,Isla Espinoza,Brazil,BR,Manaus,Female,Latino,B2C,Office Equipment,Mircowave,3549,9100,3,1%,27027,18%,Air
+US53,David Chu,United States,US,Seattle,Male,Asian,B2C,Home Appliance,Dishwasher,8200,32800,2,8%,60352,18%,Air
+BR9,Thomas Padilla,Brazil,BR,Sao Paulo,Male,Latino,B2C,Home Appliance,Dishwasher,10948,39100,2,4%,75072,18%,Air
+BR10,Miles Salazar,Brazil,BR,Sao Paulo,Male,Latino,B2C,Home Appliance,TV,44948,132200,3,7%,368838,18%,Air
+CH14,Mila Hong,China,CH,Chongqing,Female,Asian,B2C,Home Appliance,waching machine,29156,78800,1,7%,73284,28%,Air
+CH15,Benjamin Moua,China,CH,Chongqing,Male,Asian,B2C,Home Appliance,Dishwasher,11739,30100,3,1%,89397,18%,Air
+US54,Samuel Morales,United States,US,Phoenix,Male,Latino,B2C,Home Appliance,Mircowave,1440,6000,3,5%,17100,18%,Air
+US55,John Soto,United States,US,Phoenix,Male,Latino,B2C,Office Equipment,Coffee Vender Machin,28462,74900,2,9%,136318,18%,Air
+US56,Joseph Martin,United States,US,Miami,Male,Black,B2C,Office Equipment,Mircowave,2044,7300,3,10%,19710,18%,Air
+US57,Jose Ross,United States,US,Miami,Male,Caucasian,B2B,Office Equipment,Laptop,5200,26000,49,40%,764400,18%,Air
+US58,Parker James,United States,US,Austin,Male,Black,B2C,Home Appliance,Oven,2040,6000,3,9%,16380,18%,Air
+BR11,Everleigh Fernandez,Brazil,BR,Manaus,Female,Latino,B2C,Home Appliance,Vacuum Cleaner,748,3400,1,8%,3128,18%,Air
+US59,Lincoln Hall,United States,US,Chicago,Male,Caucasian,B2C,Home Appliance,Vacuum Cleaner,1176,4900,2,6%,9212,18%,Air
+CH16,Willow Mai,China,CH,Chengdu,Female,Asian,B2C,Home Appliance,Mircowave,1955,8500,1,2%,8330,18%,Air
+CH17,Jack Cheng,China,CH,Beijing,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,2106,5400,1,12%,4752,18%,Air
+BR12,Genesis Navarro,Brazil,BR,Manaus,Female,Latino,B2B,Office Equipment,Printer,3875,15500,23,38%,221030,18%,Air
+BR13,Eliza Hernandez,Brazil,BR,Rio de Janerio,Female,Latino,B2C,Home Appliance,TV,9702,44100,1,4%,42336,18%,Air
+US60,Gabriel Brooks,United States,US,Miami,Male,Caucasian,B2C,Home Appliance,Air Purifier,9724,28600,3,9%,78078,18%,Air
+CH18,Jack Huynh,China,CH,Chongqing,Male,Asian,B2C,Home Appliance,Mircowave,1029,4900,2,5%,9310,18%,Air
+CH19,Everly Chow,China,CH,Beijing,Female,Asian,B2C,Home Appliance,Dishwasher,12122,41800,1,2%,40964,18%,Air
+BR14,Amelia Salazar,Brazil,BR,Sao Paulo,Female,Latino,B2B,Home Appliance,Mircowave,1950,6500,12,36%,49920,18%,Air
+US61,Xavier Zheng,United States,US,Austin,Male,Asian,B2B,Office Equipment,Laptop,10758,32600,48,38%,970176,18%,Air
+US62,Matthew Chau,United States,US,Seattle,Male,Asian,B2C,Home Appliance,Oven,2700,9000,3,6%,25380,18%,Air
+US63,Mia Cheng,United States,US,Phoenix,Female,Asian,B2C,Office Equipment,Telephone,1216,3800,3,1%,11286,18%,Air
+CH20,Rylee Yu,China,CH,Beijing,Female,Asian,B2C,Home Appliance,TV,40274,154900,2,4%,297408,18%,Air
+BR15,Zoe Romero,Brazil,BR,Sao Paulo,Female,Latino,B2C,Office Equipment,Mircowave,1940,9700,3,14%,25026,18%,Air
+CH21,Nolan Bui,China,CH,Shanghai,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,13149,48700,1,1%,48213,18%,Air
+US64,Nevaeh Jones,United States,US,Austin,Female,Caucasian,B2C,Office Equipment,Telephone,242,1100,3,13%,2871,18%,Air
+US65,Samantha Adams,United States,US,Seattle,Female,Caucasian,B2C,Home Appliance,Fridge,17427,47100,1,12%,41448,18%,Air
+US66,Madeline Shin,United States,US,Seattle,Female,Asian,B2C,Home Appliance,Air Purifier,9976,34400,3,0%,103200,18%,Air
+US67,Noah King,United States,US,Miami,Male,Black,B2C,Office Equipment,Telephone,868,2800,2,5%,5320,18%,Air
+CH22,Leilani Chow,China,CH,Beijing,Female,Asian,B2C,Office Equipment,Mircowave,1680,5600,3,0%,16800,18%,Air
+US68,Connor Simmons,United States,US,Miami,Male,Caucasian,B2C,Office Equipment,Printer,17568,48800,3,9%,133224,18%,Air
+US69,Grayson Cooper,United States,US,Columbus,Male,Black,B2C,Office Equipment,Printer,18468,51300,2,1%,101574,18%,Air
+US70,Ivy Soto,United States,US,Austin,Female,Latino,B2C,Home Appliance,waching machine,15225,72500,3,7%,202275,28%,Air
+US71,Aurora Simmons,United States,US,Austin,Female,Caucasian,B2C,Home Appliance,Dishwasher,9338,32200,3,6%,90804,18%,Air
+US72,Andrew Thomas,United States,US,Columbus,Male,Caucasian,B2B,Home Appliance,Dishwasher,14730,49100,19,35%,606385,18%,Air
+US73,Ezekiel Desai,United States,US,Seattle,Male,Asian,B2C,Home Appliance,Air Purifier,11281,38900,1,3%,37733,18%,Air
+CH23,Gabriella Gupta,China,CH,Shanghai,Female,Asian,B2C,Home Appliance,Oven,6755,19300,1,9%,17563,18%,Air
+CH24,Skylar Liu,China,CH,Chengdu,Female,Asian,B2C,Home Appliance,Fridge,10143,44100,2,3%,85554,18%,Air
+US74,Nova Coleman,United States,US,Miami,Female,Caucasian,B2C,Office Equipment,Mircowave,5694,14600,3,5%,41610,18%,Air
+US75,Evelyn Dinh,United States,US,Columbus,Female,Asian,B2C,Office Equipment,Coffee Vender Machin,25952,81100,1,6%,76234,18%,Air
+US76,Brooks Marquez,United States,US,Chicago,Male,Latino,B2C,Home Appliance,AC,45477,146700,3,3%,426897,28%,Air
+US77,Connor Joseph,United States,US,Chicago,Male,Caucasian,B2C,Office Equipment,Mircowave,2106,8100,2,15%,13770,18%,Air
+US78,Mia Lam,United States,US,Austin,Female,Asian,B2C,Office Equipment,Printer,12600,31500,3,2%,92610,18%,Air
+BR16,Scarlett Rodriguez,Brazil,BR,Manaus,Female,Latino,B2C,Home Appliance,Vacuum Cleaner,2016,5600,3,4%,16128,18%,Air
+US79,Cora Rivera,United States,US,Seattle,Female,Latino,B2B,Office Equipment,Oven,1232,5600,26,33%,97552,18%,Air
+CH25,Liam Jung,China,CH,Chengdu,Male,Asian,B2C,Home Appliance,Oven,2499,11900,2,4%,22848,18%,Air
+US80,Sophia Huynh,United States,US,Miami,Female,Asian,B2C,Office Equipment,Coffee Vender Machin,26688,83400,2,4%,160128,18%,Air
+US81,Athena Carrillo,United States,US,Columbus,Female,Latino,B2C,Home Appliance,TV,23205,59500,1,12%,52360,18%,Air
+US82,Greyson Sanders,United States,US,Chicago,Male,Black,B2C,Home Appliance,Oven,2379,6100,1,9%,5551,18%,Air
+US83,Vivian Lewis,United States,US,Columbus,Female,Caucasian,B2C,Office Equipment,Oven,4925,19700,1,12%,17336,18%,Air
+CH26,Elena Vang,China,CH,Beijing,Female,Asian,B2C,Home Appliance,Oven,5775,16500,1,11%,14685,18%,Air
+US84,Natalia Diaz,United States,US,Austin,Female,Latino,B2C,Office Equipment,Desktop,9750,32500,2,5%,61750,18%,Air
+CH27,Mila Leung,China,CH,Beijing,Female,Asian,B2B,Home Appliance,Air Purifier,13838,40700,23,38%,580382,18%,Raod
+US85,Ava Nelson,United States,US,Phoenix,Female,Caucasian,B2C,Office Equipment,Laptop,7488,28800,3,8%,79488,18%,Air
+CH28,Mateo Chu,China,CH,Chengdu,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,15424,48200,2,3%,93508,18%,Air
+CH29,Isla Lai,China,CH,Shanghai,Female,Asian,B2C,Office Equipment,Laptop,19880,56800,1,4%,54528,18%,Air
+US86,Ezekiel Reed,United States,US,Miami,Male,Caucasian,B2C,Office Equipment,Mircowave,3144,13100,2,15%,22270,18%,Air
+BR17,Nolan Guzman,Brazil,BR,Sao Paulo,Male,Latino,B2C,Office Equipment,Coffee Vender Machin,21021,53900,1,11%,47971,18%,Air
+US87,Everleigh Espinoza,United States,US,Austin,Female,Latino,B2C,Home Appliance,Oven,1624,5800,3,10%,15660,18%,Air
+CH30,Evelyn Jung,China,CH,Beijing,Female,Asian,B2C,Office Equipment,Telephone,962,3700,2,15%,6290,18%,Air
+BR18,Sophie Silva,Brazil,BR,Rio de Janerio,Female,Latino,B2C,Office Equipment,Desktop,10710,30600,2,11%,54468,18%,Air
+US88,Mateo Williams,United States,US,Austin,Male,Caucasian,B2C,Home Appliance,waching machine,10626,46200,3,15%,117810,28%,Air
+CH31,Kennedy Rahman,China,CH,Chongqing,Female,Asian,B2C,Home Appliance,Vacuum Cleaner,2128,5600,2,13%,9744,18%,Air
+BR19,Levi Mendez,Brazil,BR,Rio de Janerio,Male,Latino,B2B,Office Equipment,Telephone,504,2100,19,47%,21147,18%,Air
+CH32,Julian Fong,China,CH,Chongqing,Male,Asian,B2C,Office Equipment,Telephone,1305,4500,1,4%,4320,18%,Air
+CH33,Nevaeh Kang,China,CH,Chengdu,Female,Asian,B2C,Office Equipment,Telephone,1008,2800,2,10%,5040,18%,Air
+US89,Hannah Nelson,United States,US,Austin,Female,Caucasian,B2B,Home Appliance,Vacuum Cleaner,1760,4400,18,43%,45144,18%,Air
+US90,Anthony Rogers,United States,US,Columbus,Male,Caucasian,B2C,Office Equipment,Telephone,1598,4700,2,7%,8742,18%,Air
+CH34,Paisley Kang,China,CH,Beijing,Female,Asian,B2C,Office Equipment,Desktop,11739,30100,1,15%,25585,18%,Air
+CH35,Matthew Gupta,China,CH,Beijing,Male,Asian,B2C,Home Appliance,AC,22914,60300,1,15%,51255,28%,Air
+US91,Silas Chavez,United States,US,Columbus,Male,Latino,B2C,Home Appliance,Vacuum Cleaner,1692,4700,1,5%,4465,18%,Air
+CH36,Colton Thao,China,CH,Chongqing,Male,Asian,B2B,Home Appliance,Dishwasher,13455,34500,42,42%,840420,18%,Raod
+US92,Genesis Perry,United States,US,Columbus,Female,Caucasian,B2C,Home Appliance,Air Purifier,4860,16200,1,13%,14094,18%,Air
+US93,Alexander Bryant,United States,US,Seattle,Male,Caucasian,B2C,Office Equipment,Printer,8398,24700,2,13%,42978,18%,Air
+CH37,Elias Zhang,China,CH,Beijing,Male,Asian,B2B,Home Appliance,Vacuum Cleaner,1664,5200,32,42%,96512,18%,Raod
+US94,Lily Carter,United States,US,Phoenix,Female,Caucasian,B2C,Home Appliance,waching machine,28800,72000,2,13%,125280,28%,Air
+BR20,Joseph Ruiz,Brazil,BR,Sao Paulo,Male,Latino,B2B,Office Equipment,Laptop,13350,53400,23,36%,786048,18%,Air
+US95,Avery Bailey,United States,US,Phoenix,Female,Caucasian,B2C,Home Appliance,Fridge,5481,26100,2,0%,52200,18%,Air
+CH38,Miles Hsu,China,CH,Chengdu,Male,Asian,B2B,Office Equipment,Mircowave,3472,11200,33,46%,199584,18%,Raod
+US96,Piper Cheng,United States,US,Miami,Female,Asian,B2C,Home Appliance,Dishwasher,13650,54600,2,10%,98280,18%,Air
+US97,Skylar Watson,United States,US,Phoenix,Female,Caucasian,B2C,Home Appliance,Mircowave,3450,15000,2,1%,29700,18%,Air
+CH39,Jaxon Park,China,CH,Chengdu,Male,Asian,B2C,Home Appliance,Mircowave,2940,14000,1,4%,13440,18%,Air
+US98,Elijah Henry,United States,US,Miami,Male,Caucasian,B2B,Home Appliance,TV,18390,61300,24,43%,838584,18%,Air
+US99,Camila Watson,United States,US,Austin,Female,Caucasian,B2C,Office Equipment,Laptop,10857,51700,2,14%,88924,18%,Air
+US100,Lucas Thomas,United States,US,Miami,Male,Caucasian,B2B,Home Appliance,Dishwasher,16302,42900,26,50%,557700,18%,Air
+US101,Skylar Doan,United States,US,Seattle,Female,Asian,B2B,Home Appliance,Mircowave,3718,14300,32,39%,279136,18%,Air
+US102,Hudson Liu,United States,US,Miami,Male,Asian,B2B,Home Appliance,Vacuum Cleaner,1287,3900,18,50%,35100,18%,Air
+US103,Gianna Williams,United States,US,Chicago,Female,Black,B2B,Office Equipment,Oven,5320,15200,31,49%,240312,18%,Air
+BR21,Jaxson Sandoval,Brazil,BR,Sao Paulo,Male,Latino,B2C,Office Equipment,Telephone,665,1900,3,0%,5700,18%,Air
+BR22,Jameson Alvarado,Brazil,BR,Sao Paulo,Male,Latino,B2C,Home Appliance,AC,37740,102000,2,15%,173400,28%,Air
+CH40,Joseph Ly,China,CH,Chongqing,Male,Asian,B2C,Home Appliance,AC,30534,145400,3,9%,396942,28%,Air
+US104,Daniel Richardson,United States,US,Austin,Male,Caucasian,B2C,Home Appliance,Mircowave,3696,11200,2,4%,21504,18%,Air
+US105,Elias Figueroa,United States,US,Phoenix,Male,Latino,B2C,Home Appliance,Oven,2380,7000,1,13%,6090,18%,Air
+US106,Emma Brooks,United States,US,Austin,Female,Caucasian,B2C,Home Appliance,TV,32368,95200,1,0%,95200,18%,Air
+US107,Isla Wong,United States,US,Austin,Female,Asian,B2B,Office Equipment,Laptop,19710,73000,45,45%,1806750,18%,Air
+US108,Everly Walker,United States,US,Austin,Female,Caucasian,B2C,Office Equipment,Telephone,870,3000,2,4%,5760,18%,Air
+BR23,Mila Pena,Brazil,BR,Manaus,Female,Latino,B2C,Home Appliance,Air Purifier,7857,29100,1,12%,25608,18%,Air
+CH41,Mason Zhao,China,CH,Chongqing,Male,Asian,B2C,Home Appliance,AC,32096,94400,3,6%,266208,28%,Air
+US109,Jaxson Mai,United States,US,Austin,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,1815,5500,3,8%,15180,18%,Air
+US110,Ava Garza,United States,US,Phoenix,Female,Latino,B2C,Home Appliance,Air Purifier,5694,14600,1,14%,12556,18%,Air
+US111,Nathan Mendez,United States,US,Austin,Male,Latino,B2B,Home Appliance,waching machine,9030,43000,14,47%,319060,28%,Air
+US112,Maria Griffin,United States,US,Miami,Female,Caucasian,B2C,Office Equipment,Desktop,5724,21200,2,1%,41976,18%,Air
+US113,Alexander Choi,United States,US,Chicago,Male,Asian,B2B,Office Equipment,Mircowave,1863,6900,21,42%,84042,18%,Air
+CH42,Maria Hong,China,CH,Chongqing,Female,Asian,B2C,Office Equipment,Mircowave,3600,12000,3,1%,35640,18%,Air
+US114,Sophie Ali,United States,US,Columbus,Female,Asian,B2C,Home Appliance,Oven,3696,16800,1,8%,15456,18%,Air
+US115,Julian Ross,United States,US,Miami,Male,Caucasian,B2C,Home Appliance,TV,37560,187800,1,5%,178410,18%,Air
+US116,Emma Hill,United States,US,Miami,Female,Caucasian,B2B,Office Equipment,Laptop,11232,43200,19,47%,435024,18%,Air
+CH43,Leilani Yee,China,CH,Chengdu,Female,Asian,B2C,Office Equipment,Desktop,13000,32500,1,3%,31525,18%,Air
+US117,Jack Brown,United States,US,Phoenix,Male,Caucasian,B2C,Home Appliance,waching machine,5820,19400,3,8%,53544,28%,Air
+CH44,Charlotte Chu,China,CH,Chengdu,Female,Asian,B2C,Office Equipment,Telephone,1128,4700,2,2%,9212,18%,Air
+CH45,Jeremiah Chu,China,CH,Shanghai,Male,Asian,B2C,Home Appliance,Dishwasher,12768,53200,2,6%,100016,18%,Air
+CH46,Miles Cho,China,CH,Beijing,Male,Asian,B2C,Office Equipment,Printer,10491,26900,3,11%,71823,18%,Air
+BR24,Caleb Marquez,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Home Appliance,Vacuum Cleaner,861,4100,3,7%,11439,18%,Air
+BR25,Eli Soto,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Home Appliance,Oven,3706,10900,1,15%,9265,18%,Air
+BR26,Carter Mejia,Brazil,BR,Sao Paulo,Male,Latino,B2C,Office Equipment,Mircowave,2520,9000,3,9%,24570,18%,Air
+US118,Ethan Clark,United States,US,Columbus,Male,Caucasian,B2C,Home Appliance,waching machine,14130,47100,1,7%,43803,28%,Air
+US119,Asher Jackson,United States,US,Columbus,Male,Caucasian,B2C,Office Equipment,Laptop,10324,35600,2,2%,69776,18%,Air
+CH47,Ayla Ng,China,CH,Beijing,Female,Asian,B2C,Home Appliance,Vacuum Cleaner,1650,5500,3,2%,16170,18%,Air
+CH48,Jose Kang,China,CH,Shanghai,Male,Asian,B2C,Home Appliance,waching machine,5640,28200,3,10%,76140,28%,Air
+US120,Aubrey Romero,United States,US,Phoenix,Female,Latino,B2B,Office Equipment,Oven,4692,20400,50,40%,612000,18%,Air
+US121,Jaxson Wright,United States,US,Columbus,Male,Black,B2B,Office Equipment,Oven,5684,20300,18,45%,200970,18%,Air
+CH49,Elias Ali,China,CH,Shanghai,Male,Asian,B2C,Office Equipment,Desktop,6604,25400,2,8%,46736,18%,Air
+BR27,Nolan Pena,Brazil,BR,Sao Paulo,Male,Latino,B2C,Office Equipment,Oven,6048,18900,3,15%,48195,18%,Air
+CH50,Luna Liu,China,CH,Shanghai,Female,Asian,B2C,Office Equipment,Coffee Vender Machin,12688,48800,2,6%,91744,18%,Air
+US122,Brooklyn Reyes,United States,US,Columbus,Female,Latino,B2C,Office Equipment,Oven,6084,16900,1,8%,15548,18%,Air
+US123,Hadley Parker,United States,US,Columbus,Female,Black,B2C,Home Appliance,Fridge,14150,56600,3,5%,161310,18%,Air
+US124,Jonathan Chavez,United States,US,Seattle,Male,Latino,B2C,Home Appliance,Dishwasher,14848,51200,3,11%,136704,18%,Air
+US125,Sarah Ayala,United States,US,Seattle,Female,Latino,B2C,Office Equipment,Telephone,910,3500,3,8%,9660,18%,Air
+US126,Elijah Kang,United States,US,Seattle,Male,Asian,B2B,Office Equipment,Telephone,1140,3000,24,47%,38160,18%,Air
+US127,Ella White,United States,US,Phoenix,Female,Caucasian,B2B,Office Equipment,Desktop,2645,11500,35,30%,281750,18%,Air
+US128,Jordan Truong,United States,US,Miami,Male,Asian,B2C,Office Equipment,Printer,5592,23300,1,8%,21436,18%,Air
+US129,Daniel Jordan,United States,US,Phoenix,Male,Caucasian,B2C,Home Appliance,Oven,7600,20000,2,9%,36400,18%,Air
+US130,Daniel Dixon,United States,US,Austin,Male,Caucasian,B2C,Home Appliance,waching machine,20230,57800,2,3%,112132,28%,Air
+CH51,Luca Duong,China,CH,Chengdu,Male,Asian,B2C,Home Appliance,Air Purifier,6208,19400,3,14%,50052,18%,Air
+US131,Levi Brown,United States,US,Chicago,Male,Black,B2C,Home Appliance,Dishwasher,14340,47800,3,15%,121890,18%,Air
+US132,Mason Cho,United States,US,Chicago,Male,Asian,B2C,Office Equipment,Oven,1425,5700,1,13%,4959,18%,Air
+BR28,Nova Herrera,Brazil,BR,Sao Paulo,Female,Latino,B2C,Office Equipment,Desktop,3288,13700,2,2%,26852,18%,Air
+US133,Elijah Watson,United States,US,Seattle,Male,Caucasian,B2C,Office Equipment,Printer,10038,47800,2,0%,95600,18%,Air
+US134,Wesley Gray,United States,US,Seattle,Male,Caucasian,B2C,Office Equipment,Desktop,16058,43400,1,7%,40362,18%,Air
+CH52,Wesley Sharma,China,CH,Shanghai,Male,Asian,B2C,Home Appliance,Oven,2240,7000,3,7%,19530,18%,Air
+US135,Mateo Mendez,United States,US,Austin,Male,Latino,B2C,Office Equipment,Oven,2247,10700,1,1%,10593,18%,Air
+BR29,Jose Molina,Brazil,BR,Manaus,Male,Latino,B2C,Home Appliance,TV,6025,24100,2,10%,43380,18%,Air
+US136,Luna Simmons,United States,US,Chicago,Female,Caucasian,B2C,Office Equipment,Desktop,9342,34600,2,4%,66432,18%,Air
+US137,Samantha Barnes,United States,US,Columbus,Female,Caucasian,B2C,Office Equipment,Telephone,522,1800,3,11%,4806,18%,Air
+BR30,Hunter Ortiz,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Office Equipment,Laptop,15250,61000,1,7%,56730,18%,Air
+US138,Thomas Aguilar,United States,US,Phoenix,Male,Latino,B2B,Home Appliance,waching machine,7751,33700,26,45%,481910,28%,Air
+US139,Skylar Bell,United States,US,Columbus,Female,Caucasian,B2C,Home Appliance,Fridge,17094,51800,1,10%,46620,18%,Air
+CH53,Anna Zhu,China,CH,Beijing,Female,Asian,B2C,Office Equipment,Telephone,700,2800,2,7%,5208,18%,Air
+US140,Ella Hunter,United States,US,Columbus,Female,Caucasian,B2C,Home Appliance,AC,22473,68100,1,5%,64695,28%,Air
+US141,Emery Hunter,United States,US,Phoenix,Female,Caucasian,B2C,Home Appliance,waching machine,9680,24200,2,5%,45980,28%,Air
+US142,Sofia Parker,United States,US,Chicago,Female,Caucasian,B2C,Home Appliance,AC,20996,72400,2,4%,139008,28%,Air
+CH54,Lucy Fong,China,CH,Chengdu,Female,Asian,B2C,Home Appliance,Vacuum Cleaner,1274,4900,2,11%,8722,18%,Air
+US143,Vivian Barnes,United States,US,Phoenix,Female,Caucasian,B2C,Home Appliance,waching machine,7320,24400,2,14%,41968,28%,Air
+US144,Kai Chow,United States,US,Austin,Male,Asian,B2B,Home Appliance,Fridge,4636,12200,28,32%,232288,18%,Air
+US145,Melody Cooper,United States,US,Austin,Female,Caucasian,B2C,Office Equipment,Oven,6732,20400,2,1%,40392,18%,Air
+CH55,James Bui,China,CH,Chongqing,Male,Asian,B2C,Office Equipment,Printer,13300,53200,1,1%,52668,18%,Air
+US146,Liam Grant,United States,US,Phoenix,Male,Caucasian,B2C,Office Equipment,Telephone,319,1100,3,6%,3102,18%,Air
+CH56,Owen Han,China,CH,Chongqing,Male,Asian,B2C,Home Appliance,waching machine,18204,49200,3,7%,137268,28%,Air
+BR31,Kinsley Vega,Brazil,BR,Rio de Janerio,Female,Latino,B2B,Home Appliance,Mircowave,2596,11800,18,40%,127440,18%,Air
+US147,Leonardo Martin,United States,US,Chicago,Male,Black,B2B,Office Equipment,Laptop,29844,82900,14,46%,626724,18%,Air
+US148,Greyson Lam,United States,US,Miami,Male,Asian,B2C,Home Appliance,Dishwasher,18993,48700,2,1%,96426,18%,Air
+US149,Emilia Rivera,United States,US,Miami,Female,Latino,B2C,Home Appliance,Dishwasher,12990,43300,1,5%,41135,18%,Air
+US150,Penelope Johnson,United States,US,Chicago,Female,Caucasian,B2C,Home Appliance,AC,27852,126600,1,13%,110142,28%,Air
+US151,Eva Figueroa,United States,US,Seattle,Female,Latino,B2C,Office Equipment,Telephone,1386,4200,2,11%,7476,18%,Air
+US152,Ezekiel Jordan,United States,US,Columbus,Male,Caucasian,B2C,Home Appliance,Mircowave,2356,7600,1,11%,6764,18%,Air
+CH57,Luke Mai,China,CH,Beijing,Male,Asian,B2B,Home Appliance,Oven,2184,9100,12,42%,63336,18%,Raod
+BR32,Charles Diaz,Brazil,BR,Sao Paulo,Male,Latino,B2B,Office Equipment,Laptop,14760,36900,10,32%,250920,18%,Air
+US153,Adam Espinoza,United States,US,Seattle,Male,Latino,B2C,Home Appliance,waching machine,5184,21600,2,3%,41904,28%,Air
+BR33,Jack Maldonado,Brazil,BR,Sao Paulo,Male,Latino,B2C,Office Equipment,Telephone,1080,4500,3,11%,12015,18%,Air
+US154,Cora Jiang,United States,US,Austin,Female,Asian,B2C,Office Equipment,Laptop,9792,27200,3,12%,71808,18%,Air
+US155,Cooper Mitchell,United States,US,Seattle,Male,Caucasian,B2C,Home Appliance,Dishwasher,8690,39500,3,13%,103095,18%,Air
+BR34,Layla Torres,Brazil,BR,Rio de Janerio,Female,Latino,B2C,Office Equipment,Oven,1830,6100,2,14%,10492,18%,Air
+US156,Jack Edwards,United States,US,Columbus,Male,Caucasian,B2C,Office Equipment,Laptop,20725,82900,3,5%,236265,18%,Air
+CH58,Eleanor Chan,China,CH,Shanghai,Female,Asian,B2C,Office Equipment,Oven,2560,6400,3,14%,16512,18%,Air
+US157,Aria Xi,United States,US,Seattle,Female,Asian,B2B,Office Equipment,Mircowave,2480,12400,42,43%,296856,18%,Air
+BR35,John Vega,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Office Equipment,Oven,6076,19600,1,4%,18816,18%,Air
+BR36,Luke Munoz,Brazil,BR,Manaus,Male,Latino,B2C,Office Equipment,Desktop,4875,19500,3,14%,50310,18%,Air
+US158,Sarah Daniels,United States,US,Miami,Female,Caucasian,B2B,Office Equipment,Laptop,16859,73300,15,44%,615720,18%,Air
+BR37,Aria Castro,Brazil,BR,Rio de Janerio,Female,Latino,B2C,Home Appliance,TV,32178,103800,1,8%,95496,18%,Air
+US159,Autumn Joseph,United States,US,Miami,Female,Black,B2C,Home Appliance,Fridge,6480,32400,3,12%,85536,18%,Air
+US160,Evelyn Liang,United States,US,Seattle,Female,Asian,B2C,Office Equipment,Laptop,22680,63000,3,4%,181440,18%,Air
+BR38,Henry Alvarez,Brazil,BR,Manaus,Male,Latino,B2C,Office Equipment,Desktop,9672,40300,2,8%,74152,18%,Air
+US161,Benjamin Delgado,United States,US,Austin,Male,Latino,B2C,Home Appliance,TV,26488,94600,2,11%,168388,18%,Air
+US162,Zoe Rodriguez,United States,US,Phoenix,Female,Latino,B2C,Home Appliance,Vacuum Cleaner,1360,4000,3,1%,11880,18%,Air
+CH59,Axel Chu,China,CH,Beijing,Male,Asian,B2C,Office Equipment,Laptop,18576,68800,3,6%,194016,18%,Air
+US163,Cameron Evans,United States,US,Columbus,Male,Caucasian,B2C,Home Appliance,TV,38064,146400,2,0%,292800,18%,Air
+BR39,Isabella Soto,Brazil,BR,Sao Paulo,Female,Latino,B2C,Office Equipment,Mircowave,3081,7900,1,12%,6952,18%,Air
+US164,Eva Jenkins,United States,US,Chicago,Female,Black,B2C,Home Appliance,TV,28083,85100,3,1%,252747,18%,Air
+US165,Cameron Powell,United States,US,Austin,Male,Black,B2C,Home Appliance,Vacuum Cleaner,1140,3800,1,6%,3572,18%,Air
+US166,Samantha Foster,United States,US,Austin,Female,Black,B2B,Home Appliance,Air Purifier,8228,24200,50,40%,726000,18%,Air
+US167,Jade Li,United States,US,Seattle,Female,Asian,B2C,Home Appliance,Oven,4420,17000,3,13%,44370,18%,Air
+US168,Kinsley Acosta,United States,US,Chicago,Female,Latino,B2C,Home Appliance,Mircowave,2478,11800,3,2%,34692,18%,Air
+US169,Clara Kang,United States,US,Phoenix,Female,Asian,B2C,Office Equipment,Mircowave,3060,8500,3,1%,25245,18%,Air
+US170,Harper Alexander,United States,US,Phoenix,Female,Caucasian,B2C,Office Equipment,Mircowave,2440,12200,3,5%,34770,18%,Air
+US171,Carter Reed,United States,US,Seattle,Male,Black,B2C,Office Equipment,Mircowave,2048,6400,3,3%,18624,18%,Air
+BR40,Charlotte Ruiz,Brazil,BR,Rio de Janerio,Female,Latino,B2C,Home Appliance,waching machine,6280,31400,1,10%,28260,28%,Air
+US172,Everleigh Jiang,United States,US,Columbus,Female,Asian,B2C,Home Appliance,Oven,3861,14300,3,1%,42471,18%,Air
+US173,Audrey Smith,United States,US,Columbus,Female,Caucasian,B2C,Office Equipment,Coffee Vender Machin,20880,72000,1,13%,62640,18%,Air
+US174,Emery Acosta,United States,US,Columbus,Female,Latino,B2C,Home Appliance,Vacuum Cleaner,1248,3900,1,3%,3783,18%,Air
+US175,Charles Robinson,United States,US,Seattle,Male,Caucasian,B2C,Office Equipment,Coffee Vender Machin,10260,51300,3,7%,143127,18%,Air
+BR41,Landon Lopez,Brazil,BR,Sao Paulo,Male,Latino,B2C,Home Appliance,waching machine,18194,82700,2,5%,157130,28%,Air
+US176,Miles Mehta,United States,US,Miami,Male,Asian,B2C,Office Equipment,Oven,4446,11400,3,6%,32148,18%,Air
+US177,Ezra Simmons,United States,US,Phoenix,Male,Caucasian,B2C,Office Equipment,Printer,16768,52400,1,6%,49256,18%,Air
+BR42,Nora Santiago,Brazil,BR,Rio de Janerio,Female,Latino,B2C,Home Appliance,Fridge,5350,21400,1,10%,19260,18%,Air
+BR43,Caroline Herrera,Brazil,BR,Rio de Janerio,Female,Latino,B2C,Home Appliance,AC,18848,60800,3,12%,160512,28%,Air
+US178,David Owens,United States,US,Austin,Male,Black,B2C,Home Appliance,waching machine,20142,74600,3,2%,219324,28%,Air
+US179,Avery Yee,United States,US,Miami,Female,Asian,B2B,Office Equipment,Coffee Vender Machin,20304,84600,15,45%,697950,18%,Air
+CH60,Xavier Park,China,CH,Chengdu,Male,Asian,B2C,Office Equipment,Desktop,12530,35800,1,2%,35084,18%,Air
+BR44,Asher Morales,Brazil,BR,Sao Paulo,Male,Latino,B2C,Home Appliance,AC,41035,141500,3,14%,365070,28%,Air
+CH61,Mason Cao,China,CH,Beijing,Male,Asian,B2B,Home Appliance,waching machine,7475,32500,32,38%,644800,28%,Raod
+CH62,Joshua Fong,China,CH,Beijing,Male,Asian,B2C,Office Equipment,Laptop,21350,61000,3,9%,166530,18%,Air
+CH63,Maria Chin,China,CH,Beijing,Female,Asian,B2C,Home Appliance,Fridge,7182,18900,3,9%,51597,18%,Air
+BR45,Eva Garcia,Brazil,BR,Manaus,Female,Latino,B2C,Office Equipment,Desktop,5215,14900,1,7%,13857,18%,Air
+US180,Anna Molina,United States,US,Columbus,Female,Latino,B2C,Office Equipment,Printer,7332,18800,1,13%,16356,18%,Air
+US181,Logan Bryant,United States,US,Miami,Male,Caucasian,B2C,Office Equipment,Laptop,8694,37800,2,1%,74844,18%,Air
+US182,Isla Han,United States,US,Chicago,Female,Asian,B2C,Home Appliance,Mircowave,4173,10700,3,8%,29532,18%,Air
+US183,Christopher Vega,United States,US,Chicago,Male,Latino,B2C,Office Equipment,Mircowave,3668,13100,2,12%,23056,18%,Air
+CH64,Lillian Park,China,CH,Chengdu,Female,Asian,B2C,Home Appliance,Fridge,11336,43600,1,3%,42292,18%,Air
+CH65,Kennedy Zhang,China,CH,Chongqing,Female,Asian,B2C,Office Equipment,Laptop,7866,20700,2,11%,36846,18%,Air
+CH66,Eli Han,China,CH,Chengdu,Male,Asian,B2C,Office Equipment,Laptop,7371,27300,3,11%,72891,18%,Air
+CH67,Julia Pham,China,CH,Shanghai,Female,Asian,B2C,Office Equipment,Mircowave,3358,14600,3,0%,43800,18%,Air
+CH68,Hailey Shin,China,CH,Shanghai,Female,Asian,B2C,Home Appliance,waching machine,17094,81400,2,1%,161172,28%,Air
+US184,Connor Grant,United States,US,Seattle,Male,Caucasian,B2C,Home Appliance,Air Purifier,10680,35600,1,3%,34532,18%,Air
+US185,Natalia Owens,United States,US,Austin,Female,Caucasian,B2C,Home Appliance,waching machine,24273,78300,3,13%,204363,28%,Air
+CH69,Maria He,China,CH,Beijing,Female,Asian,B2C,Office Equipment,Mircowave,4290,11000,1,12%,9680,18%,Air
+CH70,Jade Yi,China,CH,Chongqing,Female,Asian,B2C,Office Equipment,Coffee Vender Machin,15890,45400,1,15%,38590,18%,Air
+US186,Quinn Xiong,United States,US,Columbus,Female,Asian,B2C,Home Appliance,Oven,2184,5600,1,15%,4760,18%,Air
+US187,Dominic Baker,United States,US,Chicago,Male,Black,B2B,Office Equipment,Coffee Vender Machin,19998,60600,19,40%,690840,18%,Air
+US188,Adam Nelson,United States,US,Chicago,Male,Caucasian,B2C,Office Equipment,Coffee Vender Machin,36192,92800,3,10%,250560,18%,Air
+US189,Autumn Reed,United States,US,Miami,Female,Caucasian,B2B,Home Appliance,waching machine,8620,43100,39,44%,941304,28%,Air
+US190,Robert Edwards,United States,US,Seattle,Male,Caucasian,B2C,Office Equipment,Coffee Vender Machin,22785,73500,2,4%,141120,18%,Air
+BR46,Roman Martinez,Brazil,BR,Manaus,Male,Latino,B2B,Office Equipment,Oven,2832,11800,10,48%,61360,18%,Air
+US191,Eleanor Li,United States,US,Chicago,Female,Asian,B2C,Home Appliance,Vacuum Cleaner,756,3600,2,9%,6552,18%,Air
+US192,Connor Vang,United States,US,Miami,Male,Asian,B2C,Office Equipment,Desktop,2373,11300,3,1%,33561,18%,Air
+CH71,Ellie Chung,China,CH,Chongqing,Female,Asian,B2C,Office Equipment,Printer,11040,34500,2,13%,60030,18%,Air
+US193,Violet Hall,United States,US,Chicago,Female,Caucasian,B2C,Home Appliance,Oven,3090,10300,3,13%,26883,18%,Air
+US194,Dylan Padilla,United States,US,Seattle,Male,Latino,B2C,Office Equipment,Mircowave,3395,9700,2,10%,17460,18%,Air
+US195,Nathan Pham,United States,US,Seattle,Male,Asian,B2B,Home Appliance,Mircowave,2475,7500,47,39%,215025,18%,Air
+US196,Ayla Brown,United States,US,Phoenix,Female,Caucasian,B2C,Home Appliance,Mircowave,2968,10600,3,1%,31482,18%,Air
+US197,Isaac Mitchell,United States,US,Austin,Male,Black,B2C,Home Appliance,Mircowave,4865,13900,1,14%,11954,18%,Air
+BR47,Jayden Jimenez,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Office Equipment,Oven,4320,10800,3,3%,31428,18%,Air
+CH72,Jaxon Tran,China,CH,Shanghai,Male,Asian,B2C,Office Equipment,Oven,3225,12900,2,12%,22704,18%,Air
+US198,Connor Fong,United States,US,Seattle,Male,Asian,B2C,Office Equipment,Printer,11730,39100,3,0%,117300,18%,Air
+US199,Emery Mitchell,United States,US,Seattle,Female,Caucasian,B2C,Office Equipment,Desktop,6396,24600,1,15%,20910,18%,Air
+US200,Landon Luu,United States,US,Miami,Male,Asian,B2C,Office Equipment,Desktop,5460,15600,1,15%,13260,18%,Air
+US201,Sophia Ahmed,United States,US,Seattle,Female,Asian,B2C,Office Equipment,Laptop,16926,80600,3,0%,241800,18%,Air
+US202,Sofia Dinh,United States,US,Chicago,Female,Asian,B2C,Home Appliance,TV,14125,56500,1,8%,51980,18%,Air
+CH73,Jonathan Patel,China,CH,Shanghai,Male,Asian,B2C,Office Equipment,Oven,2772,12600,2,1%,24948,18%,Air
+US203,Piper Patterson,United States,US,Chicago,Female,Caucasian,B2C,Home Appliance,TV,36337,125300,3,1%,372141,18%,Air
+US204,Cora Evans,United States,US,Austin,Female,Black,B2C,Home Appliance,Vacuum Cleaner,1296,5400,2,4%,10368,18%,Air
+US205,Cameron Young,United States,US,Seattle,Male,Caucasian,B2C,Office Equipment,Printer,8346,21400,2,14%,36808,18%,Air
+US206,Melody Ho,United States,US,Columbus,Female,Asian,B2C,Home Appliance,Dishwasher,11088,46200,1,2%,45276,18%,Air
+US207,Aiden Bryant,United States,US,Columbus,Male,Black,B2C,Home Appliance,TV,45843,123900,1,2%,121422,18%,Air
+US208,Grayson Walker,United States,US,Seattle,Male,Caucasian,B2C,Home Appliance,waching machine,7112,25400,2,8%,46736,28%,Air
+US209,Scarlett Figueroa,United States,US,Miami,Female,Latino,B2C,Office Equipment,Laptop,25126,73900,3,9%,201747,18%,Air
+CH74,Madeline Hoang,China,CH,Chengdu,Female,Asian,B2C,Home Appliance,waching machine,6200,20000,1,0%,20000,28%,Air
+US210,Ezra Simmons,United States,US,Austin,Male,Black,B2B,Home Appliance,Vacuum Cleaner,1419,4300,25,30%,75250,18%,Air
+US211,Ruby Medina,United States,US,Seattle,Female,Latino,B2C,Office Equipment,Oven,2860,11000,3,5%,31350,18%,Air
+CH75,Luke Zheng,China,CH,Beijing,Male,Asian,B2C,Home Appliance,Dishwasher,6512,29600,3,7%,82584,18%,Air
+CH76,Rylee Dinh,China,CH,Chongqing,Female,Asian,B2C,Home Appliance,Dishwasher,17131,46300,3,12%,122232,18%,Air
+US212,Miles Evans,United States,US,Miami,Male,Caucasian,B2B,Home Appliance,Mircowave,3162,10200,26,34%,175032,18%,Air
+US213,Leo Owens,United States,US,Seattle,Male,Caucasian,B2C,Home Appliance,Oven,6498,17100,3,2%,50274,18%,Air
+US214,Caroline Owens,United States,US,Phoenix,Female,Caucasian,B2C,Office Equipment,Desktop,9436,33700,1,2%,33026,18%,Air
+US215,Kennedy Do,United States,US,Phoenix,Female,Asian,B2B,Home Appliance,Dishwasher,12800,51200,32,36%,1048576,18%,Air
+US216,Jade Acosta,United States,US,Seattle,Female,Latino,B2C,Home Appliance,TV,13175,52700,2,6%,99076,18%,Air
+US217,Mila Vasquez,United States,US,Columbus,Female,Latino,B2C,Office Equipment,Printer,9468,26300,3,0%,78900,18%,Air
+US218,Allison Ayala,United States,US,Austin,Female,Latino,B2C,Office Equipment,Telephone,1656,4600,3,14%,11868,18%,Air
+CH77,Jace Zhang,China,CH,Chengdu,Male,Asian,B2C,Home Appliance,Fridge,12630,42100,3,10%,113670,18%,Air
+BR48,Allison Medina,Brazil,BR,Sao Paulo,Female,Latino,B2C,Home Appliance,AC,11952,49800,1,15%,42330,28%,Air
+US219,Maria Wilson,United States,US,Columbus,Female,Caucasian,B2C,Home Appliance,TV,10550,42200,1,10%,37980,18%,Air
+US220,Everly Coleman,United States,US,Columbus,Female,Caucasian,B2C,Office Equipment,Coffee Vender Machin,37520,93800,2,5%,178220,18%,Air
+BR49,Jordan Gomez,Brazil,BR,Rio de Janerio,Male,Latino,B2B,Home Appliance,Dishwasher,12760,31900,10,34%,210540,18%,Air
+BR50,Isla Chavez,Brazil,BR,Rio de Janerio,Female,Latino,B2B,Office Equipment,Oven,6169,19900,14,50%,139300,18%,Air
+US221,Hannah Gomez,United States,US,Miami,Female,Latino,B2C,Home Appliance,Dishwasher,6006,27300,1,5%,25935,18%,Air
+US222,Jacob Davis,United States,US,Chicago,Male,Caucasian,B2C,Office Equipment,Mircowave,3192,8400,3,15%,21420,18%,Air
+CH78,Eli Gupta,China,CH,Beijing,Male,Asian,B2C,Home Appliance,Oven,7098,18200,3,0%,54600,18%,Air
+US223,Andrew Huynh,United States,US,Miami,Male,Asian,B2C,Home Appliance,Mircowave,1575,7500,2,2%,14700,18%,Air
+BR51,Anna Gutierrez,Brazil,BR,Sao Paulo,Female,Latino,B2C,Home Appliance,Mircowave,2664,7400,1,6%,6956,18%,Air
+US224,Samuel Vega,United States,US,Miami,Male,Latino,B2C,Office Equipment,Telephone,377,1300,2,2%,2548,18%,Air
+CH79,Liliana Do,China,CH,Chengdu,Female,Asian,B2C,Office Equipment,Mircowave,3399,10300,2,2%,20188,18%,Air
+US225,Isaac Sanders,United States,US,Miami,Male,Caucasian,B2C,Office Equipment,Coffee Vender Machin,29088,80800,1,7%,75144,18%,Air
+CH80,Raelynn Gupta,China,CH,Chongqing,Female,Asian,B2C,Home Appliance,Vacuum Cleaner,1081,4700,1,10%,4230,18%,Air
+US226,Genesis Xiong,United States,US,Columbus,Female,Asian,B2C,Home Appliance,waching machine,6777,25100,2,14%,43172,28%,Air
+US227,Lucas Ramos,United States,US,Phoenix,Male,Latino,B2C,Office Equipment,Oven,3250,12500,2,0%,25000,18%,Air
+US228,Santiago F Gonzalez,United States,US,Seattle,Male,Latino,B2B,Home Appliance,AC,19800,79200,43,31%,2349864,28%,Air
+US229,Henry Zhu,United States,US,Austin,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,1548,4300,1,6%,4042,18%,Air
+BR52,Emily Contreras,Brazil,BR,Sao Paulo,Female,Latino,B2C,Home Appliance,Oven,5270,17000,3,0%,51000,18%,Air
+CH81,Hailey Lai,China,CH,Chengdu,Female,Asian,B2C,Office Equipment,Laptop,29711,80300,3,7%,224037,18%,Air
+US230,Vivian Guzman,United States,US,Phoenix,Female,Latino,B2C,Office Equipment,Desktop,12180,43500,1,10%,39150,18%,Air
+US231,Hadley Contreras,United States,US,Austin,Female,Latino,B2C,Office Equipment,Desktop,8694,37800,3,7%,105462,18%,Air
+CH82,Nathan Sun,China,CH,Shanghai,Male,Asian,B2C,Office Equipment,Desktop,8294,28600,2,7%,53196,18%,Air
+BR53,Grace Campos,Brazil,BR,Manaus,Female,Latino,B2C,Office Equipment,Coffee Vender Machin,12272,47200,1,3%,45784,18%,Air
+BR54,Autumn Ortiz,Brazil,BR,Sao Paulo,Female,Latino,B2C,Home Appliance,Air Purifier,6708,25800,1,8%,23736,18%,Air
+US232,Connor Walker,United States,US,Columbus,Male,Caucasian,B2C,Home Appliance,Vacuum Cleaner,1798,5800,3,6%,16356,18%,Air
+CH83,Mia Wu,China,CH,Beijing,Female,Asian,B2C,Office Equipment,Coffee Vender Machin,25897,89300,2,1%,176814,18%,Air
+CH84,Julia Luong,China,CH,Chongqing,Female,Asian,B2C,Home Appliance,Fridge,6003,26100,2,3%,50634,18%,Air
+BR55,Eleanor Delgado,Brazil,BR,Sao Paulo,Female,Latino,B2B,Home Appliance,AC,33120,138000,30,50%,2070000,28%,Air
+US233,Addison Roberts,United States,US,Seattle,Female,Caucasian,B2C,Home Appliance,Fridge,16203,49100,2,12%,86416,18%,Air
+CH85,Camila Li,China,CH,Shanghai,Female,Asian,B2C,Home Appliance,Air Purifier,10175,27500,1,3%,26675,18%,Air
+CH86,Ezekiel Fong,China,CH,Shanghai,Male,Asian,B2B,Home Appliance,Dishwasher,7859,27100,42,36%,728448,18%,Raod
+US234,Dylan Thao,United States,US,Seattle,Male,Asian,B2C,Office Equipment,Oven,4544,14200,1,8%,13064,18%,Air
+BR56,Josephine Salazar,Brazil,BR,Sao Paulo,Female,Latino,B2B,Home Appliance,TV,41550,138500,35,45%,2666125,18%,Air
+CH87,Genesis Hu,China,CH,Beijing,Female,Asian,B2C,Office Equipment,Desktop,10234,30100,3,11%,80367,18%,Air
+BR57,Mila Juarez,Brazil,BR,Sao Paulo,Female,Latino,B2B,Home Appliance,Fridge,8448,35200,20,38%,436480,18%,Air
+US235,Daniel Perry,United States,US,Columbus,Male,Caucasian,B2C,Home Appliance,waching machine,23485,67100,1,9%,61061,28%,Air
+US236,Paisley Hunter,United States,US,Chicago,Female,Caucasian,B2B,Home Appliance,Dishwasher,6939,25700,47,40%,724740,18%,Air
+US237,Everleigh White,United States,US,Phoenix,Female,Caucasian,B2C,Home Appliance,Mircowave,3960,11000,3,9%,30030,18%,Air
+CH88,Penelope Choi,China,CH,Beijing,Female,Asian,B2C,Home Appliance,AC,24720,123600,3,7%,344844,28%,Air
+US238,Piper Sun,United States,US,Seattle,Female,Asian,B2C,Home Appliance,TV,33060,110200,3,1%,327294,18%,Air
+US239,Lucy Johnson,United States,US,Columbus,Female,Caucasian,B2C,Office Equipment,Coffee Vender Machin,29884,96400,1,4%,92544,18%,Air
+US240,Ian Ngo,United States,US,Phoenix,Male,Asian,B2C,Office Equipment,Oven,2201,7100,3,9%,19383,18%,Air
+US241,Joseph Vazquez,United States,US,Miami,Male,Latino,B2C,Home Appliance,AC,37980,105500,3,8%,291180,28%,Air
+BR58,Hadley Guerrero,Brazil,BR,Sao Paulo,Female,Latino,B2C,Office Equipment,Telephone,1131,2900,2,8%,5336,18%,Air
+US242,Jose Brown,United States,US,Seattle,Male,Caucasian,B2C,Office Equipment,Desktop,8778,41800,3,7%,116622,18%,Air
+US243,Benjamin Ford,United States,US,Phoenix,Male,Caucasian,B2C,Office Equipment,Coffee Vender Machin,19824,82600,3,11%,220542,18%,Air
+CH89,Henry Shah,China,CH,Chengdu,Male,Asian,B2C,Home Appliance,Dishwasher,19620,54500,1,14%,46870,18%,Air
+US244,Ivy Daniels,United States,US,Columbus,Female,Caucasian,B2B,Home Appliance,Mircowave,2952,8200,29,42%,137924,18%,Air
+CH90,Thomas Chang,China,CH,Beijing,Male,Asian,B2C,Home Appliance,waching machine,14616,69600,1,1%,68904,28%,Air
+US245,Caroline Phan,United States,US,Austin,Female,Asian,B2C,Office Equipment,Desktop,7888,27200,3,5%,77520,18%,Air
+US246,Maverick Mehta,United States,US,Seattle,Male,Asian,B2C,Office Equipment,Telephone,1080,3600,1,15%,3060,18%,Air
+US247,Austin Edwards,United States,US,Chicago,Male,Black,B2C,Home Appliance,TV,8085,24500,2,8%,45080,18%,Air
+US248,Daniel Huang,United States,US,Columbus,Male,Asian,B2B,Home Appliance,Oven,4368,20800,15,38%,193440,18%,Air
+CH91,Lucas Phan,China,CH,Chongqing,Male,Asian,B2B,Home Appliance,Vacuum Cleaner,1482,3800,46,37%,110124,18%,Raod
+CH92,Gabriel Yu,China,CH,Chongqing,Male,Asian,B2B,Home Appliance,Air Purifier,5916,20400,28,35%,371280,18%,Raod
+US249,Mason Watson,United States,US,Chicago,Male,Caucasian,B2C,Home Appliance,AC,28920,144600,3,3%,420786,28%,Air
+CH93,Angel Chang,China,CH,Shanghai,Male,Asian,B2B,Office Equipment,Mircowave,1200,4800,37,49%,90576,18%,Raod
+US250,Madeline Coleman,United States,US,Chicago,Female,Caucasian,B2B,Home Appliance,AC,25120,125600,32,35%,2612480,28%,Air
+BR59,Thomas Vazquez,Brazil,BR,Sao Paulo,Male,Latino,B2B,Office Equipment,Laptop,20580,68600,21,42%,835548,18%,Air
+US251,Silas Hunter,United States,US,Chicago,Male,Black,B2C,Office Equipment,Laptop,5934,25800,1,12%,22704,18%,Air
+US252,Nicholas Brooks,United States,US,Phoenix,Male,Caucasian,B2C,Home Appliance,Vacuum Cleaner,1152,3600,3,3%,10476,18%,Air
+US253,Dominic Thomas,United States,US,Austin,Male,Caucasian,B2C,Home Appliance,TV,10712,41200,3,15%,105060,18%,Air
+US254,Wesley Adams,United States,US,Seattle,Male,Caucasian,B2C,Home Appliance,waching machine,10812,31800,1,3%,30846,28%,Air
+CH94,Ian Wu,China,CH,Chengdu,Male,Asian,B2C,Home Appliance,Fridge,5940,27000,2,1%,53460,18%,Air
+US255,Alice Young,United States,US,Chicago,Female,Caucasian,B2C,Home Appliance,Oven,7038,20700,1,8%,19044,18%,Air
+US256,Logan Carrillo,United States,US,Miami,Male,Latino,B2C,Office Equipment,Coffee Vender Machin,34164,87600,1,2%,85848,18%,Air
+US257,Caroline Alexander,United States,US,Columbus,Female,Black,B2C,Home Appliance,Fridge,14508,46800,1,2%,45864,18%,Air
+US258,Serenity Bailey,United States,US,Chicago,Female,Caucasian,B2C,Home Appliance,TV,43530,145100,2,14%,249572,18%,Air
+CH95,Elena Tan,China,CH,Chongqing,Female,Asian,B2C,Office Equipment,Oven,3100,12400,2,10%,22320,18%,Air
+US259,Eliza Adams,United States,US,Chicago,Female,Caucasian,B2C,Office Equipment,Mircowave,5328,14400,3,1%,42768,18%,Air
+CH96,Alice Xiong,China,CH,Chengdu,Female,Asian,B2C,Office Equipment,Telephone,425,1700,1,6%,1598,18%,Air
+US260,Isla Yoon,United States,US,Austin,Female,Asian,B2B,Home Appliance,TV,24651,74700,18,33%,900882,18%,Air
+US261,Emma Perry,United States,US,Seattle,Female,Caucasian,B2C,Home Appliance,Fridge,10730,37000,2,2%,72520,18%,Air
+US262,Riley Marquez,United States,US,Chicago,Female,Latino,B2B,Office Equipment,Printer,9720,27000,40,40%,648000,18%,Air
+CH97,Caroline Hu,China,CH,Shanghai,Female,Asian,B2B,Office Equipment,Mircowave,2884,10300,19,35%,127205,18%,Raod
+CH98,Madison Kumar,China,CH,Chengdu,Female,Asian,B2C,Home Appliance,Air Purifier,7350,35000,2,9%,63700,18%,Air
+US263,Matthew Lim,United States,US,Seattle,Male,Asian,B2C,Home Appliance,Mircowave,1525,6100,1,12%,5368,18%,Air
+US264,Maya Ngo,United States,US,Columbus,Female,Asian,B2C,Office Equipment,Printer,8346,21400,1,0%,21400,18%,Air
+BR60,Alice Soto,Brazil,BR,Manaus,Female,Latino,B2B,Home Appliance,waching machine,11349,29100,41,44%,668136,28%,Air
+US265,Andrew Moore,United States,US,Chicago,Male,Caucasian,B2B,Office Equipment,Mircowave,1612,5200,43,42%,129688,18%,Air
+US266,Olivia Harris,United States,US,Columbus,Female,Caucasian,B2C,Home Appliance,waching machine,19328,60400,2,9%,109928,28%,Air
+US267,Genesis Banks,United States,US,Chicago,Female,Caucasian,B2B,Home Appliance,Oven,2340,9000,49,31%,304290,18%,Air
+US268,Victoria Johnson,United States,US,Columbus,Female,Caucasian,B2C,Home Appliance,Dishwasher,10318,46900,1,12%,41272,18%,Air
+US269,Eloise Griffin,United States,US,Austin,Female,Caucasian,B2C,Office Equipment,Mircowave,3509,12100,3,4%,34848,18%,Air
+US270,Roman Yang,United States,US,Phoenix,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,1624,5600,3,2%,16464,18%,Air
+CH99,Clara Huynh,China,CH,Shanghai,Female,Asian,B2C,Home Appliance,waching machine,6264,23200,1,6%,21808,28%,Air
+US271,Kai Flores,United States,US,Seattle,Male,Latino,B2C,Office Equipment,Telephone,640,2000,1,10%,1800,18%,Air
+CH100,Jaxson Dinh,China,CH,Shanghai,Male,Asian,B2B,Home Appliance,Air Purifier,7160,35800,35,44%,701680,18%,Raod
+CH101,Sophie Vang,China,CH,Chongqing,Female,Asian,B2C,Office Equipment,Coffee Vender Machin,23244,89400,2,12%,157344,18%,Air
+US272,Axel Jordan,United States,US,Chicago,Male,Caucasian,B2C,Office Equipment,Mircowave,5032,14800,2,5%,28120,18%,Air
+US273,Jade Hunter,United States,US,Columbus,Female,Caucasian,B2C,Office Equipment,Oven,5513,14900,2,6%,28012,18%,Air
+US274,Lydia Williams,United States,US,Chicago,Female,Black,B2B,Home Appliance,Vacuum Cleaner,1080,4500,37,41%,98235,18%,Air
+CH102,Emery Chang,China,CH,Chengdu,Female,Asian,B2C,Home Appliance,Vacuum Cleaner,651,3100,1,3%,3007,18%,Air
+CH103,Savannah He,China,CH,Beijing,Female,Asian,B2B,Home Appliance,Mircowave,2142,6300,33,47%,110187,18%,Raod
+US275,Elias Ahmed,United States,US,Chicago,Male,Asian,B2B,Home Appliance,Oven,2700,10000,45,34%,297000,18%,Air
+US276,Samantha Woods,United States,US,Phoenix,Female,Caucasian,B2C,Office Equipment,Oven,3976,14200,2,15%,24140,18%,Air
+BR61,Axel Soto,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Office Equipment,Desktop,10894,41900,3,10%,113130,18%,Air
+US277,Amelia Choi,United States,US,Miami,Female,Asian,B2C,Office Equipment,Telephone,444,1200,3,8%,3312,18%,Air
+CH104,Jacob Khan,China,CH,Shanghai,Male,Asian,B2C,Home Appliance,TV,30984,129100,3,1%,383427,18%,Air
+US278,Luna Taylor,United States,US,Seattle,Female,Caucasian,B2C,Office Equipment,Printer,6363,30300,3,14%,78174,18%,Air
+US279,Dominic Parker,United States,US,Seattle,Male,Caucasian,B2C,Home Appliance,Mircowave,2457,9100,2,9%,16562,18%,Air
+CH105,Angel Xiong,China,CH,Shanghai,Male,Asian,B2C,Office Equipment,Desktop,15276,40200,1,11%,35778,18%,Air
+CH106,Emma Cao,China,CH,Chongqing,Female,Asian,B2B,Home Appliance,Mircowave,3174,13800,40,43%,314640,18%,Raod
+US280,Ezekiel Bryant,United States,US,Miami,Male,Caucasian,B2C,Home Appliance,Oven,4512,18800,2,12%,33088,18%,Air
+US281,Natalie Hwang,United States,US,Phoenix,Female,Asian,B2B,Office Equipment,Coffee Vender Machin,13311,49300,33,32%,1106292,18%,Air
+CH107,Adeline Yang,China,CH,Chongqing,Female,Asian,B2C,Office Equipment,Telephone,720,2400,1,12%,2112,18%,Air
+US282,Allison Roberts,United States,US,Columbus,Female,Black,B2C,Home Appliance,Fridge,11088,30800,2,7%,57288,18%,Air
+US283,Andrew Do,United States,US,Seattle,Male,Asian,B2C,Home Appliance,Mircowave,1960,7000,2,2%,13720,18%,Air
+US284,Eliana Grant,United States,US,Chicago,Female,Caucasian,B2B,Home Appliance,Fridge,3150,12600,11,30%,97020,18%,Air
+BR62,Mila Soto,Brazil,BR,Manaus,Female,Latino,B2C,Home Appliance,AC,30016,107200,2,12%,188672,28%,Air
+US285,Gabriella Johnson,United States,US,Seattle,Female,Caucasian,B2C,Home Appliance,Fridge,16368,49600,2,7%,92256,18%,Air
+CH108,Jonathan Khan,China,CH,Shanghai,Male,Asian,B2C,Home Appliance,Fridge,10860,54300,2,9%,98826,18%,Air
+CH109,Elias Dang,China,CH,Chengdu,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,925,3700,2,12%,6512,18%,Air
+CH110,Theodore Ngo,China,CH,Beijing,Male,Asian,B2C,Home Appliance,Dishwasher,8326,36200,2,13%,62988,18%,Air
+US286,Bella Lopez,United States,US,Chicago,Female,Latino,B2C,Office Equipment,Mircowave,1554,7400,1,3%,7178,18%,Air
+CH111,Luca Truong,China,CH,Chongqing,Male,Asian,B2C,Home Appliance,AC,48048,145600,1,12%,128128,28%,Air
+US287,Nathan Lau,United States,US,Austin,Male,Asian,B2C,Office Equipment,Printer,8658,22200,3,14%,57276,18%,Air
+US288,Henry Campos,United States,US,Phoenix,Male,Latino,B2C,Office Equipment,Oven,2838,8600,3,13%,22446,18%,Air
+US289,Connor Bell,United States,US,Austin,Male,Black,B2C,Home Appliance,waching machine,11904,49600,2,13%,86304,28%,Air
+US290,Angel Stewart,United States,US,Seattle,Male,Caucasian,B2C,Home Appliance,Dishwasher,9858,31800,2,5%,60420,18%,Air
+US291,Landon Brown,United States,US,Columbus,Male,Caucasian,B2B,Office Equipment,Oven,4368,15600,26,34%,267696,18%,Air
+BR63,Nicholas Rivera,Brazil,BR,Sao Paulo,Male,Latino,B2C,Home Appliance,Mircowave,3159,11700,3,15%,29835,18%,Air
+US292,Gabriel Carter,United States,US,Columbus,Male,Caucasian,B2C,Home Appliance,AC,20909,72100,3,5%,205485,28%,Air
+US293,Leilani Baker,United States,US,Seattle,Female,Caucasian,B2C,Home Appliance,Fridge,7527,19300,2,3%,37442,18%,Air
+BR64,Ian Flores,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Office Equipment,Oven,5829,20100,2,10%,36180,18%,Air
+US294,Hudson Thompson,United States,US,Phoenix,Male,Black,B2C,Office Equipment,Printer,10575,42300,1,4%,40608,18%,Air
+US295,Ian Miller,United States,US,Austin,Male,Black,B2B,Home Appliance,Air Purifier,10360,37000,12,45%,244200,18%,Air
+CH112,Harper Chin,China,CH,Shanghai,Female,Asian,B2C,Office Equipment,Oven,2444,9400,1,12%,8272,18%,Air
+US296,Santiago F Brooks,United States,US,Phoenix,Male,Black,B2C,Office Equipment,Laptop,24070,83000,1,5%,78850,18%,Air
+BR65,Dylan Dominguez,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Home Appliance,Fridge,5181,15700,1,10%,14130,18%,Air
+US297,Everett Lee,United States,US,Columbus,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,1071,5100,3,9%,13923,18%,Air
+US298,Madelyn Mehta,United States,US,Phoenix,Female,Asian,B2C,Home Appliance,waching machine,14696,66800,1,2%,65464,28%,Air
+BR66,Athena Vasquez,Brazil,BR,Rio de Janerio,Female,Latino,B2C,Office Equipment,Mircowave,4455,13500,3,5%,38475,18%,Air
+US299,William Watson,United States,US,Miami,Male,Caucasian,B2C,Home Appliance,Dishwasher,16410,54700,1,8%,50324,18%,Air
+BR67,Everleigh Nunez,Brazil,BR,Manaus,Female,Latino,B2C,Office Equipment,Telephone,1170,3900,3,6%,10998,18%,Air
+BR68,Leo Fernandez,Brazil,BR,Sao Paulo,Male,Latino,B2C,Home Appliance,waching machine,12129,31100,3,12%,82104,28%,Air
+CH113,Joshua Lin,China,CH,Beijing,Male,Asian,B2C,Home Appliance,TV,12000,60000,3,12%,158400,18%,Air
+BR69,Alexander Rivera,Brazil,BR,Manaus,Male,Latino,B2B,Home Appliance,Vacuum Cleaner,1020,3000,35,31%,72450,18%,Air
+US300,David Desai,United States,US,Austin,Male,Asian,B2C,Office Equipment,Mircowave,3024,10800,3,2%,31752,18%,Air
+CH114,Aubrey Yoon,China,CH,Chongqing,Female,Asian,B2C,Office Equipment,Telephone,1140,3800,3,0%,11400,18%,Air
+US301,Grayson Brown,United States,US,Chicago,Male,Caucasian,B2C,Home Appliance,Air Purifier,4230,14100,3,3%,41031,18%,Air
+CH115,Noah Chen,China,CH,Beijing,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,1716,4400,3,1%,13068,18%,Air
+CH116,Ella Nguyen,China,CH,Chongqing,Female,Asian,B2C,Office Equipment,Laptop,14820,49400,1,14%,42484,18%,Air
+US302,Athena Jordan,United States,US,Seattle,Female,Black,B2C,Office Equipment,Telephone,360,1200,1,8%,1104,18%,Air
+BR70,Adrian Ruiz,Brazil,BR,Sao Paulo,Male,Latino,B2B,Home Appliance,Vacuum Cleaner,1500,5000,27,49%,68850,18%,Air
+BR71,Zoe Sanchez,Brazil,BR,Sao Paulo,Female,Latino,B2C,Home Appliance,waching machine,20677,66700,2,15%,113390,28%,Air
+CH117,Jameson Chen,China,CH,Shanghai,Male,Asian,B2C,Office Equipment,Mircowave,1728,5400,2,7%,10044,18%,Air
+US303,Liliana Soto,United States,US,Austin,Female,Latino,B2C,Office Equipment,Oven,2482,7300,1,4%,7008,18%,Air
+US304,Lincoln Reyes,United States,US,Seattle,Male,Latino,B2C,Office Equipment,Oven,2626,10100,2,4%,19392,18%,Air
+US305,Grayson Soto,United States,US,Columbus,Male,Latino,B2C,Home Appliance,Mircowave,3317,10700,2,13%,18618,18%,Air
+US306,Julia Morris,United States,US,Phoenix,Female,Caucasian,B2B,Home Appliance,AC,17728,55400,21,36%,744576,28%,Air
+US307,Ava Ortiz,United States,US,Columbus,Female,Latino,B2C,Office Equipment,Telephone,420,1200,3,6%,3384,18%,Air
+CH118,Carson Chau,China,CH,Chongqing,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,1598,4700,1,3%,4559,18%,Air
+US308,Lillian Chen,United States,US,Columbus,Female,Asian,B2C,Office Equipment,Telephone,1036,2800,3,14%,7224,18%,Air
+US309,Josiah Lewis,United States,US,Austin,Male,Caucasian,B2C,Home Appliance,Oven,6435,16500,2,4%,31680,18%,Air
+US310,Claire Jones,United States,US,Seattle,Female,Caucasian,B2C,Home Appliance,Vacuum Cleaner,1711,5900,2,6%,11092,18%,Air
+CH119,Jeremiah Lu,China,CH,Shanghai,Male,Asian,B2C,Home Appliance,Mircowave,5476,14800,2,10%,26640,18%,Air
+US311,Nova Hill,United States,US,Chicago,Female,Caucasian,B2C,Office Equipment,Desktop,11362,43700,1,3%,42389,18%,Air
+BR72,Peyton Cruz,Brazil,BR,Sao Paulo,Female,Latino,B2C,Home Appliance,Air Purifier,9256,35600,2,15%,60520,18%,Air
+US312,Naomi Zhao,United States,US,Miami,Female,Asian,B2B,Home Appliance,TV,14454,43800,16,33%,469536,18%,Air
+CH120,Rylee Bui,China,CH,Chongqing,Female,Asian,B2C,Home Appliance,Mircowave,2940,9800,1,11%,8722,18%,Air
+US313,Andrew Reed,United States,US,Miami,Male,Black,B2B,Office Equipment,Telephone,930,3000,38,44%,63840,18%,Air
+US314,Brooklyn Collins,United States,US,Austin,Female,Black,B2C,Office Equipment,Laptop,15279,46300,3,9%,126399,18%,Air
+CH121,John Jung,China,CH,Shanghai,Male,Asian,B2C,Home Appliance,Oven,6045,19500,1,14%,16770,18%,Air
+US315,Samantha Aguilar,United States,US,Seattle,Female,Latino,B2C,Home Appliance,Air Purifier,8175,32700,1,13%,28449,18%,Air
+BR73,Madeline Acosta,Brazil,BR,Sao Paulo,Female,Latino,B2C,Home Appliance,AC,26736,111400,1,8%,102488,28%,Air
+US316,Ethan Joseph,United States,US,Columbus,Male,Caucasian,B2C,Office Equipment,Desktop,6760,16900,3,7%,47151,18%,Air
+CH122,Miles Mehta,China,CH,Chongqing,Male,Asian,B2C,Office Equipment,Desktop,11040,27600,3,10%,74520,18%,Air
+BR74,Joshua Juarez,Brazil,BR,Sao Paulo,Male,Latino,B2C,Office Equipment,Coffee Vender Machin,13992,58300,3,3%,169653,18%,Air
+US317,Matthew Howard,United States,US,Columbus,Male,Caucasian,B2B,Home Appliance,Mircowave,2160,10800,45,32%,330480,18%,Air
+BR75,Jade Figueroa,Brazil,BR,Rio de Janerio,Female,Latino,B2B,Office Equipment,Mircowave,1944,5400,30,36%,103680,18%,Air
+BR76,Everett Morales,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Office Equipment,Oven,2800,8000,1,6%,7520,18%,Air
+US318,Genesis Hunter,United States,US,Chicago,Female,Caucasian,B2B,Office Equipment,Coffee Vender Machin,21021,63700,22,31%,966966,18%,Air
+BR77,Henry Figueroa,Brazil,BR,Manaus,Male,Latino,B2C,Office Equipment,Oven,3492,9700,1,11%,8633,18%,Air
+CH123,Nicholas Song,China,CH,Chengdu,Male,Asian,B2C,Home Appliance,Mircowave,2816,8800,2,1%,17424,18%,Air
+US319,Jack Alexander,United States,US,Miami,Male,Caucasian,B2C,Home Appliance,AC,23332,61400,2,3%,119116,28%,Air
+US320,Jameson Foster,United States,US,Columbus,Male,Caucasian,B2C,Home Appliance,Vacuum Cleaner,957,3300,2,12%,5808,18%,Air
+CH124,Leonardo Lo,China,CH,Chongqing,Male,Asian,B2C,Office Equipment,Mircowave,2760,6900,3,12%,18216,18%,Air
+US321,Ella Huang,United States,US,Chicago,Female,Asian,B2C,Office Equipment,Desktop,7440,37200,3,10%,100440,18%,Air
+US322,Liam Jordan,United States,US,Phoenix,Male,Caucasian,B2C,Home Appliance,Mircowave,2820,9400,1,4%,9024,18%,Air
+US323,Isaac Woods,United States,US,Miami,Male,Caucasian,B2C,Home Appliance,waching machine,14910,71000,2,11%,126380,28%,Air
+US324,Luke Wilson,United States,US,Miami,Male,Caucasian,B2C,Office Equipment,Laptop,6270,28500,3,5%,81225,18%,Air
+US325,Lyla Alvarez,United States,US,Phoenix,Female,Latino,B2C,Home Appliance,Oven,4224,13200,2,6%,24816,18%,Air
+BR78,Caleb Flores,Brazil,BR,Rio de Janerio,Male,Latino,B2B,Home Appliance,Oven,6930,19800,39,35%,501930,18%,Air
+US326,Angel Lin,United States,US,Chicago,Male,Asian,B2C,Home Appliance,Fridge,16480,41200,2,1%,81576,18%,Air
+US327,Easton Moore,United States,US,Seattle,Male,Caucasian,B2C,Office Equipment,Oven,3634,15800,2,12%,27808,18%,Air
+US328,Kinsley Collins,United States,US,Phoenix,Female,Caucasian,B2B,Home Appliance,Mircowave,2759,8900,15,36%,85440,18%,Air
+US329,Brooklyn Salazar,United States,US,Austin,Female,Latino,B2C,Home Appliance,Air Purifier,7548,20400,3,12%,53856,18%,Air
+US330,Scarlett Jenkins,United States,US,Miami,Female,Caucasian,B2B,Home Appliance,AC,36435,104100,26,47%,1434498,28%,Air
+US331,Melody Chin,United States,US,Chicago,Female,Asian,B2C,Home Appliance,Air Purifier,11877,32100,2,3%,62274,18%,Air
+US332,Eloise Alexander,United States,US,Seattle,Female,Black,B2B,Office Equipment,Oven,7068,18600,13,48%,125736,18%,Air
+US333,Carter Turner,United States,US,Phoenix,Male,Caucasian,B2C,Home Appliance,Dishwasher,14910,49700,1,3%,48209,18%,Air
+CH125,Andrew Ma,China,CH,Chongqing,Male,Asian,B2C,Home Appliance,Dishwasher,6925,27700,2,0%,55400,18%,Air
+CH126,Hailey Xi,China,CH,Chongqing,Female,Asian,B2C,Home Appliance,AC,23115,100500,1,8%,92460,28%,Air
+US334,Aiden Le,United States,US,Austin,Male,Asian,B2C,Home Appliance,Fridge,4715,20500,3,4%,59040,18%,Air
+CH127,Christopher Lim,China,CH,Shanghai,Male,Asian,B2C,Home Appliance,Oven,2730,7800,3,0%,23400,18%,Air
+BR79,James Castillo,Brazil,BR,Manaus,Male,Latino,B2C,Home Appliance,Vacuum Cleaner,1530,5100,1,11%,4539,18%,Air
+CH128,Greyson Dang,China,CH,Beijing,Male,Asian,B2B,Office Equipment,Coffee Vender Machin,33588,93300,43,30%,2808330,18%,Raod
+US335,Hannah King,United States,US,Chicago,Female,Caucasian,B2C,Home Appliance,Vacuum Cleaner,2220,6000,3,14%,15480,18%,Air
+US336,Wesley Dominguez,United States,US,Chicago,Male,Latino,B2B,Home Appliance,TV,10237,35300,32,45%,621280,18%,Air
+CH129,Dominic Hu,China,CH,Shanghai,Male,Asian,B2C,Home Appliance,Air Purifier,9334,35900,1,14%,30874,18%,Air
+US337,Nora Park,United States,US,Columbus,Female,Asian,B2C,Office Equipment,Desktop,6531,31100,3,1%,92367,18%,Air
+CH130,Audrey Hwang,China,CH,Beijing,Female,Asian,B2C,Home Appliance,waching machine,9854,37900,2,14%,65188,28%,Air
+US338,Ella Jenkins,United States,US,Phoenix,Female,Caucasian,B2C,Home Appliance,AC,38883,99700,1,5%,94715,28%,Air
+US339,Peyton Owens,United States,US,Chicago,Female,Caucasian,B2C,Office Equipment,Mircowave,3013,13100,1,11%,11659,18%,Air
+US340,Alice Lopez,United States,US,Seattle,Female,Latino,B2C,Home Appliance,Vacuum Cleaner,1296,4800,1,11%,4272,18%,Air
+CH131,Dominic Le,China,CH,Chongqing,Male,Asian,B2B,Home Appliance,Air Purifier,7518,35800,32,48%,595712,18%,Raod
+US341,Ezra Ortiz,United States,US,Miami,Male,Latino,B2B,Office Equipment,Printer,14355,43500,44,32%,1301520,18%,Air
+CH132,Grayson Luu,China,CH,Shanghai,Male,Asian,B2C,Office Equipment,Laptop,11046,52600,2,15%,89420,18%,Air
+US342,Brooks Stewart,United States,US,Columbus,Male,Black,B2C,Office Equipment,Desktop,11583,29700,2,15%,50490,18%,Air
+CH133,Naomi Xi,China,CH,Chongqing,Female,Asian,B2C,Home Appliance,Fridge,14528,45400,1,0%,45400,18%,Air
+BR80,Silas Estrada,Brazil,BR,Rio de Janerio,Male,Latino,B2B,Home Appliance,Mircowave,2288,10400,38,45%,217360,18%,Air
+US343,Skylar Ayala,United States,US,Phoenix,Female,Latino,B2C,Office Equipment,Mircowave,3484,13400,1,3%,12998,18%,Air
+US344,Lydia Huynh,United States,US,Chicago,Female,Asian,B2C,Home Appliance,waching machine,8328,34700,3,10%,93690,28%,Air
+BR81,Hazel Cortez,Brazil,BR,Sao Paulo,Female,Latino,B2C,Office Equipment,Coffee Vender Machin,15602,53800,3,10%,145260,18%,Air
+US345,Everleigh Adams,United States,US,Chicago,Female,Caucasian,B2C,Home Appliance,Mircowave,5480,13700,2,11%,24386,18%,Air
+US346,Layla Salazar,United States,US,Seattle,Female,Latino,B2C,Home Appliance,Dishwasher,14110,41500,3,14%,107070,18%,Air
+US347,Willow Chen,United States,US,Austin,Female,Asian,B2C,Home Appliance,Mircowave,2142,6300,1,8%,5796,18%,Air
+US348,Penelope Griffin,United States,US,Seattle,Female,Caucasian,B2B,Office Equipment,Desktop,7625,30500,33,46%,543510,18%,Air
+US349,Lillian Romero,United States,US,Austin,Female,Latino,B2B,Home Appliance,AC,14229,52700,23,46%,654534,28%,Air
+US350,Stella Wu,United States,US,Phoenix,Female,Asian,B2C,Office Equipment,Desktop,4011,19100,2,7%,35526,18%,Air
+US351,Parker Vang,United States,US,Miami,Male,Asian,B2C,Home Appliance,Dishwasher,17860,47000,3,5%,133950,18%,Air
+US352,Mila Roberts,United States,US,Phoenix,Female,Caucasian,B2C,Home Appliance,Mircowave,3796,14600,1,13%,12702,18%,Air
+CH134,Isaac Liu,China,CH,Chongqing,Male,Asian,B2C,Office Equipment,Printer,4818,21900,1,7%,20367,18%,Air
+US353,Jacob Doan,United States,US,Miami,Male,Asian,B2C,Office Equipment,Telephone,760,1900,1,7%,1767,18%,Air
+US354,Raelynn Ma,United States,US,Miami,Female,Asian,B2C,Office Equipment,Mircowave,4992,12800,3,5%,36480,18%,Air
+US355,Jameson Juarez,United States,US,Miami,Male,Latino,B2C,Home Appliance,Air Purifier,8320,20800,3,8%,57408,18%,Air
+US356,Everleigh Shah,United States,US,Columbus,Female,Asian,B2C,Office Equipment,Printer,13184,41200,2,11%,73336,18%,Air
+US357,Alexander Foster,United States,US,Columbus,Male,Black,B2C,Home Appliance,Air Purifier,11232,41600,2,3%,80704,18%,Air
+US358,Ryan Ha,United States,US,Miami,Male,Asian,B2B,Office Equipment,Desktop,8944,34400,11,39%,230824,18%,Air
+US359,Chloe Salazar,United States,US,Seattle,Female,Latino,B2C,Home Appliance,TV,36918,175800,1,0%,175800,18%,Air
+US360,Layla Scott,United States,US,Phoenix,Female,Caucasian,B2C,Office Equipment,Oven,6840,18000,1,4%,17280,18%,Air
+CH135,Leah Khan,China,CH,Chongqing,Female,Asian,B2C,Home Appliance,TV,9650,38600,1,4%,37056,18%,Air
+US361,Mason Jimenez,United States,US,Austin,Male,Latino,B2C,Home Appliance,Vacuum Cleaner,1056,4800,3,15%,12240,18%,Air
+CH136,Hailey Dang,China,CH,Shanghai,Female,Asian,B2C,Home Appliance,waching machine,14416,42400,1,15%,36040,28%,Air
+CH137,Amelia Bui,China,CH,Chengdu,Female,Asian,B2C,Home Appliance,AC,27852,126600,2,15%,215220,28%,Air
+CH138,Elena Her,China,CH,Chongqing,Female,Asian,B2C,Office Equipment,Mircowave,3666,14100,2,11%,25098,18%,Air
+BR82,Ian Cortez,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Office Equipment,Laptop,8300,33200,1,13%,28884,18%,Air
+CH139,Christian Ali,China,CH,Chongqing,Male,Asian,B2C,Office Equipment,Printer,13230,49000,1,4%,47040,18%,Air
+BR83,Carter Ortiz,Brazil,BR,Sao Paulo,Male,Latino,B2C,Home Appliance,Dishwasher,10500,35000,2,1%,69300,18%,Air
+CH140,Grayson Chan,China,CH,Chengdu,Male,Asian,B2C,Office Equipment,Laptop,19140,58000,1,4%,55680,18%,Air
+BR84,Nolan Molina,Brazil,BR,Manaus,Male,Latino,B2B,Home Appliance,TV,13064,56800,25,34%,937200,18%,Air
+CH141,Adam Kaur,China,CH,Chengdu,Male,Asian,B2B,Office Equipment,Telephone,875,3500,21,45%,40425,18%,Raod
+US362,Amelia Kaur,United States,US,Columbus,Female,Asian,B2C,Home Appliance,Fridge,9040,45200,2,6%,84976,18%,Air
+BR85,Autumn Gonzales,Brazil,BR,Manaus,Female,Latino,B2C,Home Appliance,Vacuum Cleaner,1134,5400,2,3%,10476,18%,Air
+US363,Ezra Wilson,United States,US,Miami,Male,Caucasian,B2C,Office Equipment,Telephone,1372,4900,3,12%,12936,18%,Air
+US364,Jacob Cheng,United States,US,Miami,Male,Asian,B2C,Office Equipment,Mircowave,1450,5800,3,12%,15312,18%,Air
+US365,Melody Valdez,United States,US,Miami,Female,Latino,B2C,Home Appliance,waching machine,6040,30200,3,2%,88788,28%,Air
+US366,Caroline Nelson,United States,US,Chicago,Female,Caucasian,B2C,Home Appliance,Mircowave,2673,8100,2,15%,13770,18%,Air
+BR86,Ellie Guerrero,Brazil,BR,Manaus,Female,Latino,B2B,Office Equipment,Desktop,8532,23700,33,39%,477081,18%,Air
+US367,Genesis Zhu,United States,US,Seattle,Female,Asian,B2C,Office Equipment,Printer,9074,34900,3,15%,88995,18%,Air
+US368,Jonathan Ho,United States,US,Columbus,Male,Asian,B2B,Home Appliance,Air Purifier,9766,25700,26,50%,334100,18%,Air
+US369,Savannah Park,United States,US,Seattle,Female,Asian,B2C,Home Appliance,Air Purifier,10449,38700,2,7%,71982,18%,Air
+US370,Nathan Chan,United States,US,Seattle,Male,Asian,B2C,Home Appliance,waching machine,22050,73500,3,14%,189630,28%,Air
+US371,Sofia Vu,United States,US,Austin,Female,Asian,B2C,Home Appliance,Oven,5084,16400,2,10%,29520,18%,Air
+US372,Ruby Choi,United States,US,Columbus,Female,Asian,B2C,Office Equipment,Desktop,5824,22400,3,15%,57120,18%,Air
+US373,Lily Pena,United States,US,Miami,Female,Latino,B2B,Office Equipment,Laptop,24810,82700,12,42%,575592,18%,Air
+US374,Liam Zhang,United States,US,Chicago,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,1512,5600,2,11%,9968,18%,Air
+BR87,Ian Gutierrez,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Office Equipment,Laptop,27684,76900,1,6%,72286,18%,Air
+US375,David Simmons,United States,US,Phoenix,Male,Caucasian,B2C,Office Equipment,Printer,18241,49300,3,4%,141984,18%,Air
+US376,Lincoln Henderson,United States,US,Chicago,Male,Caucasian,B2B,Home Appliance,Dishwasher,7920,39600,35,46%,748440,18%,Air
+US377,Nathan Miller,United States,US,Miami,Male,Black,B2C,Office Equipment,Oven,2625,12500,1,9%,11375,18%,Air
+CH142,James Singh,China,CH,Chongqing,Male,Asian,B2C,Office Equipment,Mircowave,1482,5700,3,15%,14535,18%,Air
+BR88,Kayden Ortega,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Office Equipment,Coffee Vender Machin,17560,87800,2,12%,154528,18%,Air
+US378,Lucy Figueroa,United States,US,Columbus,Female,Latino,B2C,Office Equipment,Oven,2656,8300,3,14%,21414,18%,Air
+BR89,Joshua Cortez,Brazil,BR,Manaus,Male,Latino,B2B,Home Appliance,Dishwasher,12510,41700,31,40%,775620,18%,Air
+US379,Alexander Morris,United States,US,Phoenix,Male,Caucasian,B2C,Home Appliance,AC,24123,73100,2,5%,138890,28%,Air
+US380,Grayson Chin,United States,US,Austin,Male,Asian,B2C,Home Appliance,Air Purifier,9932,38200,1,15%,32470,18%,Air
+US381,Allison Espinoza,United States,US,Miami,Female,Latino,B2C,Home Appliance,Fridge,12731,43900,3,4%,126432,18%,Air
+CH143,Naomi Chu,China,CH,Chongqing,Female,Asian,B2C,Office Equipment,Coffee Vender Machin,20670,79500,3,0%,238500,18%,Air
+US382,Jameson Martin,United States,US,Phoenix,Male,Caucasian,B2B,Home Appliance,Oven,6386,20600,19,41%,230926,18%,Air
+CH144,Sebastian Gupta,China,CH,Chongqing,Male,Asian,B2C,Home Appliance,TV,28292,128600,2,0%,257200,18%,Air
+CH145,Eloise Pham,China,CH,Shanghai,Female,Asian,B2B,Office Equipment,Mircowave,3724,9800,17,42%,96628,18%,Raod
+US383,Valentina Davis,United States,US,Miami,Female,Caucasian,B2C,Office Equipment,Mircowave,3468,10200,2,15%,17340,18%,Air
+US384,Brooklyn Daniels,United States,US,Miami,Female,Caucasian,B2B,Office Equipment,Mircowave,1180,5900,42,35%,161070,18%,Air
+BR90,Paisley Gomez,Brazil,BR,Rio de Janerio,Female,Latino,B2C,Home Appliance,Dishwasher,11026,29800,2,13%,51852,18%,Air
+CH146,Madison Li,China,CH,Beijing,Female,Asian,B2C,Home Appliance,AC,22260,79500,1,7%,73935,28%,Air
+US385,Everleigh Simmons,United States,US,Chicago,Female,Caucasian,B2B,Office Equipment,Oven,7106,18700,32,32%,406912,18%,Air
+US386,Logan Soto,United States,US,Columbus,Male,Latino,B2C,Office Equipment,Printer,9184,28700,3,8%,79212,18%,Air
+US387,Charlotte Vo,United States,US,Seattle,Female,Asian,B2C,Home Appliance,Air Purifier,12243,37100,2,10%,66780,18%,Air
+US388,Alice Thompson,United States,US,Seattle,Female,Caucasian,B2C,Home Appliance,AC,49099,132700,2,3%,257438,28%,Air
+BR91,Peyton Garza,Brazil,BR,Manaus,Female,Latino,B2B,Home Appliance,Dishwasher,7791,37100,16,30%,415520,18%,Air
+US389,Nora Nelson,United States,US,Columbus,Female,Caucasian,B2C,Home Appliance,Fridge,7625,30500,2,7%,56730,18%,Air
+US390,Maverick Li,United States,US,Austin,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,884,3400,2,13%,5916,18%,Air
+US391,Ian Barnes,United States,US,Miami,Male,Caucasian,B2C,Home Appliance,Fridge,11718,37800,1,11%,33642,18%,Air
+US392,Athena Vu,United States,US,Miami,Female,Asian,B2C,Office Equipment,Mircowave,3807,14100,2,6%,26508,18%,Air
+US393,Ruby Washington,United States,US,Seattle,Female,Black,B2C,Office Equipment,Coffee Vender Machin,17056,53300,3,3%,155103,18%,Air
+US394,Bella Butler,United States,US,Seattle,Female,Black,B2B,Home Appliance,Dishwasher,5957,25900,21,31%,375291,18%,Air
+US395,Kinsley Henry,United States,US,Miami,Female,Black,B2B,Home Appliance,waching machine,12960,43200,19,43%,467856,28%,Air
+BR92,Kennedy Romero,Brazil,BR,Rio de Janerio,Female,Latino,B2C,Office Equipment,Printer,5460,21000,2,13%,36540,18%,Air
+CH147,Zoe Do,China,CH,Beijing,Female,Asian,B2C,Office Equipment,Oven,5728,17900,2,3%,34726,18%,Air
+US396,Everett Khan,United States,US,Chicago,Male,Asian,B2B,Home Appliance,Vacuum Cleaner,1332,3700,36,41%,78588,18%,Air
+US397,Anna Han,United States,US,Austin,Female,Asian,B2C,Office Equipment,Oven,4200,15000,2,8%,27600,18%,Air
+CH148,Leilani Sharma,China,CH,Chengdu,Female,Asian,B2C,Home Appliance,Mircowave,5476,14800,3,1%,43956,18%,Air
+US398,Jordan Cho,United States,US,Phoenix,Male,Asian,B2C,Home Appliance,Air Purifier,4617,17100,3,11%,45657,18%,Air
+US399,Nova Williams,United States,US,Miami,Female,Black,B2B,Office Equipment,Telephone,682,2200,37,34%,53724,18%,Air
+US400,Scarlett Hill,United States,US,Columbus,Female,Black,B2C,Home Appliance,Mircowave,2240,11200,1,8%,10304,18%,Air
+US401,Dominic Scott,United States,US,Phoenix,Male,Caucasian,B2C,Office Equipment,Coffee Vender Machin,9120,45600,1,4%,43776,18%,Air
+US402,Anthony Marquez,United States,US,Columbus,Male,Latino,B2C,Office Equipment,Telephone,1240,4000,2,9%,7280,18%,Air
+US403,Elena Patterson,United States,US,Chicago,Female,Black,B2C,Office Equipment,Coffee Vender Machin,11781,56100,1,2%,54978,18%,Air
+US404,Madison Nelson,United States,US,Miami,Female,Caucasian,B2C,Home Appliance,Oven,3725,14900,3,15%,37995,18%,Air
+US405,William Walker,United States,US,Columbus,Male,Black,B2C,Home Appliance,Oven,3549,9100,1,14%,7826,18%,Air
+US406,Lincoln Wong,United States,US,Columbus,Male,Asian,B2C,Home Appliance,TV,12256,38300,2,9%,69706,18%,Air
+CH149,James Huang,China,CH,Beijing,Male,Asian,B2C,Home Appliance,Oven,4466,20300,3,10%,54810,18%,Air
+US407,Emery Ford,United States,US,Austin,Female,Caucasian,B2C,Home Appliance,TV,10998,42300,1,4%,40608,18%,Air
+US408,Paisley Trinh,United States,US,Austin,Female,Asian,B2B,Home Appliance,Dishwasher,9683,42100,46,46%,1045764,18%,Air
+US409,Hudson Williams,United States,US,Austin,Male,Black,B2C,Home Appliance,TV,37128,95200,1,1%,94248,18%,Air
+CH150,Harper Phan,China,CH,Shanghai,Female,Asian,B2C,Office Equipment,Desktop,6086,17900,2,12%,31504,18%,Air
+US410,Madeline Allen,United States,US,Seattle,Female,Caucasian,B2C,Home Appliance,TV,18408,70800,2,10%,127440,18%,Air
+US411,Charles Moore,United States,US,Miami,Male,Black,B2C,Office Equipment,Coffee Vender Machin,21944,84400,1,8%,77648,18%,Air
+CH151,Lincoln Fong,China,CH,Chongqing,Male,Asian,B2C,Office Equipment,Laptop,31450,85000,1,0%,85000,18%,Air
+BR93,Isla Guzman,Brazil,BR,Rio de Janerio,Female,Latino,B2C,Home Appliance,Dishwasher,10780,53900,1,6%,50666,18%,Air
+US412,Hailey Foster,United States,US,Chicago,Female,Black,B2C,Home Appliance,Mircowave,1700,6800,3,13%,17748,18%,Air
+US413,Hudson Hill,United States,US,Austin,Male,Caucasian,B2C,Office Equipment,Desktop,8528,32800,2,13%,57072,18%,Air
+US414,Wyatt Li,United States,US,Chicago,Male,Asian,B2C,Home Appliance,Fridge,11550,55000,2,6%,103400,18%,Air
+US415,Maverick Henry,United States,US,Chicago,Male,Caucasian,B2C,Home Appliance,Fridge,6536,17200,2,15%,29240,18%,Air
+US416,Xavier Jackson,United States,US,Miami,Male,Caucasian,B2C,Office Equipment,Printer,2880,14400,2,5%,27360,18%,Air
+US417,Christian Medina,United States,US,Columbus,Male,Latino,B2C,Home Appliance,Fridge,4708,21400,3,6%,60348,18%,Air
+US418,Autumn Leung,United States,US,Chicago,Female,Asian,B2B,Office Equipment,Oven,4407,11300,34,48%,199784,18%,Air
+US419,Robert Vazquez,United States,US,Austin,Male,Latino,B2C,Office Equipment,Coffee Vender Machin,15444,46800,2,2%,91728,18%,Air
+US420,Aria Roberts,United States,US,Seattle,Female,Caucasian,B2C,Home Appliance,AC,32427,120100,1,15%,102085,28%,Air
+US421,Axel Johnson,United States,US,Seattle,Male,Caucasian,B2C,Home Appliance,Oven,1767,5700,2,10%,10260,18%,Air
+BR94,Madeline Garcia,Brazil,BR,Rio de Janerio,Female,Latino,B2C,Home Appliance,Oven,3861,11700,3,10%,31590,18%,Air
+US422,Christopher Chung,United States,US,Phoenix,Male,Asian,B2C,Home Appliance,Dishwasher,9758,28700,1,12%,25256,18%,Air
+US423,Eliana Turner,United States,US,Austin,Female,Black,B2C,Office Equipment,Telephone,780,2600,2,9%,4732,18%,Air
+CH152,Daniel Shah,China,CH,Beijing,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,14448,51600,3,13%,134676,18%,Air
+US424,Penelope Gonzalez,United States,US,Phoenix,Female,Latino,B2C,Office Equipment,Printer,11840,32000,2,14%,55040,18%,Air
+US425,Mila Allen,United States,US,Miami,Female,Caucasian,B2C,Home Appliance,Mircowave,2106,7800,3,1%,23166,18%,Air
+US426,Emilia Chu,United States,US,Austin,Female,Asian,B2B,Office Equipment,Printer,8730,29100,14,35%,264810,18%,Air
+US427,Emily Clark,United States,US,Miami,Female,Caucasian,B2B,Home Appliance,TV,13650,65000,17,42%,640900,18%,Air
+US428,Roman King,United States,US,Columbus,Male,Caucasian,B2C,Office Equipment,Telephone,1392,4800,3,3%,13968,18%,Air
+US429,Emery Do,United States,US,Columbus,Female,Asian,B2C,Home Appliance,waching machine,23859,72300,3,6%,203886,28%,Air
+US430,Autumn Thao,United States,US,Phoenix,Female,Asian,B2C,Office Equipment,Desktop,10836,30100,1,2%,29498,18%,Air
+US431,Naomi Coleman,United States,US,Phoenix,Female,Caucasian,B2C,Home Appliance,Mircowave,4445,12700,1,12%,11176,18%,Air
+CH153,Cora Zheng,China,CH,Chengdu,Female,Asian,B2C,Home Appliance,AC,26225,104900,3,15%,267495,28%,Air
+US432,Ayla Daniels,United States,US,Miami,Female,Caucasian,B2C,Office Equipment,Oven,3486,16600,1,14%,14276,18%,Air
+US433,Allison Daniels,United States,US,Phoenix,Female,Caucasian,B2C,Home Appliance,TV,54540,151500,2,8%,278760,18%,Air
+US434,Mateo Harris,United States,US,Columbus,Male,Caucasian,B2C,Home Appliance,Fridge,9828,27300,3,12%,72072,18%,Air
+US435,Samantha Rogers,United States,US,Miami,Female,Caucasian,B2C,Office Equipment,Printer,8466,24900,1,9%,22659,18%,Air
+US436,Julian Lee,United States,US,Seattle,Male,Asian,B2C,Home Appliance,Mircowave,3213,11900,1,11%,10591,18%,Air
+US437,Nicholas Avila,United States,US,Austin,Male,Latino,B2C,Home Appliance,Dishwasher,17952,54400,2,15%,92480,18%,Air
+US438,Hailey Watson,United States,US,Columbus,Female,Black,B2C,Office Equipment,Mircowave,1683,5100,3,2%,14994,18%,Air
+US439,Willow Woods,United States,US,Miami,Female,Caucasian,B2C,Office Equipment,Oven,2620,13100,1,10%,11790,18%,Air
+US440,Alexander Gonzales,United States,US,Phoenix,Male,Latino,B2C,Home Appliance,Oven,4440,18500,1,0%,18500,18%,Air
+BR95,Aiden Gonzales,Brazil,BR,Sao Paulo,Male,Latino,B2C,Home Appliance,AC,42862,147800,3,5%,421230,28%,Air
+US441,Joshua Chin,United States,US,Phoenix,Male,Asian,B2C,Home Appliance,Fridge,7524,19800,2,15%,33660,18%,Air
+US442,Paisley Hall,United States,US,Columbus,Female,Caucasian,B2C,Home Appliance,Mircowave,2112,6400,2,2%,12544,18%,Air
+US443,Allison Leung,United States,US,Austin,Female,Asian,B2C,Office Equipment,Desktop,3910,11500,3,11%,30705,18%,Air
+US444,Hannah Mejia,United States,US,Austin,Female,Latino,B2B,Office Equipment,Mircowave,4095,11700,26,39%,185562,18%,Air
+CH154,Elizabeth Huang,China,CH,Beijing,Female,Asian,B2C,Home Appliance,Mircowave,2418,9300,3,14%,23994,18%,Air
+US445,Abigail Garza,United States,US,Seattle,Female,Latino,B2C,Office Equipment,Oven,5100,15000,3,10%,40500,18%,Air
+CH155,Raelynn Lu,China,CH,Chongqing,Female,Asian,B2C,Home Appliance,Fridge,5796,16100,2,6%,30268,18%,Air
+CH156,Charles Luu,China,CH,Shanghai,Male,Asian,B2C,Home Appliance,TV,28776,119900,3,15%,305745,18%,Air
+BR96,Lydia Espinoza,Brazil,BR,Sao Paulo,Female,Latino,B2C,Home Appliance,TV,32860,106000,1,7%,98580,18%,Air
+US446,Adeline Thao,United States,US,Seattle,Female,Asian,B2C,Office Equipment,Telephone,1333,4300,2,2%,8428,18%,Air
+US447,Kinsley Dixon,United States,US,Miami,Female,Caucasian,B2C,Office Equipment,Printer,20128,54400,3,11%,145248,18%,Air
+US448,Natalia Vu,United States,US,Columbus,Female,Asian,B2B,Office Equipment,Printer,14703,50700,42,37%,1341522,18%,Air
+CH157,Julia Mai,China,CH,Shanghai,Female,Asian,B2B,Office Equipment,Laptop,26949,69100,43,31%,2050197,18%,Raod
+US449,Camila Evans,United States,US,Miami,Female,Black,B2B,Office Equipment,Desktop,2420,12100,31,45%,206305,18%,Air
+US450,Everly Lai,United States,US,Chicago,Female,Asian,B2C,Home Appliance,Vacuum Cleaner,1320,4400,2,12%,7744,18%,Air
+CH158,Adam He,China,CH,Beijing,Male,Asian,B2B,Office Equipment,Coffee Vender Machin,31668,81200,16,46%,701568,18%,Raod
+US451,Vivian Hunter,United States,US,Seattle,Female,Black,B2C,Home Appliance,Oven,4200,20000,3,15%,51000,18%,Air
+BR97,Lucy Avila,Brazil,BR,Sao Paulo,Female,Latino,B2B,Home Appliance,Vacuum Cleaner,1260,3500,36,33%,84420,18%,Air
+US452,Eliana Li,United States,US,Miami,Female,Asian,B2C,Home Appliance,Dishwasher,8118,36900,3,8%,101844,18%,Air
+US453,Logan Mitchell,United States,US,Columbus,Male,Caucasian,B2B,Home Appliance,TV,41441,142900,17,31%,1676217,18%,Air
+US454,Dominic Dinh,United States,US,Chicago,Male,Asian,B2C,Home Appliance,TV,54075,154500,3,5%,440325,18%,Air
+US455,Lucas Daniels,United States,US,Chicago,Male,Black,B2C,Home Appliance,waching machine,9828,46800,3,4%,134784,28%,Air
+US456,Andrew Holmes,United States,US,Miami,Male,Black,B2B,Office Equipment,Telephone,858,3900,27,34%,69498,18%,Air
+US457,Julia Sandoval,United States,US,Miami,Female,Latino,B2C,Home Appliance,Vacuum Cleaner,1248,3900,1,9%,3549,18%,Air
+BR98,Kennedy Vargas,Brazil,BR,Manaus,Female,Latino,B2B,Office Equipment,Desktop,8020,40100,50,50%,1002500,18%,Air
+US458,Thomas Williams,United States,US,Columbus,Male,Caucasian,B2C,Home Appliance,Dishwasher,10185,29100,3,3%,84681,18%,Air
+CH159,Raelynn Hong,China,CH,Beijing,Female,Asian,B2C,Home Appliance,TV,36746,96700,2,12%,170192,18%,Air
+US459,Eli Reed,United States,US,Miami,Male,Caucasian,B2B,Home Appliance,Vacuum Cleaner,1085,3100,46,45%,78430,18%,Air
+US460,Lyla Yoon,United States,US,Austin,Female,Asian,B2C,Office Equipment,Desktop,4212,15600,2,10%,28080,18%,Air
+US461,Hannah White,United States,US,Phoenix,Female,Caucasian,B2C,Home Appliance,Fridge,7752,32300,3,11%,86241,18%,Air
+CH160,Theodore Xi,China,CH,Shanghai,Male,Asian,B2B,Office Equipment,Coffee Vender Machin,29760,93000,13,33%,810030,18%,Raod
+US462,Ezra Liang,United States,US,Miami,Male,Asian,B2C,Home Appliance,TV,41028,157800,1,4%,151488,18%,Air
+CH161,Grayson Yee,China,CH,Beijing,Male,Asian,B2C,Office Equipment,Telephone,1035,4500,2,15%,7650,18%,Air
+US463,Eli Richardson,United States,US,Seattle,Male,Caucasian,B2B,Home Appliance,Oven,2950,11800,21,38%,153636,18%,Air
+CH162,Audrey Lee,China,CH,Chongqing,Female,Asian,B2C,Home Appliance,Vacuum Cleaner,1215,4500,1,13%,3915,18%,Air
+US464,Jameson Allen,United States,US,Seattle,Male,Caucasian,B2C,Home Appliance,waching machine,4998,23800,2,5%,45220,28%,Air
+US465,Eliza Chen,United States,US,Austin,Female,Asian,B2C,Home Appliance,waching machine,4578,21800,1,2%,21364,28%,Air
+US466,Lyla Chen,United States,US,Chicago,Female,Asian,B2C,Home Appliance,Oven,5400,13500,1,15%,11475,18%,Air
+US467,Emily Doan,United States,US,Phoenix,Female,Asian,B2C,Home Appliance,Fridge,16080,40200,1,8%,36984,18%,Air
+CH163,Jack Mai,China,CH,Chengdu,Male,Asian,B2B,Office Equipment,Printer,3575,14300,19,33%,182039,18%,Raod
+US468,Grayson Turner,United States,US,Chicago,Male,Caucasian,B2C,Home Appliance,Oven,5400,20000,1,6%,18800,18%,Air
+CH164,Ivy Tang,China,CH,Shanghai,Female,Asian,B2C,Home Appliance,Oven,4824,13400,2,3%,25996,18%,Air
+US469,Robert Zhang,United States,US,Phoenix,Male,Asian,B2C,Office Equipment,Oven,2700,10800,2,4%,20736,18%,Air
+BR99,Eva Alvarado,Brazil,BR,Sao Paulo,Female,Latino,B2B,Home Appliance,AC,23184,64400,10,42%,373520,28%,Air
+CH165,Abigail Vang,China,CH,Chengdu,Female,Asian,B2B,Home Appliance,waching machine,8016,33400,45,33%,1007010,28%,Raod
+US470,Claire Adams,United States,US,Phoenix,Female,Black,B2B,Office Equipment,Laptop,15606,57800,48,44%,1553664,18%,Air
+BR100,Theodore Marquez,Brazil,BR,Sao Paulo,Male,Latino,B2C,Office Equipment,Coffee Vender Machin,17584,62800,2,9%,114296,18%,Air
+US471,Hunter Nunez,United States,US,Seattle,Male,Latino,B2B,Office Equipment,Desktop,16320,40800,26,48%,551616,18%,Air
+US472,Charles Henderson,United States,US,Austin,Male,Caucasian,B2C,Home Appliance,Vacuum Cleaner,975,3900,3,2%,11466,18%,Air
+US473,Camila Cortez,United States,US,Phoenix,Female,Latino,B2C,Home Appliance,TV,10255,29300,2,10%,52740,18%,Air
+US474,Aaron Garza,United States,US,Columbus,Male,Latino,B2C,Home Appliance,Fridge,9168,38200,1,7%,35526,18%,Air
+US475,Jose Singh,United States,US,Columbus,Male,Asian,B2C,Home Appliance,Mircowave,1820,5200,1,7%,4836,18%,Air
+US476,Gabriel Joseph,United States,US,Miami,Male,Caucasian,B2B,Home Appliance,waching machine,26910,69000,49,49%,1724310,28%,Air
+BR101,Natalia Santos,Brazil,BR,Sao Paulo,Female,Latino,B2C,Home Appliance,Fridge,6624,18400,2,14%,31648,18%,Air
+US477,Dylan Wilson,United States,US,Seattle,Male,Caucasian,B2C,Home Appliance,Fridge,13299,34100,1,9%,31031,18%,Air
+BR102,Robert Alvarez,Brazil,BR,Manaus,Male,Latino,B2B,Home Appliance,Oven,2850,11400,45,46%,277020,18%,Air
+BR103,Samantha Chavez,Brazil,BR,Manaus,Female,Latino,B2B,Office Equipment,Coffee Vender Machin,20526,93300,22,41%,1211034,18%,Air
+US478,Samuel Bailey,United States,US,Seattle,Male,Caucasian,B2C,Home Appliance,Mircowave,4953,12700,2,15%,21590,18%,Air
+BR104,Ezekiel Delgado,Brazil,BR,Manaus,Male,Latino,B2B,Office Equipment,Coffee Vender Machin,31228,84400,37,32%,2123504,18%,Air
+US479,Benjamin Ramirez,United States,US,Chicago,Male,Latino,B2C,Office Equipment,Printer,16709,53900,1,4%,51744,18%,Air
+US480,Anthony Carter,United States,US,Columbus,Male,Caucasian,B2C,Home Appliance,Oven,7585,20500,1,1%,20295,18%,Air
+US481,Ethan Tang,United States,US,Chicago,Male,Asian,B2B,Office Equipment,Mircowave,2900,10000,21,36%,134400,18%,Air
+US482,Sebastian Rogers,United States,US,Miami,Male,Caucasian,B2B,Office Equipment,Laptop,26845,76700,39,47%,1585389,18%,Air
+US483,Miles Thao,United States,US,Columbus,Male,Asian,B2C,Office Equipment,Laptop,20940,69800,3,0%,209400,18%,Air
+CH166,William Cao,China,CH,Beijing,Male,Asian,B2C,Home Appliance,TV,55459,178900,2,10%,322020,18%,Air
+CH167,Leo Hsu,China,CH,Chongqing,Male,Asian,B2B,Home Appliance,waching machine,7106,32300,37,48%,621452,28%,Raod
+US484,Avery Grant,United States,US,Chicago,Female,Caucasian,B2C,Office Equipment,Oven,2000,10000,1,10%,9000,18%,Air
+CH168,Penelope Fong,China,CH,Chongqing,Female,Asian,B2C,Home Appliance,Vacuum Cleaner,1240,4000,1,1%,3960,18%,Air
+US485,Vivian Thao,United States,US,Chicago,Female,Asian,B2C,Home Appliance,Fridge,21440,53600,2,15%,91120,18%,Air
+BR105,Eva Estrada,Brazil,BR,Sao Paulo,Female,Latino,B2C,Office Equipment,Laptop,19635,59500,3,2%,174930,18%,Air
+BR106,Emma Luna,Brazil,BR,Manaus,Female,Latino,B2C,Home Appliance,Oven,2997,11100,2,9%,20202,18%,Air
+CH169,Charlotte Wu,China,CH,Shanghai,Female,Asian,B2C,Home Appliance,TV,63294,191800,1,15%,163030,18%,Air
+CH170,Vivian Chu,China,CH,Shanghai,Female,Asian,B2B,Office Equipment,Coffee Vender Machin,21400,85600,31,48%,1379872,18%,Raod
+US486,Jayden Williams,United States,US,Columbus,Male,Caucasian,B2C,Office Equipment,Telephone,620,3100,1,13%,2697,18%,Air
+US487,Amelia Bell,United States,US,Seattle,Female,Caucasian,B2C,Office Equipment,Printer,5520,13800,1,11%,12282,18%,Air
+US488,Addison Mehta,United States,US,Columbus,Female,Asian,B2C,Office Equipment,Laptop,18352,49600,1,14%,42656,18%,Air
+US489,Alexander Jackson,United States,US,Columbus,Male,Caucasian,B2C,Home Appliance,Fridge,10548,29300,1,7%,27249,18%,Air
+CH171,Everly Lin,China,CH,Chongqing,Female,Asian,B2B,Home Appliance,AC,33504,104700,44,44%,2579808,28%,Raod
+US490,Lyla Stewart,United States,US,Austin,Female,Caucasian,B2C,Office Equipment,Printer,12456,51900,3,6%,146358,18%,Air
+US491,Brooklyn Ruiz,United States,US,Phoenix,Female,Latino,B2B,Office Equipment,Printer,6394,27800,36,35%,650520,18%,Air
+US492,Skylar Evans,United States,US,Austin,Female,Caucasian,B2C,Office Equipment,Coffee Vender Machin,18180,60600,2,12%,106656,18%,Air
+US493,Lincoln Huynh,United States,US,Austin,Male,Asian,B2C,Office Equipment,Desktop,8940,44700,1,4%,42912,18%,Air
+US494,Hazel Griffin,United States,US,Phoenix,Female,Caucasian,B2B,Home Appliance,Oven,1742,6700,47,43%,179493,18%,Air
+BR107,Charles Gonzalez,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Home Appliance,Air Purifier,6975,27900,2,4%,53568,18%,Air
+US495,Leah Patterson,United States,US,Austin,Female,Caucasian,B2C,Office Equipment,Oven,4420,17000,1,13%,14790,18%,Air
+CH172,Avery Sun,China,CH,Chongqing,Female,Asian,B2C,Home Appliance,Vacuum Cleaner,1080,3600,2,7%,6696,18%,Air
+US496,Isaac Yoon,United States,US,Chicago,Male,Asian,B2C,Home Appliance,Oven,4508,16100,3,5%,45885,18%,Air
+US497,Isabella Bui,United States,US,Miami,Female,Asian,B2C,Home Appliance,TV,14850,45000,2,1%,89100,18%,Air
+CH173,Gabriel Zhou,China,CH,Chongqing,Male,Asian,B2C,Office Equipment,Desktop,8764,31300,2,6%,58844,18%,Air
+CH174,Jack Vu,China,CH,Chengdu,Male,Asian,B2C,Home Appliance,Oven,6171,18700,1,3%,18139,18%,Air
+US498,Valentina Moua,United States,US,Columbus,Female,Asian,B2C,Office Equipment,Printer,6641,22900,1,2%,22442,18%,Air
+CH175,Quinn Trinh,China,CH,Beijing,Female,Asian,B2C,Home Appliance,Mircowave,5400,15000,2,6%,28200,18%,Air
+US499,Caroline Nelson,United States,US,Columbus,Female,Black,B2C,Home Appliance,Vacuum Cleaner,1288,4600,2,8%,8464,18%,Air
+US500,Miles Dang,United States,US,Miami,Male,Asian,B2B,Office Equipment,Desktop,9690,28500,39,33%,744705,18%,Air
+US501,Leah Bryant,United States,US,Austin,Female,Caucasian,B2C,Home Appliance,Dishwasher,10287,38100,1,12%,33528,18%,Air
+US502,Henry Jung,United States,US,Austin,Male,Asian,B2C,Office Equipment,Telephone,1394,4100,3,3%,11931,18%,Air
+US503,Benjamin Mai,United States,US,Phoenix,Male,Asian,B2C,Office Equipment,Printer,15120,54000,3,4%,155520,18%,Air
+US504,Anna Han,United States,US,Chicago,Female,Asian,B2C,Home Appliance,TV,48006,177800,1,7%,165354,18%,Air
+CH176,Ariana Kim,China,CH,Chengdu,Female,Asian,B2C,Office Equipment,Printer,4209,18300,1,5%,17385,18%,Air
+US505,Alice Tran,United States,US,Seattle,Female,Asian,B2C,Office Equipment,Coffee Vender Machin,33115,89500,2,15%,152150,18%,Air
+CH177,Hailey Song,China,CH,Chongqing,Female,Asian,B2C,Home Appliance,waching machine,17395,49700,2,7%,92442,28%,Air
+BR108,Lydia Morales,Brazil,BR,Manaus,Female,Latino,B2C,Office Equipment,Desktop,11592,41400,2,13%,72036,18%,Air
+US506,Liam Sanders,United States,US,Seattle,Male,Caucasian,B2C,Home Appliance,Air Purifier,8820,24500,1,7%,22785,18%,Air
+BR109,Luke Sanchez,Brazil,BR,Sao Paulo,Male,Latino,B2C,Office Equipment,Laptop,8339,26900,3,9%,73437,18%,Air
+CH178,Grace Sun,China,CH,Shanghai,Female,Asian,B2C,Office Equipment,Desktop,7371,35100,2,3%,68094,18%,Air
+US507,Ezra Banks,United States,US,Chicago,Male,Caucasian,B2C,Office Equipment,Coffee Vender Machin,19000,47500,1,11%,42275,18%,Air
+US508,Jayden Kang,United States,US,Seattle,Male,Asian,B2C,Home Appliance,waching machine,16100,80500,3,6%,227010,28%,Air
+US509,Skylar Shah,United States,US,Phoenix,Female,Asian,B2B,Office Equipment,Printer,6604,25400,22,35%,363220,18%,Air
+CH179,Sebastian Le,China,CH,Beijing,Male,Asian,B2C,Office Equipment,Printer,10640,30400,3,8%,83904,18%,Air
+US510,Luca Nelson,United States,US,Miami,Male,Caucasian,B2C,Office Equipment,Laptop,10989,33300,3,10%,89910,18%,Air
+US511,Riley Ramirez,United States,US,Chicago,Female,Latino,B2C,Office Equipment,Desktop,9700,38800,1,13%,33756,18%,Air
+CH180,Jaxon Fong,China,CH,Beijing,Male,Asian,B2C,Office Equipment,Laptop,10656,44400,3,7%,123876,18%,Air
+US512,Kayden Jordan,United States,US,Phoenix,Male,Caucasian,B2C,Office Equipment,Oven,5976,16600,2,3%,32204,18%,Air
+US513,Alexander James,United States,US,Columbus,Male,Caucasian,B2C,Office Equipment,Printer,12375,37500,2,4%,72000,18%,Air
+CH181,Connor Luu,China,CH,Chengdu,Male,Asian,B2C,Office Equipment,Oven,5700,15000,2,11%,26700,18%,Air
+US514,Christopher Lam,United States,US,Columbus,Male,Asian,B2C,Office Equipment,Mircowave,1584,4800,2,7%,8928,18%,Air
+US515,Sophie Owens,United States,US,Seattle,Female,Caucasian,B2C,Home Appliance,Oven,7486,19700,2,2%,38612,18%,Air
+BR110,Addison Perez,Brazil,BR,Sao Paulo,Female,Latino,B2C,Home Appliance,Air Purifier,9821,42700,2,5%,81130,18%,Air
+US516,Hadley Dang,United States,US,Austin,Female,Asian,B2C,Home Appliance,waching machine,21423,57900,1,9%,52689,28%,Air
+US517,Ethan Mehta,United States,US,Phoenix,Male,Asian,B2B,Office Equipment,Telephone,480,1500,44,39%,40260,18%,Air
+US518,Madison Her,United States,US,Seattle,Female,Asian,B2C,Home Appliance,Air Purifier,12015,44500,3,4%,128160,18%,Air
+US519,Savannah Singh,United States,US,Seattle,Female,Asian,B2C,Office Equipment,Laptop,14616,52200,2,2%,102312,18%,Air
+US520,Nevaeh Hsu,United States,US,Phoenix,Female,Asian,B2C,Office Equipment,Mircowave,3180,10600,3,5%,30210,18%,Air
+US521,Jordan Zhu,United States,US,Seattle,Male,Asian,B2C,Home Appliance,Air Purifier,5735,18500,3,11%,49395,18%,Air
+BR111,Jackson Navarro,Brazil,BR,Sao Paulo,Male,Latino,B2C,Home Appliance,Mircowave,3729,11300,3,4%,32544,18%,Air
+US522,Sadie Patterson,United States,US,Seattle,Female,Caucasian,B2C,Office Equipment,Oven,3108,14800,1,11%,13172,18%,Air
+US523,Christopher Butler,United States,US,Miami,Male,Caucasian,B2C,Office Equipment,Desktop,10800,43200,2,14%,74304,18%,Air
+BR112,Penelope Rodriguez,Brazil,BR,Rio de Janerio,Female,Latino,B2C,Home Appliance,waching machine,13860,42000,3,11%,112140,28%,Air
+US524,Emily Lau,United States,US,Phoenix,Female,Asian,B2C,Home Appliance,TV,20539,89300,2,15%,151810,18%,Air
+US525,Sophie Oh,United States,US,Miami,Female,Asian,B2C,Home Appliance,Mircowave,2380,7000,1,5%,6650,18%,Air
+US526,Chloe Allen,United States,US,Seattle,Female,Caucasian,B2B,Office Equipment,Mircowave,1672,7600,48,49%,186048,18%,Air
+US527,Caleb Nelson,United States,US,Columbus,Male,Caucasian,B2C,Office Equipment,Desktop,2415,10500,1,10%,9450,18%,Air
+US528,Oliver Moua,United States,US,Seattle,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,24080,60200,2,10%,108360,18%,Air
+CH182,Wesley Doan,China,CH,Shanghai,Male,Asian,B2C,Home Appliance,Mircowave,2546,6700,2,14%,11524,18%,Air
+US529,Nova Hsu,United States,US,Phoenix,Female,Asian,B2C,Office Equipment,Oven,6916,18200,1,5%,17290,18%,Air
+BR113,Levi Moreno,Brazil,BR,Manaus,Male,Latino,B2C,Office Equipment,Printer,9801,36300,2,8%,66792,18%,Air
+CH183,Gianna Ha,China,CH,Chongqing,Female,Asian,B2B,Office Equipment,Telephone,468,1800,27,45%,26730,18%,Raod
+BR114,Lillian Gonzales,Brazil,BR,Manaus,Female,Latino,B2C,Home Appliance,Dishwasher,14105,40300,3,2%,118482,18%,Air
+US530,Ezra Singh,United States,US,Austin,Male,Asian,B2C,Home Appliance,Mircowave,4455,13500,2,6%,25380,18%,Air
+CH184,Audrey Patel,China,CH,Shanghai,Female,Asian,B2C,Home Appliance,Mircowave,2740,13700,3,6%,38634,18%,Air
+CH185,Brooklyn Cho,China,CH,Chengdu,Female,Asian,B2C,Office Equipment,Telephone,800,2500,2,14%,4300,18%,Air
+US531,Piper Ramos,United States,US,Miami,Female,Latino,B2C,Home Appliance,Oven,3480,12000,3,15%,30600,18%,Air
+US532,Eleanor Williams,United States,US,Chicago,Female,Caucasian,B2C,Office Equipment,Desktop,9538,25100,3,5%,71535,18%,Air
+US533,Melody Grant,United States,US,Seattle,Female,Caucasian,B2B,Home Appliance,Fridge,3675,14700,13,35%,124215,18%,Air
+US534,Paisley Sanders,United States,US,Miami,Female,Caucasian,B2C,Office Equipment,Printer,5236,23800,2,8%,43792,18%,Air
+US535,Santiago F Gray,United States,US,Chicago,Male,Caucasian,B2C,Home Appliance,Air Purifier,9750,32500,3,5%,92625,18%,Air
+US536,Josephine Richardson,United States,US,Austin,Female,Caucasian,B2C,Office Equipment,Printer,4060,14000,3,14%,36120,18%,Air
+US537,Jaxson Santiago,United States,US,Phoenix,Male,Latino,B2C,Home Appliance,Air Purifier,9153,33900,1,7%,31527,18%,Air
+US538,Lincoln Ramos,United States,US,Austin,Male,Latino,B2C,Home Appliance,Oven,5950,17500,3,1%,51975,18%,Air
+US539,Dylan Campbell,United States,US,Phoenix,Male,Caucasian,B2C,Home Appliance,waching machine,6552,23400,2,10%,42120,28%,Air
+US540,Olivia Gray,United States,US,Columbus,Female,Black,B2C,Home Appliance,Air Purifier,9690,25500,2,1%,50490,18%,Air
+CH186,Emery Doan,China,CH,Shanghai,Female,Asian,B2C,Home Appliance,Air Purifier,10447,33700,1,14%,28982,18%,Air
+BR115,Caroline Perez,Brazil,BR,Sao Paulo,Female,Latino,B2C,Office Equipment,Telephone,429,1300,2,14%,2236,18%,Air
+US541,Genesis Woods,United States,US,Columbus,Female,Black,B2C,Home Appliance,Fridge,9042,27400,1,14%,23564,18%,Air
+CH187,Ruby Sun,China,CH,Shanghai,Female,Asian,B2C,Home Appliance,waching machine,10080,36000,2,14%,61920,28%,Air
+US542,Nevaeh James,United States,US,Austin,Female,Caucasian,B2B,Home Appliance,Fridge,4968,20700,35,38%,449190,18%,Air
+US543,Parker Sandoval,United States,US,Miami,Male,Latino,B2C,Home Appliance,Fridge,11656,37600,1,4%,36096,18%,Air
+US544,Austin Rojas,United States,US,Austin,Male,Latino,B2B,Home Appliance,Air Purifier,4590,17000,50,48%,442000,18%,Air
+BR116,Vivian Espinoza,Brazil,BR,Rio de Janerio,Female,Latino,B2C,Home Appliance,Oven,4524,15600,1,6%,14664,18%,Air
+CH188,Cooper Gupta,China,CH,Chongqing,Male,Asian,B2B,Home Appliance,Dishwasher,11470,31000,47,48%,757640,18%,Raod
+US545,Axel Santos,United States,US,Phoenix,Male,Latino,B2B,Office Equipment,Coffee Vender Machin,21924,78300,10,44%,438480,18%,Air
+US546,Samuel Song,United States,US,Columbus,Male,Asian,B2C,Home Appliance,Oven,1980,6600,1,10%,5940,18%,Air
+BR117,Aiden Silva,Brazil,BR,Manaus,Male,Latino,B2C,Home Appliance,Dishwasher,10206,48600,1,12%,42768,18%,Air
+US547,Eliana Allen,United States,US,Phoenix,Female,Caucasian,B2C,Office Equipment,Coffee Vender Machin,31858,93700,2,15%,159290,18%,Air
+US548,Grayson James,United States,US,Seattle,Male,Caucasian,B2C,Office Equipment,Laptop,15570,51900,3,14%,133902,18%,Air
+CH189,Hailey Yee,China,CH,Chongqing,Female,Asian,B2C,Office Equipment,Printer,15312,46400,2,7%,86304,18%,Air
+BR118,Ian Vargas,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Office Equipment,Telephone,418,1100,1,0%,1100,18%,Air
+CH190,John Trinh,China,CH,Shanghai,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,16128,76800,1,11%,68352,18%,Air
+CH191,Sofia Trinh,China,CH,Chongqing,Female,Asian,B2B,Home Appliance,Dishwasher,12915,36900,10,32%,250920,18%,Raod
+US549,Santiago F Moua,United States,US,Chicago,Male,Asian,B2B,Office Equipment,Printer,10374,27300,17,39%,283101,18%,Air
+US550,Layla Collins,United States,US,Austin,Female,Caucasian,B2B,Home Appliance,Vacuum Cleaner,1377,5100,12,45%,33660,18%,Air
+US551,Jaxon Powell,United States,US,Austin,Male,Caucasian,B2C,Office Equipment,Desktop,12247,33100,2,9%,60242,18%,Air
+US552,Naomi Washington,United States,US,Austin,Female,Caucasian,B2C,Office Equipment,Telephone,264,1200,3,10%,3240,18%,Air
+US553,Ryan Holmes,United States,US,Columbus,Male,Caucasian,B2C,Office Equipment,Oven,7092,19700,1,7%,18321,18%,Air
+US554,Bella Holmes,United States,US,Miami,Female,Caucasian,B2B,Home Appliance,Vacuum Cleaner,899,3100,47,48%,75764,18%,Air
+BR119,Hailey Sanchez,Brazil,BR,Manaus,Female,Latino,B2C,Office Equipment,Desktop,3224,12400,1,0%,12400,18%,Air
+CH192,Sofia Yoon,China,CH,Shanghai,Female,Asian,B2C,Home Appliance,Fridge,18810,49500,2,12%,87120,18%,Air
+CH193,Eli Rahman,China,CH,Chengdu,Male,Asian,B2C,Office Equipment,Mircowave,3751,12100,2,8%,22264,18%,Air
+US555,Christopher Howard,United States,US,Seattle,Male,Caucasian,B2C,Home Appliance,Oven,2560,12800,2,10%,23040,18%,Air
+CH194,Alice Mehta,China,CH,Beijing,Female,Asian,B2C,Home Appliance,TV,21960,109800,2,7%,204228,18%,Air
+US556,Cooper Yoon,United States,US,Austin,Male,Asian,B2B,Home Appliance,Mircowave,1232,5600,12,31%,46368,18%,Air
+US557,John Delgado,United States,US,Austin,Male,Latino,B2B,Office Equipment,Telephone,682,2200,23,48%,26312,18%,Air
+US558,Jaxson Liang,United States,US,Phoenix,Male,Asian,B2B,Office Equipment,Mircowave,4170,13900,32,50%,222400,18%,Air
+BR120,Caroline Santos,Brazil,BR,Sao Paulo,Female,Latino,B2C,Home Appliance,TV,30186,116100,1,13%,101007,18%,Air
+US559,Lily Henderson,United States,US,Phoenix,Female,Caucasian,B2C,Office Equipment,Printer,5214,23700,2,4%,45504,18%,Air
+US560,Hannah Martinez,United States,US,Miami,Female,Latino,B2C,Home Appliance,Mircowave,1560,5200,2,8%,9568,18%,Air
+US561,William Phillips,United States,US,Austin,Male,Black,B2C,Office Equipment,Desktop,6540,21800,1,13%,18966,18%,Air
+CH195,Eliza Zheng,China,CH,Chongqing,Female,Asian,B2C,Home Appliance,Air Purifier,6944,21700,1,4%,20832,18%,Air
+CH196,John Dang,China,CH,Chongqing,Male,Asian,B2B,Home Appliance,Oven,4738,20600,36,38%,459792,18%,Raod
+CH197,Joshua Yang,China,CH,Shanghai,Male,Asian,B2C,Home Appliance,Mircowave,3800,9500,1,3%,9215,18%,Air
+US562,Hazel Young,United States,US,Austin,Female,Black,B2B,Office Equipment,Laptop,20007,51300,16,30%,574560,18%,Air
+CH198,Thomas Jung,China,CH,Shanghai,Male,Asian,B2C,Office Equipment,Laptop,9269,29900,2,4%,57408,18%,Air
+BR121,Xavier Perez,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Office Equipment,Desktop,9760,24400,3,6%,68808,18%,Air
+US563,Elijah Coleman,United States,US,Miami,Male,Caucasian,B2C,Home Appliance,waching machine,7800,30000,2,15%,51000,28%,Air
+BR122,Clara Sanchez,Brazil,BR,Rio de Janerio,Female,Latino,B2B,Office Equipment,Printer,4460,22300,11,44%,137368,18%,Air
+US564,Isaac Stewart,United States,US,Miami,Male,Caucasian,B2C,Home Appliance,Mircowave,1518,6600,3,0%,19800,18%,Air
+BR123,Claire Romero,Brazil,BR,Manaus,Female,Latino,B2C,Home Appliance,Oven,4900,17500,2,0%,35000,18%,Air
+US565,Andrew Coleman,United States,US,Miami,Male,Caucasian,B2C,Office Equipment,Laptop,11853,43900,1,5%,41705,18%,Air
+BR124,Riley Rojas,Brazil,BR,Rio de Janerio,Female,Latino,B2C,Home Appliance,Oven,2889,10700,3,2%,31458,18%,Air
+US566,Landon Thao,United States,US,Phoenix,Male,Asian,B2C,Home Appliance,TV,23679,87700,3,11%,234159,18%,Air
+US567,Hadley Ford,United States,US,Chicago,Female,Caucasian,B2C,Home Appliance,Dishwasher,10605,50500,1,1%,49995,18%,Air
+US568,Austin Brown,United States,US,Phoenix,Male,Caucasian,B2C,Home Appliance,Air Purifier,11910,39700,1,13%,34539,18%,Air
+CH199,Christian Fong,China,CH,Beijing,Male,Asian,B2C,Home Appliance,Dishwasher,15246,46200,3,14%,119196,18%,Air
+BR125,Hazel Alvarez,Brazil,BR,Sao Paulo,Female,Latino,B2C,Office Equipment,Mircowave,4224,12800,2,4%,24576,18%,Air
+US569,Isabella Bailey,United States,US,Phoenix,Female,Caucasian,B2B,Office Equipment,Mircowave,1092,5200,19,47%,52364,18%,Air
+CH200,Lincoln Huynh,China,CH,Chongqing,Male,Asian,B2C,Home Appliance,Fridge,3510,13000,2,5%,24700,18%,Air
+US570,Hadley Yee,United States,US,Seattle,Female,Asian,B2C,Office Equipment,Oven,7067,19100,2,1%,37818,18%,Air
+US571,Julia Doan,United States,US,Columbus,Female,Asian,B2B,Home Appliance,Air Purifier,8624,39200,44,35%,1121120,18%,Air
+US572,Dylan Ali,United States,US,Phoenix,Male,Asian,B2C,Home Appliance,TV,59200,185000,3,6%,521700,18%,Air
+US573,Eloise Trinh,United States,US,Miami,Female,Asian,B2C,Home Appliance,Dishwasher,12840,32100,2,11%,57138,18%,Air
+CH201,Dylan Kumar,China,CH,Chongqing,Male,Asian,B2C,Home Appliance,AC,33592,129200,2,13%,224808,28%,Air
+US574,Emily Gupta,United States,US,Miami,Female,Asian,B2B,Office Equipment,Oven,5845,16700,47,38%,486638,18%,Air
+US575,Silas Rivera,United States,US,Chicago,Male,Latino,B2C,Office Equipment,Mircowave,5640,14100,3,5%,40185,18%,Air
+US576,Jackson Jordan,United States,US,Phoenix,Male,Black,B2B,Office Equipment,Mircowave,2573,8300,29,33%,161269,18%,Air
+US577,Isaac Joseph,United States,US,Seattle,Male,Caucasian,B2C,Office Equipment,Desktop,7296,19200,1,9%,17472,18%,Air
+CH202,Hailey Lai,China,CH,Beijing,Female,Asian,B2C,Home Appliance,waching machine,7616,22400,2,1%,44352,28%,Air
+US578,Leilani Thao,United States,US,Seattle,Female,Asian,B2C,Home Appliance,TV,38255,109300,2,15%,185810,18%,Air
+US579,Madeline Watson,United States,US,Miami,Female,Black,B2C,Home Appliance,TV,29075,116300,2,1%,230274,18%,Air
+US580,Silas Huang,United States,US,Miami,Male,Asian,B2B,Home Appliance,Mircowave,3654,12600,42,39%,322812,18%,Air
+US581,Peyton Walker,United States,US,Miami,Female,Caucasian,B2B,Office Equipment,Printer,6804,32400,22,48%,370656,18%,Air
+US582,Jeremiah Hernandez,United States,US,Columbus,Male,Latino,B2C,Home Appliance,Mircowave,2744,9800,2,14%,16856,18%,Air
+US583,Jace Washington,United States,US,Phoenix,Male,Caucasian,B2C,Home Appliance,Vacuum Cleaner,1360,4000,1,10%,3600,18%,Air
+US584,Landon Kim,United States,US,Phoenix,Male,Asian,B2C,Home Appliance,Fridge,8760,36500,3,6%,102930,18%,Air
+US585,Peyton Vasquez,United States,US,Phoenix,Female,Latino,B2C,Office Equipment,Printer,16672,52100,1,7%,48453,18%,Air
+US586,Charlotte Baker,United States,US,Austin,Female,Caucasian,B2C,Home Appliance,Mircowave,1225,4900,3,10%,13230,18%,Air
+BR126,Elena Mendoza,Brazil,BR,Sao Paulo,Female,Latino,B2C,Home Appliance,TV,43962,129300,1,10%,116370,18%,Air
+US587,Nova Lin,United States,US,Columbus,Female,Asian,B2C,Home Appliance,Oven,3068,11800,1,1%,11682,18%,Air
+CH203,Ivy Desai,China,CH,Shanghai,Female,Asian,B2C,Home Appliance,Vacuum Cleaner,1652,5900,1,15%,5015,18%,Air
+BR127,Josephine Acosta,Brazil,BR,Manaus,Female,Latino,B2C,Office Equipment,Telephone,1189,4100,1,8%,3772,18%,Air
+BR128,Nora Nunez,Brazil,BR,Sao Paulo,Female,Latino,B2C,Home Appliance,waching machine,15314,58900,2,11%,104842,28%,Air
+US588,Caleb Xiong,United States,US,Chicago,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,1085,3500,3,0%,10500,18%,Air
+US589,Henry Green,United States,US,Phoenix,Male,Caucasian,B2C,Office Equipment,Desktop,9230,35500,1,4%,34080,18%,Air
+US590,Madelyn Chan,United States,US,Phoenix,Female,Asian,B2C,Home Appliance,Dishwasher,6825,27300,1,15%,23205,18%,Air
+US591,Angel Delgado,United States,US,Seattle,Male,Latino,B2B,Home Appliance,waching machine,20254,77900,19,42%,858458,28%,Air
+BR129,Mia Herrera,Brazil,BR,Manaus,Female,Latino,B2C,Home Appliance,waching machine,17955,51300,1,15%,43605,28%,Air
+US592,Peyton Harris,United States,US,Miami,Female,Caucasian,B2C,Office Equipment,Mircowave,4125,12500,3,3%,36375,18%,Air
+BR130,David Herrera,Brazil,BR,Rio de Janerio,Male,Latino,B2B,Home Appliance,TV,41120,102800,18,49%,943704,18%,Air
+BR131,Avery Dominguez,Brazil,BR,Rio de Janerio,Female,Latino,B2B,Office Equipment,Telephone,775,2500,10,45%,13750,18%,Air
+US593,Grace Carter,United States,US,Austin,Female,Black,B2C,Office Equipment,Telephone,750,2500,2,6%,4700,18%,Air
+US594,Parker Allen,United States,US,Miami,Male,Caucasian,B2C,Office Equipment,Telephone,324,1200,2,10%,2160,18%,Air
+CH204,Sadie Lee,China,CH,Chengdu,Female,Asian,B2C,Office Equipment,Printer,11025,31500,1,9%,28665,18%,Air
+BR132,Cooper Valdez,Brazil,BR,Sao Paulo,Male,Latino,B2C,Office Equipment,Coffee Vender Machin,21867,59100,2,3%,114654,18%,Air
+US595,Sebastian Fong,United States,US,Austin,Male,Asian,B2C,Home Appliance,waching machine,23880,79600,3,1%,236412,28%,Air
+US596,Roman Munoz,United States,US,Austin,Male,Latino,B2C,Home Appliance,waching machine,20298,59700,3,15%,152235,28%,Air
+US597,Charlotte Chang,United States,US,Chicago,Female,Asian,B2C,Office Equipment,Oven,5206,13700,3,2%,40278,18%,Air
+US598,Xavier Davis,United States,US,Seattle,Male,Caucasian,B2B,Home Appliance,Mircowave,3968,12400,41,43%,289788,18%,Air
+US599,Natalie Carter,United States,US,Austin,Female,Caucasian,B2C,Office Equipment,Telephone,630,2100,1,13%,1827,18%,Air
+US600,Elena Richardson,United States,US,Columbus,Female,Caucasian,B2B,Home Appliance,Air Purifier,6183,22900,34,40%,467160,18%,Air
+US601,Emilia Bailey,United States,US,Austin,Female,Caucasian,B2C,Office Equipment,Laptop,14720,73600,2,3%,142784,18%,Air
+US602,Ryan Lu,United States,US,Columbus,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,693,3300,2,3%,6402,18%,Air
+US603,Asher Huynh,United States,US,Phoenix,Male,Asian,B2C,Home Appliance,AC,25896,66400,2,13%,115536,28%,Air
+BR133,Kinsley Martinez,Brazil,BR,Sao Paulo,Female,Latino,B2C,Home Appliance,Oven,5539,19100,1,5%,18145,18%,Air
+US604,Paisley Bryant,United States,US,Chicago,Female,Black,B2C,Office Equipment,Oven,6045,15500,1,13%,13485,18%,Air
+BR134,Joshua Ramirez,Brazil,BR,Sao Paulo,Male,Latino,B2B,Office Equipment,Printer,9165,23500,14,42%,190820,18%,Air
+US605,Joshua Martin,United States,US,Phoenix,Male,Black,B2C,Office Equipment,Coffee Vender Machin,25665,88500,3,6%,249570,18%,Air
+US606,Charles Moore,United States,US,Seattle,Male,Caucasian,B2B,Home Appliance,Vacuum Cleaner,1976,5200,33,50%,85800,18%,Air
+CH205,Angel Do,China,CH,Beijing,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,2040,5100,1,14%,4386,18%,Air
+US607,Maverick Medina,United States,US,Seattle,Male,Latino,B2C,Home Appliance,Vacuum Cleaner,1320,4000,1,13%,3480,18%,Air
+US608,Isaac Han,United States,US,Phoenix,Male,Asian,B2C,Home Appliance,Dishwasher,18432,51200,1,4%,49152,18%,Air
+CH206,Eliza Liang,China,CH,Beijing,Female,Asian,B2C,Office Equipment,Telephone,600,3000,1,5%,2850,18%,Air
+CH207,Zoe Zhou,China,CH,Beijing,Female,Asian,B2C,Office Equipment,Mircowave,1071,5100,1,12%,4488,18%,Air
+US609,Nathan Lee,United States,US,Columbus,Male,Asian,B2B,Home Appliance,TV,63104,197200,15,50%,1479000,18%,Air
+BR135,Elijah Ramos,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Office Equipment,Coffee Vender Machin,17115,48900,1,13%,42543,18%,Air
+US610,Jaxson Coleman,United States,US,Miami,Male,Caucasian,B2C,Home Appliance,Mircowave,2992,8800,2,6%,16544,18%,Air
+US611,Hailey Hong,United States,US,Chicago,Female,Asian,B2C,Office Equipment,Mircowave,1520,7600,2,4%,14592,18%,Air
+CH208,Gabriella Zhu,China,CH,Chongqing,Female,Asian,B2C,Office Equipment,Coffee Vender Machin,23080,57700,1,3%,55969,18%,Air
+US612,Aaron Maldonado,United States,US,Seattle,Male,Latino,B2B,Office Equipment,Telephone,651,3100,25,41%,45725,18%,Air
+BR136,Samantha Vargas,Brazil,BR,Sao Paulo,Female,Latino,B2B,Home Appliance,Oven,7220,19000,26,38%,306280,18%,Air
+US613,Nora Le,United States,US,Seattle,Female,Asian,B2C,Home Appliance,TV,9870,28200,2,15%,47940,18%,Air
+US614,Alice Roberts,United States,US,Miami,Female,Caucasian,B2C,Office Equipment,Telephone,1110,3000,3,3%,8730,18%,Air
+US615,Colton Garcia,United States,US,Miami,Male,Latino,B2B,Home Appliance,Dishwasher,10170,33900,25,36%,542400,18%,Air
+US616,Stella Lai,United States,US,Miami,Female,Asian,B2B,Office Equipment,Oven,3060,8500,12,33%,68340,18%,Air
+US617,Leonardo Luong,United States,US,Phoenix,Male,Asian,B2C,Office Equipment,Laptop,18044,69400,1,1%,68706,18%,Air
+US618,Nicholas Wong,United States,US,Columbus,Male,Asian,B2C,Home Appliance,Air Purifier,9628,33200,3,4%,95616,18%,Air
+US619,Jeremiah Castillo,United States,US,Columbus,Male,Latino,B2B,Home Appliance,AC,18108,50300,39,47%,1039701,28%,Air
+CH209,Cooper Jiang,China,CH,Chongqing,Male,Asian,B2C,Home Appliance,Dishwasher,12705,38500,2,14%,66220,18%,Air
+US620,Penelope Silva,United States,US,Columbus,Female,Latino,B2B,Office Equipment,Oven,2140,10700,37,32%,269212,18%,Air
+US621,Jose Richardson,United States,US,Miami,Male,Caucasian,B2C,Office Equipment,Printer,15906,48200,1,4%,46272,18%,Air
+US622,Eleanor Chau,United States,US,Phoenix,Female,Asian,B2B,Home Appliance,TV,50505,129500,23,42%,1727530,18%,Air
+CH210,John Cho,China,CH,Chengdu,Male,Asian,B2C,Office Equipment,Mircowave,4384,13700,1,11%,12193,18%,Air
+BR137,Julian Delgado,Brazil,BR,Rio de Janerio,Male,Latino,B2C,Home Appliance,Fridge,14685,44500,3,8%,122820,18%,Air
+US623,Isabella Scott,United States,US,Phoenix,Female,Caucasian,B2B,Office Equipment,Laptop,18864,78600,44,37%,2178792,18%,Air
+BR138,Parker Avila,Brazil,BR,Manaus,Male,Latino,B2C,Office Equipment,Mircowave,2048,6400,2,12%,11264,18%,Air
+CH211,Luke Vu,China,CH,Shanghai,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,1715,4900,2,11%,8722,18%,Air
+US624,Jameson Nelson,United States,US,Columbus,Male,Caucasian,B2C,Home Appliance,Dishwasher,14476,51700,2,4%,99264,18%,Air
+US625,Adrian Fernandez,United States,US,Columbus,Male,Latino,B2B,Home Appliance,Mircowave,3234,14700,24,39%,215208,18%,Air
+US626,Madison Hunter,United States,US,Columbus,Female,Caucasian,B2B,Home Appliance,AC,33552,93200,26,41%,1429688,28%,Air
+US627,Jordan Phillips,United States,US,Columbus,Male,Black,B2C,Office Equipment,Laptop,20000,62500,3,12%,165000,18%,Air
+CH212,Maya Chan,China,CH,Beijing,Female,Asian,B2C,Home Appliance,Fridge,19280,48200,3,0%,144600,18%,Air
+US628,Wesley King,United States,US,Chicago,Male,Caucasian,B2C,Office Equipment,Oven,7272,20200,2,4%,38784,18%,Air
+US629,Sofia Fernandez,United States,US,Phoenix,Female,Latino,B2C,Office Equipment,Laptop,7380,36900,2,2%,72324,18%,Air
+US630,Maverick Figueroa,United States,US,Chicago,Male,Latino,B2C,Home Appliance,Fridge,6916,18200,2,4%,34944,18%,Air
+CH213,Hannah Hoang,China,CH,Chengdu,Female,Asian,B2C,Home Appliance,Dishwasher,11585,33100,1,14%,28466,18%,Air
+US631,Violet Garcia,United States,US,Austin,Female,Latino,B2C,Home Appliance,TV,38070,126900,2,8%,233496,18%,Air
+US632,Aaliyah Mai,United States,US,Phoenix,Female,Asian,B2C,Home Appliance,Vacuum Cleaner,1888,5900,1,8%,5428,18%,Air
+CH214,Austin Vang,China,CH,Beijing,Male,Asian,B2C,Home Appliance,Dishwasher,13472,42100,2,10%,75780,18%,Air
+CH215,Maria Sun,China,CH,Chengdu,Female,Asian,B2C,Home Appliance,Dishwasher,13858,53300,1,5%,50635,18%,Air
+US633,Madelyn Scott,United States,US,Phoenix,Female,Caucasian,B2C,Office Equipment,Desktop,3366,10200,3,10%,27540,18%,Air
+US634,Dylan Chin,United States,US,Miami,Male,Asian,B2C,Office Equipment,Oven,2680,6700,3,15%,17085,18%,Air
+CH216,Emery Zhang,China,CH,Beijing,Female,Asian,B2C,Home Appliance,TV,16410,54700,3,11%,146049,18%,Air
+US635,Riley Washington,United States,US,Phoenix,Female,Caucasian,B2C,Office Equipment,Telephone,1440,4800,3,13%,12528,18%,Air
+US636,Raelynn Rios,United States,US,Columbus,Female,Latino,B2C,Home Appliance,TV,28941,87700,1,10%,78930,18%,Air
+US637,Anthony Hong,United States,US,Columbus,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,1976,5200,2,0%,10400,18%,Air
+BR139,Leo Herrera,Brazil,BR,Manaus,Male,Latino,B2C,Home Appliance,TV,51003,188900,3,0%,566700,18%,Air
+US638,Robert Wright,United States,US,Chicago,Male,Caucasian,B2C,Office Equipment,Desktop,10218,26200,2,13%,45588,18%,Air
+US639,Audrey Richardson,United States,US,Chicago,Female,Caucasian,B2C,Home Appliance,Mircowave,4321,14900,2,2%,29204,18%,Air
+US640,Scarlett Kumar,United States,US,Columbus,Female,Asian,B2C,Home Appliance,Air Purifier,6716,29200,2,0%,58400,18%,Air
+US641,Wesley Young,United States,US,Columbus,Male,Caucasian,B2C,Office Equipment,Laptop,7917,37700,1,14%,32422,18%,Air
+CH217,Lillian Khan,China,CH,Chengdu,Female,Asian,B2C,Office Equipment,Telephone,966,4200,3,7%,11718,18%,Air
+US642,Oliver Yang,United States,US,Miami,Male,Asian,B2C,Home Appliance,Mircowave,2414,7100,1,15%,6035,18%,Air
+CH218,Lily Nguyen,China,CH,Chengdu,Female,Asian,B2C,Office Equipment,Mircowave,1120,5600,1,3%,5432,18%,Air
+US643,Sofia Cheng,United States,US,Miami,Female,Asian,B2C,Office Equipment,Printer,8740,23000,1,4%,22080,18%,Air
+IN1,Abhinay Yadav,India,IN,Mumbai,Male,Asian,B2B,Office Equipment,Telephone,1344,4200,42,34%,116424,18%,Road
+IN2,Ajinkya Singh,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Laptop,21924,75600,3,14%,195048,18%,Road
+IN3,Ashwin Yadav,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Laptop,10878,51800,1,1%,51282,18%,Road
+IN4,Amey Singh,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Air Purifier,7660,38300,1,9%,34853,18%,Road
+IN5,Bhushan Kumar,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,19030,86500,3,6%,243930,18%,Road
+IN6,Chandrakant Sharma,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,13250,53000,3,6%,149460,18%,Road
+IN7,Chaitanya Sharma,India,IN,Gurgaon,Male,Asian,B2C,Home Appliance,waching machine,17784,46800,3,4%,134784,28%,Road
+IN8,Chinmay Sharma,India,IN,New Delhi,Male,Asian,B2B,Home Appliance,Mircowave,1300,5000,17,42%,49300,18%,Road
+IN9,Gajanan Mishra,India,IN,Gurgaon,Male,Asian,B2B,Home Appliance,Oven,4836,18600,12,30%,156240,18%,Road
+IN10,Gandharv Singh,India,IN,Mumbai,Male,Asian,B2C,Home Appliance,Dishwasher,13224,34800,2,14%,59856,18%,Road
+IN11,Harshal Singh,India,IN,Bangalore,Male,Asian,B2C,Office Equipment,Oven,2109,5700,3,0%,17100,18%,Train
+IN12,Harshavardhan Tiwari,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Laptop,27750,75000,2,3%,145500,18%,Road
+IN13,Lavnik Kumar,India,IN,Mumbai,Male,Asian,B2C,Office Equipment,Laptop,8554,32900,1,3%,31913,18%,Road
+IN14,Mandar Mishra,India,IN,Noida,Male,Asian,B2C,Home Appliance,Air Purifier,5635,24500,1,14%,21070,18%,Road
+IN15,Mirajkar Yadav,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Mircowave,3286,10600,2,1%,20988,18%,Road
+IN16,Mayur Sharma,India,IN,New Delhi,Male,Asian,B2B,Home Appliance,TV,45279,167700,49,36%,5259072,18%,Road
+IN17,Neeraj Yadav,India,IN,Mumbai,Male,Asian,B2C,Home Appliance,AC,14688,45900,1,3%,44523,28%,Road
+IN18,Neerav Tiwari,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Desktop,12606,38200,2,15%,64940,18%,Road
+IN19,Nishant Yadav,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Telephone,441,2100,3,5%,5985,18%,Road
+IN20,Nitin Sharma,India,IN,Gurgaon,Male,Asian,B2B,Home Appliance,Fridge,7704,21400,29,31%,428214,18%,Road
+IN21,Nivant Sharma,India,IN,Gurgaon,Male,Asian,B2C,Home Appliance,Dishwasher,11186,32900,1,10%,29610,18%,Road
+IN22,Pranay Sharma,India,IN,Pune,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,1296,4800,1,0%,4800,18%,Road
+IN23,Punit Sharma,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,924,3300,2,5%,6270,18%,Road
+IN24,Pratap Mishra,India,IN,Chennai,Male,Asian,B2B,Office Equipment,Oven,1738,7900,16,45%,69520,18%,Road
+IN25,Prathamesh Kumar,India,IN,Mumbai,Male,Asian,B2B,Home Appliance,TV,8128,25400,22,35%,363220,18%,Train
+IN26,Pushkar Mishra,India,IN,Gurgaon,Male,Asian,B2C,Home Appliance,Air Purifier,14858,43700,3,12%,115368,18%,Road
+IN27,Prathit Singh,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Mircowave,2460,12300,1,3%,11931,18%,Road
+IN28,Prahas Mishra,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Telephone,264,1100,2,7%,2046,18%,Road
+IN29,Prajnan Sharma,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Fridge,9880,26000,2,5%,49400,18%,Road
+IN30,Prithvij Yadav,India,IN,Gurgaon,Male,Asian,B2C,Home Appliance,waching machine,15575,44500,2,9%,80990,28%,Road
+IN31,Praruj Mishra,India,IN,Mumbai,Male,Asian,B2C,Home Appliance,waching machine,8880,24000,3,8%,66240,28%,Train
+IN32,Prathu Yadav,India,IN,New Delhi,Male,Asian,B2B,Office Equipment,Coffee Vender Machin,11976,49900,37,46%,997002,18%,Road
+IN33,Pruthviraj Tiwari,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,waching machine,17790,59300,2,14%,101996,28%,Road
+IN34,Pushpraj Kumar,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Oven,3480,8700,3,14%,22446,18%,Road
+IN35,Rujul Sharma,India,IN,Mumbai,Male,Asian,B2C,Office Equipment,Telephone,840,4000,3,5%,11400,18%,Air
+IN36,Qayumnoor Mohd,India,IN,Mumbai,Male,Asian,B2B,Office Equipment,Oven,2088,5800,40,46%,125280,18%,Train
+IN37,Mohdnajim,India,IN,Pune,Male,Asian,B2C,Home Appliance,Oven,4228,15100,1,15%,12835,18%,Road
+IN38,Farizuddin Mohd,India,IN,New Delhi,Male,Asian,B2B,Home Appliance,TV,65175,197500,36,40%,4266000,18%,Road
+IN39,Haasim Meer,India,IN,Gurgaon,Male,Asian,B2B,Home Appliance,TV,22264,96800,20,48%,1006720,18%,Road
+IN40,Aaftab Mirza,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,AC,21632,67600,1,8%,62192,28%,Road
+IN41,Ghaalib Faruqui,India,IN,Mumbai,Male,Asian,B2C,Home Appliance,AC,49810,146500,1,1%,145035,28%,Train
+IN42,Adib Khan,India,IN,Bangalore,Male,Asian,B2B,Home Appliance,Mircowave,5476,14800,22,31%,224664,18%,Road
+IN43,Jabeer Malik,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Laptop,9198,43800,3,14%,113004,18%,Road
+IN44,Mohdshawaiz,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Dishwasher,14070,46900,2,14%,80668,18%,Road
+IN45,Mohd S Ali,India,IN,Pune,Male,Asian,B2C,Office Equipment,Laptop,4592,16400,1,0%,16400,18%,Air
+IN46,Mohd Jamil,India,IN,Mumbai,Male,Asian,B2C,Home Appliance,AC,16797,50900,2,13%,88566,28%,Road
+IN47,Mohd Irfan Alam,India,IN,New Delhi,Male,Asian,B2B,Office Equipment,Oven,3540,11800,22,35%,168740,18%,Road
+IN48,Fadil Mirza,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Laptop,12744,47200,1,12%,41536,18%,Road
+IN49,Lochan Alfonso,India,IN,New Delhi,Female,Latino,B2C,Home Appliance,Vacuum Cleaner,1521,3900,1,8%,3588,18%,Road
+IN50,Natalie Batista,India,IN,New Delhi,Female,Latino,B2C,Office Equipment,Oven,2240,7000,3,4%,20160,18%,Road
+IN51,Cassandra Batista,India,IN,Gurgaon,Female,Black,B2C,Office Equipment,Oven,2720,8000,1,8%,7360,18%,Road
+IN52,Xantara Correia,India,IN,Noida,Female,Black,B2C,Home Appliance,AC,49644,137900,3,7%,384741,28%,Road
+IN53,Alice Alfonso,India,IN,New Delhi,Female,Black,B2C,Office Equipment,Printer,9240,44000,2,0%,88000,18%,Road
+IN54,Valencia Batista,India,IN,Pune,Female,Black,B2C,Office Equipment,Oven,3000,12000,1,7%,11160,18%,Train
+IN55,Lisa Alfonso,India,IN,New Delhi,Female,Caucasian,B2C,Office Equipment,Printer,13764,37200,3,9%,101556,18%,Road
+IN56,Xandra Alberto,India,IN,Gurgaon,Female,Caucasian,B2B,Office Equipment,Mircowave,3000,12500,42,32%,357000,18%,Road
+IN57,Kylie Batista,India,IN,Noida,Female,Caucasian,B2B,Home Appliance,Oven,3354,8600,47,50%,202100,18%,Road
+IN58,Adele Alfonso,India,IN,Bangalore,Female,Black,B2B,Office Equipment,Telephone,320,1000,11,41%,6490,18%,Train
+IN59,Xandra D’Costa,India,IN,Bangalore,Female,Black,B2C,Office Equipment,Oven,3597,10900,3,1%,32373,18%,Train
+IN60,Amaya Correia,India,IN,New Delhi,Female,Black,B2C,Home Appliance,Fridge,12555,40500,1,14%,34830,18%,Road
+IN61,Kaylee Batista,India,IN,Noida,Female,Black,B2C,Office Equipment,Laptop,19170,71000,1,6%,66740,18%,Road
+IN62,Xantara D’Costa,India,IN,Mumbai,Female,Caucasian,B2C,Home Appliance,TV,30910,140500,2,10%,252900,18%,Train
+IN63,Addison D’Costa,India,IN,Gurgaon,Female,Caucasian,B2C,Home Appliance,TV,36212,164600,1,8%,151432,18%,Road
+IN64,Zara Batista,India,IN,New Delhi,Female,Caucasian,B2C,Home Appliance,waching machine,30303,81900,1,10%,73710,28%,Road
+IN65,Vanessa Alfonso,India,IN,Noida,Female,Caucasian,B2C,Home Appliance,waching machine,10560,32000,2,8%,58880,28%,Road
+IN66,Jasmine Batista,India,IN,Mumbai,Female,Latino,B2C,Office Equipment,Laptop,20950,83800,2,9%,152516,18%,Road
+IN67,Anastasia Alfonso,India,IN,New Delhi,Female,Latino,B2B,Home Appliance,Dishwasher,7756,27700,18,32%,339048,18%,Road
+IN68,Adele Correia,India,IN,Gurgaon,Female,Latino,B2B,Office Equipment,Coffee Vender Machin,15190,49000,20,32%,666400,18%,Road
+IN69,Zarria Alberto,India,IN,Mumbai,Female,Black,B2C,Office Equipment,Laptop,6624,18400,2,5%,34960,18%,Road
+IN70,Annika D’Costa,India,IN,Bangalore,Female,Black,B2C,Office Equipment,Printer,10593,32100,2,8%,59064,18%,Train
+IN71,Adina Alberto,India,IN,Gurgaon,Female,Black,B2C,Home Appliance,AC,43475,117500,3,11%,313725,28%,Road
+IN72,Yutika Verma,India,IN,Chennai,Female,Asian,B2C,Home Appliance,Mircowave,2480,8000,1,2%,7840,18%,Rail
+IN73,Priya Birla,India,IN,Chennai,Female,Asian,B2C,Home Appliance,Vacuum Cleaner,1040,4000,3,14%,10320,18%,Rail
+IN74,Varenya Ojha,India,IN,Mumbai,Female,Asian,B2B,Home Appliance,Dishwasher,9064,41200,34,41%,826472,18%,Train
+IN75,Dayamai Bhatia,India,IN,Bangalore,Female,Asian,B2C,Office Equipment,Desktop,11873,38300,3,5%,109155,18%,Air
+IN76,Raksha Mahto,India,IN,New Delhi,Female,Asian,B2C,Home Appliance,TV,4500,12500,3,0%,37500,18%,Road
+IN77,Waida Birla,India,IN,Mumbai,Female,Asian,B2C,Home Appliance,Vacuum Cleaner,900,4500,1,7%,4185,18%,Train
+IN78,Zinal Kumari,India,IN,Noida,Female,Asian,B2C,Office Equipment,Telephone,616,2800,3,6%,7896,18%,Road
+IN79,Gayathri Kapoor,India,IN,Gurgaon,Female,Asian,B2B,Home Appliance,Mircowave,2664,11100,47,47%,276501,18%,Road
+IN80,Ladli Thakur,India,IN,New Delhi,Female,Asian,B2C,Home Appliance,TV,13593,59100,3,4%,170208,18%,Road
+IN81,Hiral Gandhi,India,IN,Mumbai,Female,Asian,B2B,Home Appliance,Vacuum Cleaner,1548,4300,47,47%,107113,18%,Road
+IN82,Netra Ojha,India,IN,New Delhi,Female,Asian,B2C,Office Equipment,Desktop,3013,13100,1,7%,12183,18%,Road
+IN83,Falak Thakur,India,IN,Bangalore,Female,Asian,B2C,Office Equipment,Telephone,1023,3300,2,11%,5874,18%,Train
+IN84,Pavani Ojha,India,IN,Gurgaon,Female,Asian,B2C,Home Appliance,Oven,4403,11900,3,11%,31773,18%,Road
+IN85,Varenya Goyal,India,IN,New Delhi,Female,Asian,B2C,Office Equipment,Telephone,720,1800,1,14%,1548,18%,Road
+IN86,Priya Goyal,India,IN,New Delhi,Female,Asian,B2C,Home Appliance,Dishwasher,19617,50300,2,6%,94564,18%,Road
+IN87,Hema Singh,India,IN,New Delhi,Female,Asian,B2C,Home Appliance,TV,25480,127400,2,11%,226772,18%,Road
+IN88,Eiravati Devi,India,IN,Gurgaon,Female,Asian,B2C,Office Equipment,Mircowave,1430,6500,3,1%,19305,18%,Road
+IN89,Adya Kapoor,India,IN,Gurgaon,Female,Asian,B2C,Office Equipment,Mircowave,2940,14000,3,2%,41160,18%,Road
+IN90,Rajeshri Sharma,India,IN,Pune,Female,Asian,B2C,Home Appliance,Air Purifier,12045,36500,1,5%,34675,18%,Road
+IN91,Hemani Kapoor,India,IN,Gurgaon,Female,Asian,B2B,Office Equipment,Coffee Vender Machin,19392,80800,17,40%,824160,18%,Road
+IN92,Watika Gandhi,India,IN,New Delhi,Female,Asian,B2C,Home Appliance,waching machine,15656,41200,1,12%,36256,28%,Road
+IN93,Vansha Goyal,India,IN,New Delhi,Female,Asian,B2C,Home Appliance,Vacuum Cleaner,990,4500,3,3%,13095,18%,Road
+IN94,Rachana Sharma,India,IN,Gurgaon,Female,Asian,B2C,Office Equipment,Laptop,7623,36300,1,6%,34122,18%,Road
+IN95,Krisha Thakur,India,IN,Chennai,Female,Asian,B2C,Home Appliance,TV,28368,118200,3,0%,354600,18%,Road
+IN96,Ekani Goyal,India,IN,Bangalore,Female,Asian,B2C,Office Equipment,Coffee Vender Machin,25606,82600,1,15%,70210,18%,Road
+IN97,Tripti Birla,India,IN,New Delhi,Female,Asian,B2C,Home Appliance,TV,42734,185800,3,1%,551826,18%,Road
+IN98,Omya Thakur,India,IN,Pune,Female,Asian,B2C,Office Equipment,Laptop,13090,59500,2,5%,113050,18%,Train
+IN99,Hemangini Birla,India,IN,Mumbai,Female,Asian,B2C,Office Equipment,Telephone,1216,3200,2,9%,5824,18%,Train
+IN100,Bhavini Gandhi,India,IN,New Delhi,Female,Asian,B2C,Office Equipment,Printer,7808,24400,3,14%,62952,18%,Road
+IN101,Pavani Goyal,India,IN,New Delhi,Female,Asian,B2C,Home Appliance,AC,14794,56900,2,8%,104696,28%,Road
+IN102,Kashish Mahto,India,IN,Mumbai,Female,Asian,B2C,Home Appliance,waching machine,8050,23000,3,6%,64860,28%,Road
+IN103,Arya Verma,India,IN,Gurgaon,Female,Asian,B2C,Office Equipment,Telephone,798,2100,1,7%,1953,18%,Road
+IN104,Kashish Goyal,India,IN,Mumbai,Female,Asian,B2C,Home Appliance,Fridge,3696,13200,3,15%,33660,18%,Road
+IN105,Hemani Kumari,India,IN,Chennai,Female,Asian,B2C,Home Appliance,Oven,2088,8700,3,2%,25578,18%,Road
+IN106,Widisha Gandhi,India,IN,Mumbai,Female,Asian,B2C,Home Appliance,Oven,4464,18600,2,14%,31992,18%,Train
+IN107,Ucchal Gandhi,India,IN,Gurgaon,Female,Asian,B2C,Office Equipment,Oven,4524,15600,2,3%,30264,18%,Road
+IN108,Varenya Bhatia,India,IN,Chennai,Female,Asian,B2C,Home Appliance,TV,36720,102000,1,3%,98940,18%,Rail
+IN109,Gayathri Dhawan,India,IN,New Delhi,Female,Asian,B2C,Home Appliance,Mircowave,1728,4800,1,13%,4176,18%,Road
+IN110,Waida Gandhi,India,IN,Noida,Female,Asian,B2C,Office Equipment,Coffee Vender Machin,17892,63900,1,1%,63261,18%,Road
+IN111,Upadhriti Singh,India,IN,Pune,Female,Asian,B2C,Office Equipment,Laptop,17979,46100,3,12%,121704,18%,Air
+IN112,Warda Arora,India,IN,New Delhi,Female,Asian,B2C,Office Equipment,Telephone,840,4000,3,13%,10440,18%,Road
+IN113,Xalak Bhatia,India,IN,Mumbai,Female,Asian,B2C,Home Appliance,Fridge,17312,54100,3,3%,157431,18%,Road
+IN114,Lajita Dhawan,India,IN,New Delhi,Female,Asian,B2C,Office Equipment,Telephone,744,3100,3,15%,7905,18%,Road
+IN115,Nidra Arora,India,IN,Pune,Female,Asian,B2C,Office Equipment,Printer,3224,12400,3,9%,33852,18%,Air
+IN116,Zinal Mahto,India,IN,Gurgaon,Female,Asian,B2C,Home Appliance,Air Purifier,9405,28500,1,13%,24795,18%,Road
+IN117,Taadeel Siddique,India,IN,Mumbai,Female,Asian,B2C,Office Equipment,Mircowave,987,4700,3,13%,12267,18%,Train
+IN118,Chaabou Naaz,India,IN,New Delhi,Female,Asian,B2B,Home Appliance,TV,19652,57800,24,37%,873936,18%,Road
+IN119,Mahreen Bano,India,IN,Mumbai,Female,Asian,B2C,Office Equipment,Laptop,15300,45000,2,14%,77400,18%,Air
+IN120,Qaifa Shaikh,India,IN,Gurgaon,Female,Asian,B2C,Home Appliance,TV,31750,127000,3,2%,373380,18%,Road
+IN121,Abreshmina Saify,India,IN,Bangalore,Female,Asian,B2C,Home Appliance,waching machine,21760,54400,2,12%,95744,28%,Road
+IN122,Dilara Ansari,India,IN,Chennai,Female,Asian,B2B,Office Equipment,Printer,12214,39400,41,49%,823854,18%,Air
+IN123,Qamar Khan,India,IN,Pune,Female,Asian,B2C,Home Appliance,Fridge,6075,22500,1,14%,19350,18%,Road
+IN124,Taalah Shaikh,India,IN,Mumbai,Female,Asian,B2C,Office Equipment,Mircowave,1722,8200,1,3%,7954,18%,Train
+IN125,Ghayda Ansari,India,IN,New Delhi,Female,Asian,B2B,Home Appliance,Fridge,16731,50700,47,41%,1405911,18%,Road
+IN126,Ibtihal Siddique,India,IN,Chennai,Female,Asian,B2C,Office Equipment,Mircowave,2368,6400,1,10%,5760,18%,Road
+IN127,Ruqayya Saify,India,IN,New Delhi,Female,Asian,B2C,Home Appliance,Fridge,21960,54900,1,14%,47214,18%,Road
+IN128,Qiraat Khan,India,IN,New Delhi,Female,Asian,B2C,Home Appliance,Vacuum Cleaner,1365,3500,3,8%,9660,18%,Road
+IN129,Sadiqah Saify,India,IN,New Delhi,Female,Asian,B2C,Home Appliance,Mircowave,3404,9200,2,6%,17296,18%,Road
+IN130,Habi Siddique,India,IN,New Delhi,Female,Asian,B2C,Office Equipment,Oven,3480,8700,2,12%,15312,18%,Road
+IN131,Paksima Shaikh,India,IN,New Delhi,Female,Asian,B2C,Home Appliance,waching machine,11832,49300,1,13%,42891,28%,Road
+IN132,Safina Bano,India,IN,Noida,Female,Asian,B2C,Home Appliance,TV,44857,144700,2,1%,286506,18%,Road
+IN133,Abiya Khan,India,IN,Mumbai,Female,Asian,B2C,Office Equipment,Oven,2794,12700,1,7%,11811,18%,Train
+IN134,Kadira Khan,India,IN,Bangalore,Female,Asian,B2C,Office Equipment,Laptop,5688,23700,3,11%,63279,18%,Train
+IN135,Laiha Ansari,India,IN,New Delhi,Female,Asian,B2C,Home Appliance,Oven,4202,19100,3,0%,57300,18%,Road
+IN136,Baalat-Sahra Khan,India,IN,Bangalore,Female,Asian,B2C,Home Appliance,Mircowave,5109,13100,1,1%,12969,18%,Road
+IN137,Haiza Shaikh,India,IN,New Delhi,Female,Asian,B2C,Home Appliance,Dishwasher,5580,27900,2,1%,55242,18%,Road
+IN138,Rafat Naaz,India,IN,Bangalore,Female,Asian,B2C,Office Equipment,Desktop,3638,10700,2,3%,20758,18%,Road
+IN139,Qabool Khan,India,IN,Mumbai,Female,Asian,B2C,Home Appliance,Mircowave,3002,7900,2,1%,15642,18%,Train
+IN140,Sajida Khan,India,IN,New Delhi,Female,Asian,B2B,Office Equipment,Coffee Vender Machin,22572,68400,11,35%,489060,18%,Road
+IN141,Sadiah Saify,India,IN,Gurgaon,Female,Asian,B2B,Home Appliance,Oven,5177,16700,27,49%,229959,18%,Road
+IN142,Bushra Khan,India,IN,Gurgaon,Female,Asian,B2C,Office Equipment,Telephone,1457,4700,1,9%,4277,18%,Road
+IN143,Zahidasultana Naaz,India,IN,Gurgaon,Female,Asian,B2C,Office Equipment,Printer,7416,20600,3,8%,56856,18%,Road
+IN144,Azadeh Siddique,India,IN,Mumbai,Female,Asian,B2C,Office Equipment,Oven,5688,15800,1,7%,14694,18%,Road
+IN145,Lat Khan,India,IN,New Delhi,Female,Asian,B2B,Home Appliance,Mircowave,4118,14200,34,37%,304164,18%,Road
+IN146,Nafiah Saify,India,IN,New Delhi,Female,Asian,B2C,Home Appliance,TV,23736,103200,1,14%,88752,18%,Road
+IN147,Shabah Siddique,India,IN,Noida,Female,Asian,B2C,Home Appliance,Vacuum Cleaner,1092,5200,2,2%,10192,18%,Road
+IN148,Naaima Khan,India,IN,Mumbai,Female,Asian,B2C,Home Appliance,AC,19872,82800,3,14%,213624,28%,Road
+IN149,Saabiha Siddique,India,IN,Bangalore,Female,Asian,B2C,Home Appliance,Mircowave,1225,4900,2,1%,9702,18%,Train
+IN150,Mabrura Siddique,India,IN,Bangalore,Female,Asian,B2C,Office Equipment,Desktop,13392,43200,3,10%,116640,18%,Train
+IN151,Nahleejah Naaz,India,IN,Mumbai,Female,Asian,B2C,Office Equipment,Desktop,10296,26400,2,15%,44880,18%,Air
+IN152,Huma Saify,India,IN,New Delhi,Female,Asian,B2C,Office Equipment,Coffee Vender Machin,24570,63000,3,5%,179550,18%,Road
+IN153,Safura Shaikh,India,IN,New Delhi,Female,Asian,B2C,Home Appliance,Oven,2550,8500,1,11%,7565,18%,Road
+IN154,Abhinay Singh,India,IN,Chennai,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,1221,3700,1,8%,3404,18%,Road
+IN155,Ajinkya Sharma,India,IN,Gurgaon,Male,Asian,B2C,Home Appliance,waching machine,10458,49800,3,7%,138942,28%,Road
+IN156,Ashwin Sharma,India,IN,Mumbai,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,25270,72200,1,0%,72200,18%,Train
+IN157,Amey Mishra,India,IN,Pune,Male,Asian,B2C,Home Appliance,Mircowave,3996,14800,1,13%,12876,18%,Road
+IN158,Bhushan Mishra,India,IN,Noida,Male,Asian,B2B,Home Appliance,Oven,3424,10700,43,33%,308267,18%,Road
+IN159,Chandrakant Mishra,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Mircowave,1800,7500,1,6%,7050,18%,Road
+IN160,Chaitanya Mishra,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,waching machine,23136,72300,2,0%,144600,28%,Road
+IN161,Chinmay Mishra,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Oven,2825,11300,1,13%,9831,18%,Road
+IN162,Gajanan Singh,India,IN,New Delhi,Male,Asian,B2B,Home Appliance,Vacuum Cleaner,936,3600,20,33%,48240,18%,Road
+IN163,Gandharv Mishra,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Laptop,15750,75000,2,6%,141000,18%,Road
+IN164,Harshal Tiwari,India,IN,Bangalore,Male,Asian,B2C,Office Equipment,Laptop,22144,69200,3,12%,182688,18%,Train
+IN165,Harshavardhan Sharma,India,IN,Mumbai,Male,Asian,B2B,Home Appliance,Dishwasher,13290,44300,24,49%,542232,18%,Train
+IN166,Lavnik Kumar,India,IN,Gurgaon,Male,Asian,B2B,Home Appliance,Oven,2035,5500,28,46%,83160,18%,Road
+IN167,Mandar Singh,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Mircowave,2400,10000,3,5%,28500,18%,Road
+IN168,Mirajkar Sharma,India,IN,Pune,Male,Asian,B2B,Home Appliance,Vacuum Cleaner,1080,4000,39,45%,85800,18%,Train
+IN169,Mayur Kumar,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,14850,49500,3,6%,139590,18%,Road
+IN170,Neeraj Yadav,India,IN,Noida,Male,Asian,B2C,Office Equipment,Laptop,4488,20400,2,4%,39168,18%,Road
+IN171,Neerav Yadav,India,IN,Noida,Male,Asian,B2C,Home Appliance,waching machine,11360,28400,1,7%,26412,28%,Road
+IN172,Nishant Yadav,India,IN,Noida,Male,Asian,B2C,Home Appliance,Fridge,7152,29800,1,3%,28906,18%,Road
+IN173,Nitin Kumar,India,IN,Noida,Male,Asian,B2B,Home Appliance,Dishwasher,9734,31400,45,35%,918450,18%,Road
+IN174,Nivant Tiwari,India,IN,Chennai,Male,Asian,B2C,Home Appliance,TV,32816,117200,1,9%,106652,18%,Air
+IN175,Pranay Kumar,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Desktop,2592,10800,2,8%,19872,18%,Road
+IN176,Punit Yadav,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Printer,14934,39300,3,3%,114363,18%,Road
+IN177,Pratap Mishra,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Fridge,11211,30300,2,1%,59994,18%,Road
+IN178,Prathamesh Mishra,India,IN,Mumbai,Male,Asian,B2C,Office Equipment,Printer,6882,18600,1,15%,15810,18%,Train
+IN179,Pushkar Yadav,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Air Purifier,15440,38600,1,9%,35126,18%,Road
+IN180,Prathit Tiwari,India,IN,Chennai,Male,Asian,B2C,Office Equipment,Laptop,7596,21100,3,9%,57603,18%,Air
+IN181,Prahas Mishra,India,IN,Gurgaon,Male,Asian,B2C,Home Appliance,Dishwasher,11388,29200,2,4%,56064,18%,Road
+IN182,Prajnan Sharma,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,waching machine,9386,24700,2,3%,47918,28%,Road
+IN183,Prithvij Tiwari,India,IN,Noida,Male,Asian,B2C,Home Appliance,Oven,2664,7400,3,7%,20646,18%,Road
+IN184,Praruj Mishra,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Laptop,8360,38000,2,12%,66880,18%,Road
+IN185,Prathu Sharma,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,waching machine,22626,83800,3,13%,218718,28%,Road
+IN186,Pruthviraj Mishra,India,IN,Pune,Male,Asian,B2C,Office Equipment,Laptop,5208,24800,1,3%,24056,18%,Air
+IN187,Pushpraj Mishra,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Desktop,4640,11600,2,0%,23200,18%,Road
+IN188,Rujul Yadav,India,IN,Noida,Male,Asian,B2C,Home Appliance,Oven,3074,10600,2,9%,19292,18%,Road
+IN189,Sirak Sharma,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Fridge,14508,37200,3,2%,109368,18%,Road
+IN190,Sankalp Singh,India,IN,Pune,Male,Asian,B2C,Home Appliance,Dishwasher,11798,34700,2,7%,64542,18%,Train
+IN191,Sanket Tiwari,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Air Purifier,8711,28100,3,10%,75870,18%,Road
+IN192,Shantanu Kumar,India,IN,Chennai,Male,Asian,B2C,Home Appliance,Oven,7030,18500,1,15%,15725,18%,Rail
+IN193,Shashank Sharma,India,IN,Noida,Male,Asian,B2C,Office Equipment,Telephone,1080,3000,3,0%,9000,18%,Road
+IN194,Siddhesh Tiwari,India,IN,Mumbai,Male,Asian,B2C,Home Appliance,Dishwasher,10854,40200,1,10%,36180,18%,Road
+IN195,Sarvesh Mishra,India,IN,Pune,Male,Asian,B2C,Home Appliance,Oven,4810,18500,2,2%,36260,18%,Road
+IN196,Subhash Kumar,India,IN,New Delhi,Male,Asian,B2B,Office Equipment,Printer,17885,51100,44,30%,1573880,18%,Road
+IN197,Sushil Sharma,India,IN,Noida,Male,Asian,B2C,Office Equipment,Telephone,851,2300,3,9%,6279,18%,Road
+IN198,Swapnil Tiwari,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Air Purifier,8180,40900,2,3%,79346,18%,Road
+IN199,Tushar Tiwari,India,IN,New Delhi,Male,Asian,B2B,Home Appliance,Mircowave,4930,14500,47,46%,368010,18%,Road
+IN200,Vasant Tiwari,India,IN,Chennai,Male,Asian,B2C,Office Equipment,Desktop,5966,15700,2,15%,26690,18%,Rail
+IN201,Vijay Yadav,India,IN,Noida,Male,Asian,B2B,Home Appliance,TV,44459,193300,22,48%,2211352,18%,Road
+IN202,Vishal Yadav,India,IN,Pune,Male,Asian,B2C,Office Equipment,Oven,1664,6400,1,5%,6080,18%,Road
+IN203,Vivek Singh,India,IN,Mumbai,Male,Asian,B2C,Office Equipment,Laptop,6324,20400,3,11%,54468,18%,Air
+IN204,Aarsh Yadav,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Oven,2204,7600,1,11%,6764,18%,Road
+IN205,Amish Sharma,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Printer,11400,47500,2,14%,81700,18%,Road
+IN206,Batuk Kumar,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,12168,50700,2,12%,89232,18%,Road
+IN207,Bhavesh Singh,India,IN,Noida,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,18653,81100,3,1%,240867,18%,Road
+IN208,Bhavik Sharma,India,IN,Chennai,Male,Asian,B2C,Home Appliance,Oven,7315,20900,2,6%,39292,18%,Rail
+IN209,Bhavin Mishra,India,IN,Mumbai,Male,Asian,B2C,Home Appliance,Air Purifier,12363,31700,3,14%,81786,18%,Road
+IN210,Chintan Sharma,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Mircowave,2950,11800,2,1%,23364,18%,Road
+IN211,Chirayu Mishra,India,IN,Chennai,Male,Asian,B2B,Home Appliance,waching machine,5587,15100,38,36%,367232,28%,Rail
+IN212,Daiwik Yadav,India,IN,Noida,Male,Asian,B2C,Home Appliance,Dishwasher,17080,42700,1,3%,41419,18%,Road
+IN213,Daksh Sharma,India,IN,Bangalore,Male,Asian,B2C,Office Equipment,Desktop,8680,31000,3,1%,92070,18%,Road
+IN214,Darsh Mishra,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Fridge,17320,43300,3,2%,127302,18%,Road
+IN215,Deval Yadav,India,IN,Bangalore,Male,Asian,B2C,Home Appliance,AC,31825,127300,1,4%,122208,28%,Train
+IN216,Dhaval Mishra,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,22925,65500,3,3%,190605,18%,Road
+IN217,Dharmesh Kumar,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,AC,26450,105800,3,14%,272964,28%,Road
+IN218,Ernesh Tiwari,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Laptop,15240,63500,1,3%,61595,18%,Road
+IN219,Falgun Sharma,India,IN,Mumbai,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,1222,4700,2,1%,9306,18%,Road
+IN220,Fenil Sharma,India,IN,Bangalore,Male,Asian,B2C,Home Appliance,TV,10925,43700,2,1%,86526,18%,Train
+IN221,Girish Yadav,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,TV,12728,34400,2,9%,62608,18%,Road
+IN222,Hemendra Singh,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Desktop,4017,10300,2,9%,18746,18%,Road
+IN223,Herik Kumar,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Mircowave,1485,5500,3,3%,16005,18%,Road
+IN224,Himesh Kumar,India,IN,Bangalore,Male,Asian,B2C,Home Appliance,Oven,4396,15700,3,1%,46629,18%,Road
+IN225,Ishanyu Sharma,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,22960,65600,3,9%,179088,18%,Road
+IN226,Jignesh Kumar,India,IN,Gurgaon,Male,Asian,B2C,Home Appliance,Oven,4884,14800,1,1%,14652,18%,Road
+IN227,Jigar Singh,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Air Purifier,6804,25200,3,10%,68040,18%,Road
+IN228,Jigisu Tiwari,India,IN,Mumbai,Male,Asian,B2B,Home Appliance,AC,40136,138400,35,34%,3197040,28%,Train
+IN229,Joshil Tiwari,India,IN,Pune,Male,Asian,B2C,Home Appliance,Oven,4553,15700,2,14%,27004,18%,Train
+IN230,Jatin Sharma,India,IN,Noida,Male,Asian,B2C,Home Appliance,waching machine,21386,57800,1,2%,56644,28%,Road
+IN231,Jayesh Singh,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,22400,64000,2,9%,116480,18%,Road
+IN232,Kundan Sharma,India,IN,Chennai,Male,Asian,B2C,Office Equipment,Desktop,4928,22400,3,14%,57792,18%,Road
+IN233,Kunjan Tiwari,India,IN,Pune,Male,Asian,B2B,Office Equipment,Telephone,560,1400,45,38%,39060,18%,Air
+IN234,Kirat Sharma,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,19108,56200,1,6%,52828,18%,Road
+IN235,Kirti Tiwari,India,IN,Mumbai,Male,Asian,B2C,Home Appliance,Dishwasher,11324,29800,3,11%,79566,18%,Road
+IN236,Mukund Tiwari,India,IN,Noida,Male,Asian,B2C,Home Appliance,Mircowave,1224,5100,3,0%,15300,18%,Road
+IN237,Munjal Tiwari,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Telephone,1026,3800,1,6%,3572,18%,Road
+IN238,Mitesh Tiwari,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,12475,49900,2,5%,94810,18%,Road
+IN239,Mahesh Tiwari,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,AC,17985,54500,1,13%,47415,28%,Road
+IN240,Mahindra Tiwari,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,waching machine,19318,74300,3,6%,209526,28%,Road
+IN241,Mansukh Sharma,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Dishwasher,11744,36700,2,4%,70464,18%,Road
+IN242,Naman Yadav,India,IN,Noida,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,33966,91800,2,13%,159732,18%,Road
+IN243,Naresh Sharma,India,IN,Pune,Male,Asian,B2B,Home Appliance,waching machine,17329,55900,47,42%,1523834,28%,Road
+IN244,Navin Mishra,India,IN,Chennai,Male,Asian,B2C,Office Equipment,Printer,13857,44700,3,9%,122031,18%,Rail
+IN245,Neel Yadav,India,IN,Chennai,Male,Asian,B2C,Home Appliance,Air Purifier,6453,23900,2,15%,40630,18%,Road
+IN246,Nikesh Tiwari,India,IN,Noida,Male,Asian,B2C,Home Appliance,waching machine,12557,43300,2,7%,80538,28%,Road
+IN247,Nikunj Sharma,India,IN,Bangalore,Male,Black,B2C,Home Appliance,Dishwasher,11592,41400,1,3%,40158,18%,Road
+IN248,Nilesh Yadav,India,IN,New Delhi,Male,Black,B2C,Home Appliance,Dishwasher,11590,30500,2,9%,55510,18%,Road
+IN249,Nimish Sharma,India,IN,New Delhi,Male,Black,B2C,Office Equipment,Coffee Vender Machin,32674,96100,2,2%,188356,18%,Road
+IN250,Paresh Tiwari,India,IN,New Delhi,Male,Black,B2B,Office Equipment,Laptop,19344,80600,14,30%,789880,18%,Road
+IN251,Ramesh Sharma,India,IN,Noida,Male,Black,B2C,Office Equipment,Telephone,1833,4700,1,0%,4700,18%,Road
+IN252,Sudhir Tiwari,India,IN,Gurgaon,Male,Asian,B2C,Home Appliance,waching machine,16527,78700,2,10%,141660,28%,Road
+IN253,Sunil Singh,India,IN,Noida,Male,Asian,B2C,Home Appliance,Mircowave,3537,13100,3,5%,37335,18%,Road
+IN254,Mohd Sayed,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Mircowave,2542,8200,3,12%,21648,18%,Road
+IN255,Mohd Nazil,India,IN,Chennai,Male,Asian,B2C,Home Appliance,Fridge,5928,22800,2,10%,41040,18%,Rail
+IN256,Faarooq Meer,India,IN,Bangalore,Male,Asian,B2B,Home Appliance,Oven,7254,18600,10,31%,128340,18%,Road
+IN257,Mohd Rizvi,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Desktop,4920,24600,2,4%,47232,18%,Road
+IN258,Mohd  Nadeem,India,IN,Mumbai,Male,Asian,B2C,Home Appliance,waching machine,17252,45400,2,3%,88076,28%,Road
+IN259,Mohdjaafar,India,IN,Mumbai,Male,Asian,B2C,Home Appliance,AC,37230,109500,1,2%,107310,28%,Road
+IN260,Mohd G Aasi,India,IN,Gurgaon,Male,Asian,B2C,Home Appliance,AC,55965,143500,1,14%,123410,28%,Road
+IN261,Mohd Haseem,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Oven,4646,20200,1,2%,19796,18%,Road
+IN262,Mohd Shabir,India,IN,Chennai,Male,Asian,B2B,Office Equipment,Printer,7150,28600,19,32%,369512,18%,Rail
+IN263,Mohdjahid,India,IN,Noida,Male,Asian,B2B,Office Equipment,Mircowave,1575,6300,25,43%,89775,18%,Road
+IN264,Mohd S Nadeem,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Mircowave,2166,5700,2,1%,11286,18%,Road
+IN265,Mohd Shamsher,India,IN,Mumbai,Male,Asian,B2C,Office Equipment,Mircowave,2205,10500,2,14%,18060,18%,Train
+IN266,Mohd Akhlaq,India,IN,Mumbai,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,10450,47500,1,3%,46075,18%,Road
+IN267,Mohd Farooq,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,14940,49800,1,13%,43326,18%,Road
+IN268,Mohd Saleem Siddique,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,AC,56680,141700,1,13%,123279,28%,Road
+IN269,Noobhar Mohd,India,IN,Noida,Male,Asian,B2C,Office Equipment,Oven,5542,16300,2,13%,28362,18%,Road
+IN270,Mohd Naeem,India,IN,Chennai,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,26016,81300,3,7%,226827,18%,Road
+IN271,Mohd Swaleh,India,IN,Mumbai,Male,Asian,B2B,Home Appliance,Oven,6460,17000,15,47%,135150,18%,Train
+IN272,Mohd Wasimuddin,India,IN,New Delhi,Male,Asian,B2B,Office Equipment,Telephone,1092,4200,28,35%,76440,18%,Road
+IN273,Mohd  Hashim,India,IN,Pune,Male,Asian,B2C,Office Equipment,Mircowave,3225,12900,2,12%,22704,18%,Train
+IN274,Mohd Jaheer Ansari,India,IN,Pune,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,744,3100,3,7%,8649,18%,Road
+IN275,Faakhir Chaudhry,India,IN,Mumbai,Male,Asian,B2C,Home Appliance,Mircowave,2835,10500,3,15%,26775,18%,Train
+IN276,Mohdirshad,India,IN,Gurgaon,Male,Asian,B2C,Home Appliance,AC,45458,133700,2,11%,237986,28%,Road
+IN277,Sayyed Mohd Gufran,India,IN,Chennai,Male,Asian,B2C,Office Equipment,Laptop,21504,67200,3,12%,177408,18%,Air
+IN278,Mohd  Vakil,India,IN,Gurgaon,Male,Asian,B2C,Home Appliance,Oven,2170,6200,3,11%,16554,18%,Road
+IN279,Mohdrehanfaisal,India,IN,Mumbai,Male,Asian,B2C,Home Appliance,Oven,4191,12700,2,15%,21590,18%,Train
+IN280,Mohdmogis,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Fridge,10160,50800,2,4%,97536,18%,Road
+IN281,Mohd. Shakil Khokhar,India,IN,Mumbai,Male,Asian,B2C,Home Appliance,Fridge,7992,22200,2,5%,42180,18%,Train
+IN282,Mohd F Ansari,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Oven,4120,10300,1,10%,9270,18%,Road
+IN283,Mohd Nizam,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,29757,76300,3,13%,199143,18%,Road
+IN284,Mohd Fakhraullah,India,IN,Bangalore,Male,Asian,B2C,Home Appliance,Air Purifier,6194,16300,3,14%,42054,18%,Train
+IN285,Baasim Malik,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,17416,62200,3,1%,184734,18%,Road
+IN286,Mohd Safi,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Telephone,1392,4800,1,4%,4608,18%,Road
+IN287,Mohd Javed Choudhary,India,IN,Chennai,Male,Asian,B2C,Office Equipment,Laptop,16281,60300,2,9%,109746,18%,Air
+IN288,Mohd Farook,India,IN,Gurgaon,Male,Asian,B2B,Office Equipment,Oven,1728,7200,33,44%,133056,18%,Road
+IN289,Mohd   Furquan,India,IN,Gurgaon,Male,Asian,B2B,Office Equipment,Telephone,1568,4900,13,44%,35672,18%,Road
+IN290,Haakim Khan,India,IN,Pune,Male,Asian,B2C,Home Appliance,waching machine,6368,19900,1,4%,19104,28%,Train
+IN291,Chafik Siddique,India,IN,Mumbai,Male,Asian,B2C,Office Equipment,Oven,4278,18600,3,13%,48546,18%,Road
+IN292,Faeem Malik,India,IN,Mumbai,Male,Asian,B2B,Home Appliance,waching machine,14607,54100,37,31%,1381173,28%,Train
+IN293,Mohd Muntajir,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Oven,3848,14800,3,5%,42180,18%,Road
+IN294,Daanish Khan,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,AC,33920,84800,1,6%,79712,28%,Road
+IN295,Mohd  Asim,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,15466,70300,2,15%,119510,18%,Road
+IN296,Mohd Mohibuddin,India,IN,Noida,Male,Asian,B2C,Home Appliance,AC,18088,53200,3,7%,148428,28%,Road
+IN297,Eijaz Malik,India,IN,New Delhi,Male,Asian,B2B,Home Appliance,Oven,4712,12400,25,48%,161200,18%,Road
+IN298,Mohdjameel,India,IN,Chennai,Male,Asian,B2C,Home Appliance,waching machine,21930,64500,1,6%,60630,28%,Rail
+IN299,Mohd Afzaal,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Oven,5291,14300,2,0%,28600,18%,Road
+IN300,Mohdirfan,India,IN,Chennai,Male,Asian,B2C,Home Appliance,Mircowave,2074,6100,2,4%,11712,18%,Road
+IN301,Mohd Nimatullah,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Oven,2828,10100,3,4%,29088,18%,Road
+IN302,Mohdintakhab,India,IN,Chennai,Male,Asian,B2B,Home Appliance,Oven,3060,9000,27,40%,145800,18%,Road
+IN303,Aakif Saify,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Printer,17440,43600,3,5%,124260,18%,Road
+IN304,Akil Mohd,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,AC,38046,111900,3,1%,332343,28%,Road
+IN305,Faeem Faruqui,India,IN,Mumbai,Male,Asian,B2C,Office Equipment,Mircowave,2124,5900,3,7%,16461,18%,Train
+IN306,Mohd Rahish,India,IN,Mumbai,Male,Asian,B2B,Home Appliance,TV,8316,29700,40,43%,677160,18%,Air
+IN307,Mohd Naseem Khan,India,IN,Noida,Male,Asian,B2C,Office Equipment,Telephone,1334,4600,3,11%,12282,18%,Road
+IN308,Sayed Mohd Naved,India,IN,Mumbai,Male,Asian,B2C,Office Equipment,Mircowave,1512,5600,1,4%,5376,18%,Road
+IN309,Mohd.  Sanwar,India,IN,Gurgaon,Male,Asian,B2B,Home Appliance,Dishwasher,14949,45300,19,40%,516420,18%,Road
+IN310,Riyazuddinmohd Gani,India,IN,Noida,Male,Asian,B2C,Home Appliance,Dishwasher,11748,35600,2,7%,66216,18%,Road
+IN311,Fadil Hussain,India,IN,Chennai,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,1254,5700,1,1%,5643,18%,Rail
+IN312,Mohd Shazid,India,IN,Chennai,Male,Asian,B2C,Home Appliance,Air Purifier,7410,19500,2,12%,34320,18%,Rail
+IN313,Mohdsaddam,India,IN,Pune,Male,Asian,B2C,Home Appliance,Oven,4324,18800,1,7%,17484,18%,Road
+IN314,Mohd Shakil Anshri,India,IN,Noida,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,1320,3300,1,15%,2805,18%,Road
+IN315,Sajjadmohd,India,IN,New Delhi,Male,Asian,B2B,Home Appliance,Vacuum Cleaner,1656,4600,45,42%,120060,18%,Road
+IN316,Liban Mirza,India,IN,Gurgaon,Male,Asian,B2B,Home Appliance,AC,32955,84500,22,33%,1245530,28%,Road
+IN317,Aafaaq Meer,India,IN,Chennai,Male,Asian,B2C,Home Appliance,waching machine,21420,59500,1,1%,58905,28%,Rail
+IN318,Mohd Mahboob,India,IN,Gurgaon,Male,Asian,B2B,Office Equipment,Desktop,3500,12500,18,32%,153000,18%,Road
+IN319,Mohddanishfarhan,India,IN,Noida,Male,Asian,B2C,Office Equipment,Mircowave,1679,7300,2,10%,13140,18%,Road
+IN320,Mohd Sajeed Sheikh,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Oven,2340,6000,3,8%,16560,18%,Road
+IN321,Mohd Hamid,India,IN,Mumbai,Male,Asian,B2C,Office Equipment,Telephone,840,3000,2,11%,5340,18%,Road
+IN322,Mohdirfan  Shaikh ,India,IN,Mumbai,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,12408,56400,2,3%,109416,18%,Train
+IN323,Mohdhafeez,India,IN,Mumbai,Male,Black,B2C,Office Equipment,Mircowave,2856,8400,2,9%,15288,18%,Train
+IN324,Parvez Hussain,India,IN,New Delhi,Male,Black,B2C,Office Equipment,Printer,8242,31700,3,2%,93198,18%,Road
+IN325,Mohdaslam,India,IN,Bangalore,Male,Black,B2C,Office Equipment,Coffee Vender Machin,19481,84700,3,8%,233772,18%,Train
+IN326,Mohd Qayyoom,India,IN,Pune,Male,Black,B2B,Office Equipment,Printer,9664,30200,38,31%,791844,18%,Train
+IN327,Niyaz  Mohd ,India,IN,Noida,Male,Black,B2C,Home Appliance,Vacuum Cleaner,819,3900,1,15%,3315,18%,Road
+IN328,Gafur Chaudhry,India,IN,Chennai,Male,Asian,B2B,Office Equipment,Oven,2516,6800,33,39%,136884,18%,Road
+IN329,Javedmohd Muheeb,India,IN,Chennai,Male,Asian,B2C,Office Equipment,Desktop,16416,43200,2,2%,84672,18%,Rail
+IN330,Mohd  Meruf,India,IN,Gurgaon,Male,Asian,B2C,Office Equipment,Desktop,7880,19700,3,13%,51417,18%,Road
+IN331,Diya Al Din Saify,India,IN,Mumbai,Male,Asian,B2C,Home Appliance,waching machine,6512,17600,2,4%,33792,28%,Train
+IN332,Mohd Shariq,India,IN,Gurgaon,Male,Asian,B2B,Home Appliance,Dishwasher,8897,28700,23,42%,382858,18%,Road
+IN333,Mohd Jawad Hajati,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Air Purifier,8736,22400,3,12%,59136,18%,Road
+IN334,Ekram Ansari,India,IN,New Delhi,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,18970,54200,3,10%,146340,18%,Road
+IN335,Mohd Saqir,India,IN,Chennai,Male,Asian,B2C,Home Appliance,Vacuum Cleaner,1155,5500,1,12%,4840,18%,Road
+IN336,Mohd Tazim,India,IN,Mumbai,Male,Asian,B2C,Office Equipment,Coffee Vender Machin,27234,80100,3,6%,225882,18%,Train
+IN337,Mohd Nasim,India,IN,Mumbai,Male,Asian,B2C,Home Appliance,Air Purifier,8397,31100,3,5%,88635,18%,Road
+IN338,Mohdzakir,India,IN,Bangalore,Male,Asian,B2B,Office Equipment,Telephone,435,1500,38,30%,39900,18%,Train
+IN339,Riyazuddin Mohd,India,IN,Noida,Male,Asian,B2C,Home Appliance,Dishwasher,11036,35600,3,13%,92916,18%,Road
+IN340,Mohd Tariq,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,Mircowave,1275,5100,1,6%,4794,18%,Road
+IN341,Ayub Mohd,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,TV,35553,169300,3,0%,507900,18%,Road
+IN342,Mohd Rukandin,India,IN,Gurgaon,Male,Black,B2C,Office Equipment,Coffee Vender Machin,19296,80400,3,6%,226728,18%,Road
+IN343,Daanish Shaikh,India,IN,New Delhi,Male,Black,B2C,Office Equipment,Telephone,300,1200,1,4%,1152,18%,Road
+IN344,Mohd M Kajalwala,India,IN,New Delhi,Male,Black,B2C,Office Equipment,Oven,1680,7000,2,3%,13580,18%,Road
+IN345,Mohdubaidraza,India,IN,New Delhi,Male,Black,B2C,Home Appliance,AC,42780,138000,2,3%,267720,28%,Road
+IN346,Mohdajim,India,IN,Mumbai,Male,Black,B2C,Home Appliance,Mircowave,3286,10600,3,15%,27030,18%,Road
+IN347,Mohd Chand Hashmi,India,IN,Chennai,Male,Asian,B2C,Office Equipment,Desktop,5024,15700,1,3%,15229,18%,Air
+IN348,Mohd Burhan,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,TV,25938,117900,3,10%,318330,18%,Road
+IN349,Nadir Mohd. .,India,IN,New Delhi,Male,Asian,B2C,Home Appliance,AC,22869,108900,2,3%,211266,28%,Road
+IN350,Gamal Malik,India,IN,Mumbai,Male,Asian,B2B,Office Equipment,Telephone,1215,4500,15,42%,39150,18%,Air
+IN351,Ghaazi Chaudhry,India,IN,New Delhi,Male,Asian,B2B,Office Equipment,Printer,6000,25000,10,31%,172500,18%,Road
